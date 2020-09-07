@@ -22,13 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucasmodrich
 github_username:  lucasmodrich
 
-show_excerpts: true
+#show_excerpts: false
+permalink: /:title
+paginate: 10
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
