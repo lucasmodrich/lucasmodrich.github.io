@@ -1,24 +1,14 @@
 ---
-
+layout: post
+cover: ''
+navigation: True
 title: The Modrich Blog - Travel, Stories, Experiences...
 date: 2008-04-04 10:10:34.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
-- europe
-- experiences
-- Laura
-- Lucas
-- modrich
-- south america
-- stories
-permalink: "/2008/04/04/the-modrich-blog-travel-stories-experiences/"
+tags: travel
+subclass: 'post tag-travel'
+logo: ''
+author: modrich
+categories: travel
 ---
 Welcome to The Modrich Blog.
 Here we want to share our travels, stories and experiences with anyone wanting to listen :)
