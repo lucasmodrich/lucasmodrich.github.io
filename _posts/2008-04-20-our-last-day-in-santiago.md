@@ -1,0 +1,27 @@
+---
+title: Our last day in Santiago
+date: 2008-04-20 10:57:33.000000000 +10:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog
+- Photos
+- Travel
+tags:
+- Chile
+- Santiago
+permalink: "/2008/04/20/our-last-day-in-santiago/"
+---
+[![]({{ site.baseurl }}/assets/images/chile-santiago-markets.jpg?w=300 "Chile - Santiago Markets")](http://modrich.wordpress.com/2008/04/20/our-last-day-in-santiago/chile-santiago-markets/)So today is our last day in Santiago. We started out by heading to the post office to send off a few post cards to family back home. Right next to the post office in the Plaza de Armas is a huge old church where we went to mass.
+
+From there we went onto the Marceto Centro (the central market) which is basically a cut down version of the Victoria Market in Melbourne.
+
+Next onto the Museum of Pre-Colombian times. This was great - a lot of history and really interesting artifacts to view from the Aztec, Mays & Inca times.
+
+Tonight were off for our last meal in Santiago, and a few drinks before an early flight to Lima, Peru tomorrow morning.
+
+Again, there are a few more pictures up in our Santiago gallery - enjoy :)
+
