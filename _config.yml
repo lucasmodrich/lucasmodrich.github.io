@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'The Modrich Travel Blog'
+description: "Stories and experiences from our occasional travels"
 
 short_url: 'lucasmodrich.github.io/blog/'
 #google_analytics: UA-69281367-1
