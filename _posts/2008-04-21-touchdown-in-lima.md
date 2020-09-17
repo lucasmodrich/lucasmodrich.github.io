@@ -1,18 +1,14 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Touchdown in Lima
 date: 2008-04-21 11:45:02.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
-- Lima
-- Peru
-permalink: "/2008/04/21/touchdown-in-lima/"
+tags: travel
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 [![]({{ site.baseurl }}/assets/images/peru-lima-dinner.jpg?w=225 "Peru - Lima dinner")](http://modrich.wordpress.com/2008/04/21/touchdown-in-lima/peru-lima-dinner/)So we flew out of Santiago this morning (bright and early) into Lima, Peru.
 

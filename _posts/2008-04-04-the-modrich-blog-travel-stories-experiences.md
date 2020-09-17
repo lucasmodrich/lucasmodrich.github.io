@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: 'assets/images/cover6.jpg'
-navigation: True
+cover: false
+navigation: true
 title: The Modrich Blog - Travel, Stories, Experiences...
 date: 2008-04-04 10:10:34.000000000 +11:00
 tags: travel
 subclass: 'post tag-travel'
-logo: 'assets/images/ghost.png'
+logo: false
 author: modrich
 categories: travel
 ---

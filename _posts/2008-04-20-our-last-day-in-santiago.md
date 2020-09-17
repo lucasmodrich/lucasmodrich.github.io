@@ -1,19 +1,14 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Our last day in Santiago
 date: 2008-04-20 10:57:33.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
-- Travel
-tags:
-- Chile
-- Santiago
-permalink: "/2008/04/20/our-last-day-in-santiago/"
+tags: travel
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 [![]({{ site.baseurl }}/assets/images/chile-santiago-markets.jpg?w=300 "Chile - Santiago Markets")](http://modrich.wordpress.com/2008/04/20/our-last-day-in-santiago/chile-santiago-markets/)So today is our last day in Santiago. We started out by heading to the post office to send off a few post cards to family back home. Right next to the post office in the Plaza de Armas is a huge old church where we went to mass.
 

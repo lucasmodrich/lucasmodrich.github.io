@@ -1,22 +1,16 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Hola! The trip begins.
 date: 2008-04-16 01:47:24.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
-- Chile
-- Honeymoon
-- Laura
-- Lucas
-- Santiago
-permalink: "/2008/04/16/hola-the-trip-begins/"
+tags: travel
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
+
 Hi all,
 
 After a reasonable, but long flight we touched down in Santiago yesterday afternoon (14th). After some sleep, we had our first dinner here, which consisted of a packet of Corn chips & a bottle of local red wine called ´Carmen´ - made the choice easy.
