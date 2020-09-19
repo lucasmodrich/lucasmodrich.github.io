@@ -13,7 +13,8 @@ logo: false
 author: modrich
 categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/chile-dusk-in-santiago.jpg?w=300 "Chile - Dusk in Santiago")](http://modrich.wordpress.com/2008/04/19/in-and-around-santiago/chile-dusk-in-santiago/)So we have settled our selves in and found our feet here in Santiago. We have managed to explore most of what the city has to offer (we think).
+![]({{ site.baseurl }}/assets/images/chile-dusk-in-santiago.jpg "Chile - Dusk in Santiago")
+So we have settled our selves in and found our feet here in Santiago. We have managed to explore most of what the city has to offer (we think).
 
 We have visited many of the beautiful old buildings (Churches, etc), as well as the various parks and gardens that are around the city.
 
