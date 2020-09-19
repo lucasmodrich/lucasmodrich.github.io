@@ -1,20 +1,18 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Pisco night
 date: 2008-04-22 14:30:14.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
-- Travel
 tags:
+- Travel
 - Lima
 - Peru
 - Pisco
-permalink: "/2008/04/22/pisco-night/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 [![]({{ site.baseurl }}/assets/images/peru-lima-sunset.jpg?w=300 "Peru - Lima sunset")](http://modrich.wordpress.com/2008/04/22/pisco-night/peru-lima-sunset/)After the first good sleep we have had in the last week or so - I think the jet lag has finally left us - we got out and explored the local area a bit.
 
