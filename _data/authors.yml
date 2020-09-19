@@ -1,8 +1,8 @@
-casper:
+modrich:
   username: modrich
   name: Lucas Modrich
   location: Victoria, Australia
-  url_full: http://lucasmodrich.github.io/modrich/
-  url: lucasmodrich.github.io/modrich
+  #url_full: http://lucasmodrich.github.io/modrich/
+  #url: lucasmodrich.github.io/modrich
   bio: A techie with a keen interest in travel, food and drink
   assets: assets/images/authors/modrich.png
