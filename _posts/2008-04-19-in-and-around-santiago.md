@@ -4,7 +4,10 @@ cover: false
 navigation: true
 title: In and around Santiago
 date: 2008-04-19 12:39:35.000000000 +10:00
-tags: travel
+tags: 
+- travel
+- Chile
+- Santiago
 subclass: 'post tag-travel'
 logo: false
 author: modrich
