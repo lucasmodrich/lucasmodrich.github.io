@@ -1,0 +1,71 @@
+---
+title: Istanbul Day 2 - Blue Mosque, Aya Sophia, Spice Bazaar, Taksim Square and Kebabs
+date: 2012-05-22 17:10:54.000000000 +10:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog
+- Travel
+tags:
+- Aya Sophia
+- Blue Mosque
+- Istanbul
+- Kebab
+- Laura
+- Lucas
+- Spice Bazaar
+- Taksim Square
+- Turkey
+permalink: "/2012/05/22/istanbul-day-2-blue-mosque-aya-sophia-spice-bazaar-taksim-square-and-kebabs/"
+---
+So our second full day in beautiful Istanbul has been packed with sight seeing - all the usual touristy places: The Blue Mosque, Aya Sophia, The Spice Bazaar, and Taksim Square (notably we are leaving the Grand Bazaar for a later day).
+
+Up and out reasonably early this morning our hotel is well positioned only a short walk to both the Blue Mosque and Aya Sophia. Up the hill and to the Blue Mosque first.
+
+Joining the hundreds of other tourists that had already made their way to the Mosque, you find yourself queuing to get through the doors. Inside the Mosque is beautiful - massive low hanging chandeliers light the large inside space. Patterned carpets decorate the floors throughout and are used to assist in alignment for prayer.
+
+After taking in the beauty of the Blue Mosque, it's a short walk across the square to the Aya Sophia. By the time we had arrived here a large queue had now formed - although we found it moved quickly. Buying our tickets and passing through the security screening we entered the grounds of the Aya Sophia. Entering the Aya Sophia reminded me of many of the large ancient cathedrals we have visited throughout Europe. Inside is a massive open area with huge ceiling frescos, and low hanging chandeliers.
+
+Upstairs contains some beautifully delicate mosaic frescos made up of thousands of tiny intricate tiles. Some of the mosaics have been damaged over time, but considering their age are actually remarkably well preserved.
+
+After the first two touristy sights now ticked off the list, we decided to walk the streets of Istanbul and headed deeper into Saltanahmet before turning towards the sea to locate the Spice Bazaar. Our wanderings took us up and down many different and diverse streets and lane ways. We find one of the best and fun ways to explore a city is without a map and only a general sense for where you are headed - you always end up uncovering some little gem that makes your time in the city great. Today we found what I would have to describe as the best kebab place in the world.
+
+In a little side street, not too far from the Spice Bazaar, we were drawn to a small kebab shop, called Sehzade Erzurum Cag Kebabi. The feature that drew our attention was a large wood fire and slow roasting lamb spit in the front of the store. The smell was amazing. This wasn't your typical take-away fast food kebab place... This was the real deal, and we couldn't pass it up.
+
+Sitting down right next to the lamb spit, the wait staff quickly sorted our order out - two lamb kebabs each, bread, salad, chilli, and spiced onion. Sitting right next to the spit gave us the opportunity to watch the master kebab chief at work, carefully turning the spit to identify the best cooked meat, then craftily cutting and threading it onto a skuer. By this time our mouths were well and truly watering - nothing smells quite as good as lamb cooking over the fire... And I can assure you the taste was absolutely amazing!
+
+After our fill of succulent lamb kebabs for lunch, we continued on wandering the streets and eventually found our way to the Spice Bazaar. Walking inside is a dizzying display of every spice, tea, nougat and sweat preserved fruits you could imaging - with the occasional plate, shoe or carpet store springing up in between. Resisting the urge to enter into any purchase we pushed on through the crowds and eventually emerged on the other side and back into the open street.
+
+Next we crossed the river and continued walking in the aim of finding Taksim square. After a for walk we decided we had made a wrong turn at some point having now passed the port and the university - which we knew were close but not where we wanted to be. Unfortunately with the water on our right, this meant we had to go left... Up the really big hill. So, with no other option, up we went. After about a kilometer of walking up what could only politely be described as a bloody steep hill we emerged in Taksum square - to the relief of us both. What better time than now to pull up a seat in a cafe and indulge in a short break and a cool drink.
+
+Taksim square was abuzz with people - all seemingly coming and going from nowhere. So after looking around for a while we headed back down the hill via the pedestrian street walkway to take in some of the retail sector.
+
+At the bottom of the hill we decided to jump onto a tram and headed back to the hotel to rest up for a few hours before heading back out later tonight for dinner.
+
+[![20120522-171321.jpg]({{ site.baseurl }}/assets/images/20120522-171321.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171321.jpg)
+
+[![20120522-171345.jpg]({{ site.baseurl }}/assets/images/20120522-171345.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171345.jpg)
+
+[![20120522-171403.jpg]({{ site.baseurl }}/assets/images/20120522-171403.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171403.jpg)
+
+[![20120522-171427.jpg]({{ site.baseurl }}/assets/images/20120522-171427.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171427.jpg)
+
+[![20120522-171444.jpg]({{ site.baseurl }}/assets/images/20120522-171444.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171444.jpg)
+
+[![20120522-171458.jpg]({{ site.baseurl }}/assets/images/20120522-171458.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171458.jpg)
+
+[![20120522-171616.jpg]({{ site.baseurl }}/assets/images/20120522-171616.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171616.jpg)
+
+[![20120522-171627.jpg]({{ site.baseurl }}/assets/images/20120522-171627.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171627.jpg)
+
+[![20120522-171548.jpg]({{ site.baseurl }}/assets/images/20120522-1715481.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715481.jpg)
+
+[![20120522-171524.jpg]({{ site.baseurl }}/assets/images/20120522-171524.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171524.jpg)
+
+[![20120522-171534.jpg]({{ site.baseurl }}/assets/images/20120522-1715341.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715341.jpg)
+
+[![20120522-171508.jpg]({{ site.baseurl }}/assets/images/20120522-1715081.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715081.jpg)
+
