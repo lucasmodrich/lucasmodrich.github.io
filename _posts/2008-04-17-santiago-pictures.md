@@ -4,7 +4,13 @@ cover: false
 navigation: true
 title: Santiago pictures
 date: 2008-04-17 09:49:03.000000000 +10:00
-tags: travel
+tags: 
+- travel
+- Chile
+- Honeymoon
+- Laura
+- Lucas
+- Santiago
 subclass: 'post tag-travel'
 logo: false
 author: modrich

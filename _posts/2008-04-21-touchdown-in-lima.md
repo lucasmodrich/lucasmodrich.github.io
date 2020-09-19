@@ -4,7 +4,10 @@ cover: false
 navigation: true
 title: Touchdown in Lima
 date: 2008-04-21 11:45:02.000000000 +10:00
-tags: travel
+tags: 
+- travel
+- Lima
+- Peru
 subclass: 'post tag-travel'
 logo: false
 author: modrich

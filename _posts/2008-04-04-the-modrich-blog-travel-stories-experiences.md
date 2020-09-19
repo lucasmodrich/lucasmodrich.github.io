@@ -4,7 +4,15 @@ cover: false
 navigation: true
 title: The Modrich Blog - Travel, Stories, Experiences...
 date: 2008-04-04 10:10:34.000000000 +11:00
-tags: travel
+tags:
+- travel
+- europe
+- experiences
+- Laura
+- Lucas
+- modrich
+- south america
+- stories
 subclass: 'post tag-travel'
 logo: false
 author: modrich

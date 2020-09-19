@@ -4,7 +4,10 @@ cover: false
 navigation: true
 title: Our last day in Santiago
 date: 2008-04-20 10:57:33.000000000 +10:00
-tags: travel
+tags: 
+- travel
+- Chile
+- Santiago
 subclass: 'post tag-travel'
 logo: false
 author: modrich
