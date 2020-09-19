@@ -1,17 +1,16 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Peruvian Highlights Tour Begins
 date: 2008-04-27 10:31:01.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
+tags: 
+- travel
 - Peru
-permalink: "/2008/04/27/peruvian-highlights-tour-begins/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 We meet up with our tour group last night in Miraflores (just out of Lima) in the hotel we were staying in for the night.
 

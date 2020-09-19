@@ -1,20 +1,19 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Rum Night (Is there a theme forming?)
 date: 2008-04-24 16:22:01.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
-- Travel
-tags:
+tags: 
+- travel
 - Lima
 - Peru
-permalink: "/2008/04/24/rum-night-is-there-a-theme-forming/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
+
 [![]({{ site.baseurl }}/assets/images/peru-lima.jpg?w=300 "Peru - Lima")](http://modrich.wordpress.com/2008/04/24/rum-night-is-there-a-theme-forming/peru-lima/)Today we jumped onto a tour bus (Mira Tours) that took us for a 3 hour tour through Lima city and to the San Fransisco church and catacombs. This was a pretty cool tour. We got to see or first real glimpses of Lima city and the catacombs at the San Francisco church were pretty cool.
 
 Getting back to the hostel tonight a lot of new people have checked in. In honor of their first night we have decided to have a few drinks to get to know each other. As we had a Pisco night the other night - and currently don't have any expert Pisco Sour makers, or at least no one who could be bothered making it - we have decided to have a Rum & Coke night.

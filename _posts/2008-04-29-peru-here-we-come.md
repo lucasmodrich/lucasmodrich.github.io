@@ -1,19 +1,17 @@
 ---
 layout: post
+cover: false
+navigation: true
 title: Peru here we come
 date: 2008-04-29 13:58:53.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
+tags: 
+- travel
 - Nazca
 - Peru
-permalink: "/2008/04/29/peru-here-we-come/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 [![]({{ site.baseurl }}/assets/images/peru-nazca-lines.jpg?w=300 "Peru - Nazca Lines")](http://modrich.wordpress.com/2008/04/29/peru-here-we-come/peru-nazca-lines/)It's been a few days since we have had a chance to grab a seat in front of a computer (probably a good thing), so I will try to fill you all in on what we have been up to in the last few days.
 
