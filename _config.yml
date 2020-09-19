@@ -43,15 +43,15 @@ plugins: [jekyll-paginate]
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: false
-lsi: false
-username: lucasmodrich
-repo: lucasmodrich.github.io
-branch: master
-relative_source: ../blog/
-destination: ../blog-pages/
-production_url:  https://lucasmodrich.github.io/blog/
-source_url:  https://github.com/lucasmodrich/lucasmodrich.github.io/
+#safe: false
+#lsi: false
+#username: lucasmodrich
+#repo: lucasmodrich.github.io
+#branch: master
+#relative_source: ../blog/
+#destination: ../blog-pages/
+#production_url:  https://lucasmodrich.github.io/blog/
+#source_url:  https://github.com/lucasmodrich/lucasmodrich.github.io/
 
 exclude:
   - README.md
