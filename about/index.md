@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-navigation: false
+navigation: true
 logo: false
 current: about
 ---
