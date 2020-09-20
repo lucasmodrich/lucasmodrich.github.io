@@ -1,13 +1,14 @@
 ---
 layout: default
-cover: 'assets/images/cover2.jpg'
+cover: 'assets/images/cover1.jpg'
 class: 'tag-template'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: false
 current: tag
 ---
 
 <!-- dynamically overriding backgrounds for tags as well as descriptions -->
+<!--
 {% if page.url contains 'fables' %}
    {% assign tag_description='A series of short stories that make you think.' %}
 {% elsif page.url contains 'speeches' %}
@@ -16,6 +17,7 @@ current: tag
 {% elsif page.url contains 'fiction' %}
     {% assign new_cover='assets/images/cover1.jpg' %}
 {% endif %}
+-->
 
 <!-- default -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
