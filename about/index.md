@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-cover: 'assets/images/cover1.jpg'
-navigation: true
+navigation: false
 logo: false
 current: about
 ---
