@@ -10,7 +10,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We meet up with our tour group last night in Miraflores (just out of Lima) in the hotel we were staying in for the night.
 

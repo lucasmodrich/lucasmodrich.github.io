@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Another sun filled day in paradise... well on Day Dream Island at least.
 

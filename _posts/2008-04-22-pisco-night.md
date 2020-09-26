@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-lima-sunset.jpg "Peru - Lima sunset")
 After the first good sleep we have had in the last week or so - I think the jet lag has finally left us - we got out and explored the local area a bit.

@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So... The last few day have been hectic and somewhat full-on to say the least.
 

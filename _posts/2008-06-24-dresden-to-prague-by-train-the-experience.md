@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/train-to-prauge.jpg "Train to Prague")]
 We laid awake this morning at about 4.50 am listening to the pouring rain, and claps of thunder didn't put a positive spin on the day to come. After drifting back to sleep, we eventually go up and began to get ready for the day at about 6am - we had an early train to catch to Prague, at least the rain had stopped.

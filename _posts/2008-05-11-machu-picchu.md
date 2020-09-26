@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-machu-picchu.jpg "Peru - Machu Picchu")
 We got off to a very early start this morning - 4.30am, breakfast at 5, and on the bus up to Machu Picchu at 5.30.

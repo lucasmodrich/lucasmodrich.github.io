@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/tuscany.jpg "Tuscany")
 The transport strike has finished, and so has our forced day of relaxation in Bologna (yes... we did absolutely nothing, and loved it!) - we grabbed the early train out of town and headed for Certaldo in Tuscany.

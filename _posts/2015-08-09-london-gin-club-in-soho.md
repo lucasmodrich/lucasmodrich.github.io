@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Last night was our final night in London. Laura and I left Archie with Mum and Jo and then headed out to Soho to find the London Gin Club - something Laura had kindly tracked down for me and thought it would be a great way to spend our last night in London.
 

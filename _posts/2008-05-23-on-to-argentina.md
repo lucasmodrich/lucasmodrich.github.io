@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We have left Peru behind after a month of travel through the country – along the way making some great friendships. So onto Argentina it is.
 

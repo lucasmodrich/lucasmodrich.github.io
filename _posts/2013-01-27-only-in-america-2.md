@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So it appears they are coming thick and fast...
 

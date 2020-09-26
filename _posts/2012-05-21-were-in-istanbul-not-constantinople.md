@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Wow, long flight overnight again. Seems like forever ago that we were checking in to our flight in KL airport. Anyway the flight was reasonably uneventful again (which in the case of air travel is actually a positive attribute).
 

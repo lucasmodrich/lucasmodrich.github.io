@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So after getting in pretty late last night from our two day tour down to Gallipoli and Troy, we had a pretty slow morning all tolled.
 

@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We have now left South America behind us, and moved onto the European leg of our trip.
 

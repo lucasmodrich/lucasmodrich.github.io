@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/cinque-terra.jpg "Cinque Terra")
 We arrived in Riomaggiore, the southern most town in the group of 5 towns that make up the 'Cinque Terre', and were immediately amazed by the bella vista that was in front of us.

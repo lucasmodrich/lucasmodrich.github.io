@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today we decided to venture out to nearby Siena for the evening - its too hot (38-40c) to be out and about with the kids during the heat of the day, and for us the time is much better spent cooling off and relaxing by the pool.
 

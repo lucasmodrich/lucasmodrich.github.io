@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/greece.jpg "Greece")]
 Today is our last full day in Greece, as we fly out tomorrow at lunch time - meaning an early start to make sure we get to the airport on time.

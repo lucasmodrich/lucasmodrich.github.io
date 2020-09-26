@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-colca-canyon.jpg "Peru - Colca Canyon")
 From Arequipa we headed to the Colca Canyon - passing through altitudes of almost 5,000m on the way.

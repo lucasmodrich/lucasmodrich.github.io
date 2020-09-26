@@ -8,7 +8,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Its been a little while since our last blog post... but good news! We will soon be on the move again - and that means lots of new content over the next month and a half...
 

@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So I have been in Durban for a few days now. Mostly work meetings with clients and not much down time to get out and see the place (im not hear for leisure!).
 

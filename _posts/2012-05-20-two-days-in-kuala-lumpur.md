@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
  **Day 1**  
 So we arrived in Kuala Lumpur bright and early after a reasonably uneventful overnight flight from Melbourne.

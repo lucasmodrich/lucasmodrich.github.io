@@ -8,7 +8,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We have finished renovating our old home here at Wordpress.com, and have now moved back in. The old place at SquareSpace is still lingering, but will soon disappear for good.
 

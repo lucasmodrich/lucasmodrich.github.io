@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/greece-cruise.jpg "Greece - Cruise")
 Today we headed out early to catch a cruise around three of the Greek islands closest to Athens.

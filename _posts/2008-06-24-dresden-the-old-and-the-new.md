@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We arrived into Dresden on the ICE train from Berlin and immediately fell in love with the city - despite it being a Sunday, and (almost) everything being shut.
 

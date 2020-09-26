@@ -18,7 +18,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/munich-beer-halls.jpg "Munich - Beer Halls")
 So we left Prague, and the Czech Republic behind us (and the train made it this time!) for the spoils of Munich (passing back through Dresden, to minimize our ticket cost, and maximize our use of the Eurail pass).

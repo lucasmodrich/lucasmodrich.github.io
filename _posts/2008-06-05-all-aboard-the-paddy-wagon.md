@@ -22,7 +22,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/ireland-guinness-sign.jpg "Ireland - Guinness sign")
 Sorry it's been a while since out last update, but it can be hectic on the road - never knowing when and where you will get a chance to have 5 minutes free to post a message or two (and I have to say touring in Ireland, with its many pubs does create a pretty big distraction :) ).

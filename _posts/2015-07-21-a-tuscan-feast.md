@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We arranged with Franco, the owner of the villa, to prepare us a traditional Tuscan feast (an option available to anyone staying at the villa) on Tuesday evening.
 

@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So my last post got me thinking... What are the 5 things I would take to a desert island.
 

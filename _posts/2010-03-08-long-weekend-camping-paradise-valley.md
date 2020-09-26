@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![Paradise Valley]({{ site.baseurl }}/assets/images/paradise-valley.jpg "Paradise Valley")]
 Well the long weekend is over, and we survived the weather...

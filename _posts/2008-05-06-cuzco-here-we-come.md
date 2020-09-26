@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-in-the-andies.jpg "Peru - In the Andies")
 So after another long bus ride across the Andean country side we arrived in Cuzco yesterday afternoon - and what a relief this was. The 7 hour bus ride across Peruvian highways that at times were as smooth as a bad gravel road was wearing thin - plus our butts were sore from sitting for so long ;).

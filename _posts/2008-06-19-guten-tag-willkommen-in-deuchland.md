@@ -19,7 +19,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/bremen-becks.jpg "Bremen - Becks")
 So we are in Germany now – having arrived from Tampere, Finland into Bremen the other day. We have been in Bremen for the last few days, staying with friends (Suzanne & Richard) in their lovely apartment which is just a short ride from the heart of Bremen.

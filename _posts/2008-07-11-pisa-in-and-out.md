@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/pisa-leaning-tower.jpg "Pisa - Leaning tower")
 On our way from Certaldo to Cinque Terre we made a very brisk stop over in Pisa for the obligatory photos...

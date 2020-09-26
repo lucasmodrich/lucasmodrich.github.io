@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/chile-santiago-markets.jpg "Chile - Santiago Markets")
 So today is our last day in Santiago. We started out by heading to the post office to send off a few post cards to family back home. Right next to the post office in the Plaza de Armas is a huge old church where we went to mass.

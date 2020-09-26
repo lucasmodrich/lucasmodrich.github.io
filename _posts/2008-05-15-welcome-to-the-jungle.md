@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-amazon-from-the-air.jpg "Peru - Amazon from the air")
 From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldonado in the Amazon Jungle.

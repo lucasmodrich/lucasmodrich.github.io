@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 To kick off my "Only in America" series of posts (I am assuming there will be more than one), I bring to you some pictures of a locally "pimped ride" I came across in the car park of a local mall on my morning walk.  
 ![Pimped Ride]({{ site.baseurl }}/assets/images/img_16281.jpg)

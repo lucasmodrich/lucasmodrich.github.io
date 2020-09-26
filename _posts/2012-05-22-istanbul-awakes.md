@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So after our first day in Istanbul I can confess it has well and truly won me over. There is something about Istanbul... Something I can't quite put my finger on... something that has defiantly drawn me in.
 

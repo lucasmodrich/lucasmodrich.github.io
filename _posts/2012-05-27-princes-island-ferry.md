@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today we find ourselves jumping on the tram in Sultanahmet and heading down to the ports to grab a ferry out to the Princes Island.
 

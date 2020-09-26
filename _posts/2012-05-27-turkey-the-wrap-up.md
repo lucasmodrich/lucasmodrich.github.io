@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We still have a day and a half left in Istanbul. Other than our last minute shopping and revisiting the Bazaar's we are winding down and getting ready to come home.
 

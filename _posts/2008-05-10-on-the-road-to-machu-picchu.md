@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-inca-ruins.jpg "Peru - Inca Ruins")]
 So we left Cuzco yesterday afternoon headed for Ollantaytambo, a small rural town which is part of Cuzco province, and a couple of hours out of Cuzco city.

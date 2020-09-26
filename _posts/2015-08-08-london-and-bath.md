@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So we arrived into London on Thursday afternoon (6th August) from Paris after catching the EuroStar train across the channel.
 

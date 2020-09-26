@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So after a reasonably restful sleep overnight we got into exploring Madrid early – eager to use the remainder of the time available on our 24hr Madrid Vision card (we had until about 2pm) – first on the list was a coffee at one of the many local cafe's, then onto the Royal Palace for a tour.
 

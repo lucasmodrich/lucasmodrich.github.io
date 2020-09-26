@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 It's a cold, wet and windy Melbourne morning... 3am, and the alarm goes off.
 

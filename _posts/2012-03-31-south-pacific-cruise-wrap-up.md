@@ -20,7 +20,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So we are back on dry land after 7 nights aboard the the Pacific Dawn - why are we still rocking?
 

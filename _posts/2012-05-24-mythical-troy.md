@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So after out day in Gallipoli, our tour takes us across the narrows of the Dardanelles to Canakkale which is in the Asian side of Turkey, an where we spend the night before heading of to nearby Troy (Troya) in the morning.
 

@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-arequipa.jpg "Peru - Arequipa")]
 So we caught the overnight bus from Nazca last night. We were not expecting too much, but we were pretty surprised when we boarded the bus to find it was equipped with recliner seats - i'm not just talking about being able to recline the back of the seat, but a leg rest as well. It was pretty well equipped - not that is really any exchange for a real bed and pillow. While we did sleep, I was pretty restless but probably the best you could expect on a bus.

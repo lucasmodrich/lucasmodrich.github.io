@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today we are on an overnight tour that will take us down to Gallipoli (Gelibolu) and then overnight in Canakkale (on the Asian side of Turkey), and the a tour through historic Troy before heading back to Istanbul later in the evening of the second day.
 

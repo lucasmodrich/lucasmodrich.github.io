@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/peru-nazca-lines.jpg "Peru - Nazca Lines")
 It's been a few days since we have had a chance to grab a seat in front of a computer (probably a good thing), so I will try to fill you all in on what we have been up to in the last few days.

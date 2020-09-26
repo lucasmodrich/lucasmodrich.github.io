@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 We have now left the Spanish speaking countries behind us after about 7 weeks of traveling. We find it hard to stop saying 'Gracias' to people - but I'm sure we will get over it.
 

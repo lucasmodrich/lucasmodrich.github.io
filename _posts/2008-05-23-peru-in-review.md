@@ -25,7 +25,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.
 

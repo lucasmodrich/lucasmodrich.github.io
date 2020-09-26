@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So... We have been without Internet access for a few days, and the blog posts have been limited as a result of this. I have a lot to catch up on and as Internet access becomes available - and I have time - new blog posts will begin to show up.
 

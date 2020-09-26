@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So we hit the ground running in our first day on Day Dream Island, and went straight into relaxation overdrive.
 

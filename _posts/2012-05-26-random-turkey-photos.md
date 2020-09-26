@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![20120525-172300.jpg]({{ site.baseurl }}/assets/images/20120525-172300.jpg)
 

@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/chile-dusk-in-santiago.jpg "Chile - Dusk in Santiago")
 So we have settled our selves in and found our feet here in Santiago. We have managed to explore most of what the city has to offer (we think).

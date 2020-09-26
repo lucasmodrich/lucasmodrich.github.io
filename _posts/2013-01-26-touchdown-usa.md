@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So its now late evening in Raleigh, North Carolina, and I have checked into my hotel after some 26 hours of travel.
 

@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.
 

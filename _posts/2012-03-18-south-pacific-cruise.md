@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 By this time next week we will be cruising in the middle of the South Pacific - sun, sea breeze, and the obligatory beer/cocktail.
 

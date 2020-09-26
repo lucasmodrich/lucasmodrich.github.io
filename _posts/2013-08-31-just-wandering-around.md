@@ -10,7 +10,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today's plans evolved organically with more of a "why not" attitude rather than specific planning.
 

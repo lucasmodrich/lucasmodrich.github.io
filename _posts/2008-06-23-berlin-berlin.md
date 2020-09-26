@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/berlin1.jpg "Berlin")
 Today is our last day in Berlin – we are currently in the train station having breakfast and a coffee waiting for our train to Dresden.

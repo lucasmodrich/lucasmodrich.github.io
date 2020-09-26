@@ -21,7 +21,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So Laura and I will be heading off to Turkey in a few weeks.  While Laura has been to Turkey twice previously, this will put a tick in the "done" column on my travel bucket list.
 

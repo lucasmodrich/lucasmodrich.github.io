@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/venice.jpg "Venice")]
 We are finally on the last leg of our trip (in Europe anyway!) - we hit Italy three days ago (1st July), having caught a rather scenic train from Salzburg. The scenery was absolutely amazing - travelling by train through the Austrian and Italian Alps is highly recommended. There are a few rather long tunnels at times, but the scenery, especially prior to leaving Austria was unbelievable.

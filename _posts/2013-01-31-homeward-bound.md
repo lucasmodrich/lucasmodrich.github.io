@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 This morning I find myself at Raleigh Airport (RDU) waiting to board a plane - a few days ahead of my original return schedule.
 

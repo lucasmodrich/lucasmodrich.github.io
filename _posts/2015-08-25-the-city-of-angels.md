@@ -23,7 +23,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Earlier in the week (Monday 17th Aug) we left New York behind us (sad to leave but we have to move on), and flew across the country to Los Angeles.
 

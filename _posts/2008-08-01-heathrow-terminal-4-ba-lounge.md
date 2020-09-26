@@ -19,7 +19,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Let me start by saying - This place is ace!
 

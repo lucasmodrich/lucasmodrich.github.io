@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 
 ![]({{ site.baseurl }}/assets/images/finland-night.jpg "Finland - Night")]

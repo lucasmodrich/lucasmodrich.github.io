@@ -24,7 +24,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/rome.jpg "Rome")
 We made it to Rome after a pleasant few days in the Cinque Terre. Almost immediately we noticed that it was a little warmer here in Rome, away from the cooler comfort of the coast that Cinque Terre offered.

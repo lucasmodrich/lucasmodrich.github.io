@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/thailand-bedroom.jpg "Thailand - Bedroom")
 After a long flight (11 hours) from London, we touched down in Bangkok, collected our bags, and exited the airport to our awaiting hotel transfer.

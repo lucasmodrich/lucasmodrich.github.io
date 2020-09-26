@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So it's a Sunday afternoon in Raleigh, North Carolina. I find myself downtown with not much to do - as most places are closed.
 

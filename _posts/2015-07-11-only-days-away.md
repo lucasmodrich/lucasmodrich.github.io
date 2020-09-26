@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.
 

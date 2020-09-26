@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So I have started to put some more thought into the content of my blog - trying to refocus back on why I originally started it - travel, stories and experiences.
 

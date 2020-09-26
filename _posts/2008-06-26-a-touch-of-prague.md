@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/prauge.jpg "Prauge")
 Having arrived in Prague and settled in (after out exciting train ride) we decided to take a tour of Prague city – old, and new.

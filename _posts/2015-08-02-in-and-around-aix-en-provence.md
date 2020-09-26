@@ -10,7 +10,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 It's been good to be back in one place for a few days. It's still warm, but a lot cooler than where we have been in Italy - which makes getting out during the day a lot more manageable - especially for Archie our 18-month-old.
 

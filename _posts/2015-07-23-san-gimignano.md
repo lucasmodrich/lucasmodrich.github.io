@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 On Friday (24th July) we set out early and took a road trip to San Gimignano - about an hour or so away from where we were staying at the villa.
 

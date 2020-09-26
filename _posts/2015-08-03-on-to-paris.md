@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 This morning we were up early - but not as early as previous travel days - 6:30am is manageable.
 

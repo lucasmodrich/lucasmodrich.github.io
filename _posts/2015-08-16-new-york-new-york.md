@@ -30,7 +30,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
  **Updated 24-Aug-2015:** As promised, more pictures have now been added to this post.
 

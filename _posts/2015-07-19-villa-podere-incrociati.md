@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So after a long few days of travel, we arrived yesterday evening at what will become our home for the next week - villa [Podere Incronciati](http://www.podereincrociati.it) - a traditional Tuscan villa built in 1840 about 20km outside of Siena.
 

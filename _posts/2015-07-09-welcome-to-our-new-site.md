@@ -8,7 +8,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Welcome to the new Modrich Travel Blog site.
 

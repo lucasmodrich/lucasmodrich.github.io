@@ -11,7 +11,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Despite all efforts to plan and schedule the Italian leg of our trip, there is nothing we can do about a public transport strike.
 

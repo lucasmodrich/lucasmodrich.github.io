@@ -13,7 +13,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Tonight I boarded a flight from Melbourne destined for Durban, South Africa - via Perth (on Virgin Australia) and Johannesburg (on South African Airlines).
 

@@ -16,7 +16,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Tonight, I find my self making final rushed preparations for a business trip to America (well lets be honest here... the fact that they are my "final preparations" does not also mean that they are not my first round of preparations either!).
 

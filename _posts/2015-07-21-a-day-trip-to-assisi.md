@@ -10,7 +10,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Today we jumped in the cars and ventured out to Assisi for a day trip - roughly 120km from where we are staying.
 

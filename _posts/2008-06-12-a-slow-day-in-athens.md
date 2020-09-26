@@ -14,7 +14,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/athens.jpg "Athens")
 We got into Athens yesterday afternoon - great weather, we managed to escape the bad weather that has been forecast for the UK!

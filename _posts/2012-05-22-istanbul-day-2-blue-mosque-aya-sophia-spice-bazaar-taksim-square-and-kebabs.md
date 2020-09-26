@@ -17,7 +17,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 So our second full day in beautiful Istanbul has been packed with sight seeing - all the usual touristy places: The Blue Mosque, Aya Sophia, The Spice Bazaar, and Taksim Square (notably we are leaving the Grand Bazaar for a later day).
 

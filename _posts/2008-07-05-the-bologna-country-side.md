@@ -15,7 +15,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/bolonga.jpg "Bologna")]
 We arrived in Bologna yesterday afternoon, after a short train trip from Venice (2 hours). We managed to navigate the local bus system with the help of a local and shortly after arrived at our B&B which is located in the country side hills overlooking farmland and the city - about 15 minutes drive out of town.

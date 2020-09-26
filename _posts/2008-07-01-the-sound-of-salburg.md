@@ -19,7 +19,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 ![]({{ site.baseurl }}/assets/images/saltzberg-at-night.jpg "Salzburg at night")
 We pick-up here were our last post left off. We have arrived in Salzburg – and its the night of the Euro Cup 2008 final, Germany -v- Spain. With Austria being the hosts, we were in for a big night (it had already been a long day... whats a few more hours).

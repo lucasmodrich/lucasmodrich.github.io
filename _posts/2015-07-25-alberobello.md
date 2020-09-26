@@ -12,7 +12,7 @@ tags:
 subclass: 'post tag-travel'
 logo: false
 author: modrich
-categories: travel
+categories: modrich
 ---
 Saturday we packed up and checked out of the villa. It was sad to leave as its been an absolutely great time and very relaxing, but everything must come to an end and we must move on to our next destination - Alberobello.
 
