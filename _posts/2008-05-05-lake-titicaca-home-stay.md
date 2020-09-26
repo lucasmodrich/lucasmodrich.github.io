@@ -15,7 +15,7 @@ author: modrich
 categories: travel
 ---
 
-![]({{ site.baseurl }}/assets/images/peru-lake-titi-caca.jpg?w=300 "Peru - Lake Titi Caca")
+![]({{ site.baseurl }}/assets/images/peru-lake-titi-caca.jpg "Peru - Lake Titi Caca")
 So we are back in Puno now (which is located on the shores of lake Titicaca) after leaving yesterday morning for our home-stay. We are both felling 100% on what we have been and hopefully the worst is behind us. We still need to be a little careful with our stomachs as they are still a little tender, but generally much better than they have been over the past 3-4 days.
 
 Leaving the hotel yesterday we caught the local limo service - bicycle taxi's. This was quite a ride with a dozen of us heading of in these peddle powered vehicles, and our drivers all competing to get us to the port first.

@@ -14,7 +14,7 @@ author: modrich
 categories: travel
 ---
 
-![]({{ site.baseurl }}/assets/images/peru-lima.jpg?w=300 "Peru - Lima")
+![]({{ site.baseurl }}/assets/images/peru-lima.jpg "Peru - Lima")
 Today we jumped onto a tour bus (Mira Tours) that took us for a 3 hour tour through Lima city and to the San Fransisco church and catacombs. This was a pretty cool tour. We got to see or first real glimpses of Lima city and the catacombs at the San Francisco church were pretty cool.
 
 Getting back to the hostel tonight a lot of new people have checked in. In honor of their first night we have decided to have a few drinks to get to know each other. As we had a Pisco night the other night - and currently don't have any expert Pisco Sour makers, or at least no one who could be bothered making it - we have decided to have a Rum & Coke night.

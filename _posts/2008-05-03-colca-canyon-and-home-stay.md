@@ -13,7 +13,7 @@ logo: false
 author: modrich
 categories: travel
 ---
-![]({{ site.baseurl }}/assets/images/peru-colca-canyon.jpg?w=300 "Peru - Colca Canyon")
+![]({{ site.baseurl }}/assets/images/peru-colca-canyon.jpg "Peru - Colca Canyon")
 From Arequipa we headed to the Colca Canyon - passing through altitudes of almost 5,000m on the way.
 
 When you get off the bus at these altitudes, you have to take it very slowly! Even very slow walking causes your head to spin and heart to thump. I thought it was convenient that they had roadside markets in places like this. Unknowing tourists such as ourselves jump off the bus in the high altitude, dizzy due to lack of oxygen, and purchase anything that is going before making it back to the bus to recover.

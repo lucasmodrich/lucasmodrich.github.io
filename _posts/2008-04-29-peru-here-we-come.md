@@ -13,7 +13,7 @@ logo: false
 author: modrich
 categories: travel
 ---
-![]({{ site.baseurl }}/assets/images/peru-nazca-lines.jpg?w=300 "Peru - Nazca Lines")
+![]({{ site.baseurl }}/assets/images/peru-nazca-lines.jpg "Peru - Nazca Lines")
 It's been a few days since we have had a chance to grab a seat in front of a computer (probably a good thing), so I will try to fill you all in on what we have been up to in the last few days.
 
 We started our Intrepid tour of Peru on Friday. We all met in a small hotel in Miraflores (a suburb of Lima). There are 13 of us in the group, and we all get along really well. The group is a really well balanced mix of people and ages - mostly Australians, and some Poms.

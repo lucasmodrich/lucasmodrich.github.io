@@ -14,7 +14,7 @@ logo: false
 author: modrich
 categories: travel
 ---
-![]({{ site.baseurl }}/assets/images/peru-lima-sunset.jpg?w=300 "Peru - Lima sunset")
+![]({{ site.baseurl }}/assets/images/peru-lima-sunset.jpg "Peru - Lima sunset")
 After the first good sleep we have had in the last week or so - I think the jet lag has finally left us - we got out and explored the local area a bit.
 
 first off we caught one of the local buses into a neighbouring area called Mirafloures. This is almost like a small city in itself, with markets and shopping centers and parks.

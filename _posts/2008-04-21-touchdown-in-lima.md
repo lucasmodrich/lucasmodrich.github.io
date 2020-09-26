@@ -13,7 +13,7 @@ logo: false
 author: modrich
 categories: travel
 ---
-![]({{ site.baseurl }}/assets/images/peru-lima-dinner.jpg?w=225 "Peru - Lima dinner")
+![]({{ site.baseurl }}/assets/images/peru-lima-dinner.jpg "Peru - Lima dinner")
 So we flew out of Santiago this morning (bright and early) into Lima, Peru.
 
 I probably should have mentioned it earlier, but was only reminded about the fantastic view from the airplane window as you approach Santiago - floating through the clouds between the various snow capped mountains. It was an awesome experience. However, coming into Lima today topped it.
