@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>We're in Istanbul, not Constantinople...</title>
-	  <link>//were-in-istanbul-not-constantinople</link>
+	  <link>/were-in-istanbul-not-constantinople</link>
 	  <author></author>
 	  <pubDate>2012-05-21T07:20:45+00:00</pubDate>
-	  <guid>//were-in-istanbul-not-constantinople</guid>
+	  <guid>/were-in-istanbul-not-constantinople</guid>
 	  <description><![CDATA[
 	     <p>Wow, long flight overnight again. Seems like forever ago that we were checking in to our flight in KL airport. Anyway the flight was reasonably uneventful again (which in the case of air travel is actually a positive attribute).</p>
 

@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Homeward bound</title>
-	  <link>//homeward-bound</link>
+	  <link>/homeward-bound</link>
 	  <author></author>
 	  <pubDate>2013-01-30T21:21:00+00:00</pubDate>
-	  <guid>//homeward-bound</guid>
+	  <guid>/homeward-bound</guid>
 	  <description><![CDATA[
 	     <p>This morning I find myself at Raleigh Airport (RDU) waiting to board a plane - a few days ahead of my original return schedule.</p>
 

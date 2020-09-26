@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>The Modrich Blog - Travel, Stories, Experiences...</title>
-	  <link>//the-modrich-blog-travel-stories-experiences</link>
+	  <link>/the-modrich-blog-travel-stories-experiences</link>
 	  <author></author>
 	  <pubDate>2008-04-03T23:10:34+00:00</pubDate>
-	  <guid>//the-modrich-blog-travel-stories-experiences</guid>
+	  <guid>/the-modrich-blog-travel-stories-experiences</guid>
 	  <description><![CDATA[
 	     <p>Welcome to The Modrich Blog.</p>
 

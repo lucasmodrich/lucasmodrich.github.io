@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Top 10 visited, and bucket list destinations</title>
-	  <link>//top-10-visited-and-bucket-list-destinations</link>
+	  <link>/top-10-visited-and-bucket-list-destinations</link>
 	  <author></author>
 	  <pubDate>2012-05-12T00:41:19+00:00</pubDate>
-	  <guid>//top-10-visited-and-bucket-list-destinations</guid>
+	  <guid>/top-10-visited-and-bucket-list-destinations</guid>
 	  <description><![CDATA[
 	     <p>So I have started to put some more thought into the content of my blog - trying to refocus back on why I originally started it - travel, stories and experiences.</p>
 

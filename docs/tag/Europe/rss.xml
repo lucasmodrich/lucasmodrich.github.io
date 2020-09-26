@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Only days away</title>
-	  <link>//only-days-away</link>
+	  <link>/only-days-away</link>
 	  <author></author>
 	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
-	  <guid>//only-days-away</guid>
+	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
 

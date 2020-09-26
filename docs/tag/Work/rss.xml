@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Working in Durban (RSA)</title>
-	  <link>//working-in-durban-rsa</link>
+	  <link>/working-in-durban-rsa</link>
 	  <author></author>
 	  <pubDate>2016-08-09T07:42:00+00:00</pubDate>
-	  <guid>//working-in-durban-rsa</guid>
+	  <guid>/working-in-durban-rsa</guid>
 	  <description><![CDATA[
 	     <p>So I have been in Durban for a few days now. Mostly work meetings with clients and not much down time to get out and see the place (im not hear for leisure!).</p>
 
@@ -24,7 +24,7 @@
 
 <p>We did get out to the local shopping centre one evening to visit out client retail outlet and to get a better feel for their operation - but again - this was not a social visit.</p>
 
-<p><img src="//assets/images/2aeb0-durban.png" alt="Durban - South Africa" /> Durban - South Africa</p>
+<p><img src="/assets/images/2aeb0-durban.png" alt="Durban - South Africa" /> Durban - South Africa</p>
 
 <p>We are staying about 20km north of the Durban CBD itself - and the are is a mix of residential and industrial.</p>
 
@@ -38,11 +38,11 @@
 
 <p>Durban downtown was a mix of new and old buildings - and I have the feeling some areas that you really don’t want to get too close to. We passed through quickly and headed back north to the beach suburb of Umhlanga - which was quite nice and obviously a more wealthy part of town.</p>
 
-<p><img src="//assets/images/399fc-sunrisefrommyroomsunrisefrommyroom.jpg" alt="Sunrise from my room" /> Sunrise from my room</p>
+<p><img src="/assets/images/399fc-sunrisefrommyroomsunrisefrommyroom.jpg" alt="Sunrise from my room" /> Sunrise from my room</p>
 
-<p><img src="//assets/images/13bfa-cheekymonkiescheekymonkies.jpg" alt="Cheeky Monkey @ Hotel" /> Cheeky Monkey @ Hotel</p>
+<p><img src="/assets/images/13bfa-cheekymonkiescheekymonkies.jpg" alt="Cheeky Monkey @ Hotel" /> Cheeky Monkey @ Hotel</p>
 
-<p><img src="//assets/images/f1f22-img.jpg" alt="Moses Mabhida Stadium in Durban" /> Moses Mabhida Stadium in Durban</p>
+<p><img src="/assets/images/f1f22-img.jpg" alt="Moses Mabhida Stadium in Durban" /> Moses Mabhida Stadium in Durban</p>
 
 
 	  ]]></description>
@@ -50,10 +50,10 @@
 
 	<item>
 	  <title>Headed to South Africa (for Work)</title>
-	  <link>//headed-to-south-africa-for-work</link>
+	  <link>/headed-to-south-africa-for-work</link>
 	  <author></author>
 	  <pubDate>2016-08-06T03:39:24+00:00</pubDate>
-	  <guid>//headed-to-south-africa-for-work</guid>
+	  <guid>/headed-to-south-africa-for-work</guid>
 	  <description><![CDATA[
 	     <p>Tonight I boarded a flight from Melbourne destined for Durban, South Africa - via Perth (on Virgin Australia) and Johannesburg (on South African Airlines).</p>
 

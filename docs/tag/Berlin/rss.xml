@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>Berlin, Berlin</title>
-	  <link>//berlin-berlin</link>
+	  <link>/berlin-berlin</link>
 	  <author></author>
 	  <pubDate>2008-06-23T00:30:11+00:00</pubDate>
-	  <guid>//berlin-berlin</guid>
+	  <guid>/berlin-berlin</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/berlin1.jpg" alt="" title="Berlin" />
+	     <p><img src="/assets/images/berlin1.jpg" alt="" title="Berlin" />
 Today is our last day in Berlin – we are currently in the train station having breakfast and a coffee waiting for our train to Dresden.</p>
 
 <p>Berlin has been an experience! It’s not quite what i expected as a city, but everything and more than I expected as an experience. The history here is so immense – and its not all to do with Nazi’s and the Third Reich either – Berlin is so much more.</p>

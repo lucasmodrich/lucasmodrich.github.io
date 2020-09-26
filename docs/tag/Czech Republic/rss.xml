@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>A touch of Prague</title>
-	  <link>//a-touch-of-prague</link>
+	  <link>/a-touch-of-prague</link>
 	  <author></author>
 	  <pubDate>2008-06-26T08:20:00+00:00</pubDate>
-	  <guid>//a-touch-of-prague</guid>
+	  <guid>/a-touch-of-prague</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/prauge.jpg" alt="" title="Prauge" />
+	     <p><img src="/assets/images/prauge.jpg" alt="" title="Prauge" />
 Having arrived in Prague and settled in (after out exciting train ride) we decided to take a tour of Prague city – old, and new.</p>
 
 <p>The tour started in the new Prague and worked its way through the streets to cross over into the old town. The old town is absolutely lovely – cobble stone streets that are easy to get lost in, and medieval buildings everywhere you look.</p>

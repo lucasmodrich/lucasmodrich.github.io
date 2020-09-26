@@ -3,7 +3,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title></title>
+      <title>lucasmodrich.github.io/</title>
    
    <link></link>
    <description>Stories and experiences from our occasional travels</description>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Peru in review</title>
-	  <link>//peru-in-review</link>
+	  <link>/peru-in-review</link>
 	  <author></author>
 	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
-	  <guid>//peru-in-review</guid>
+	  <guid>/peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
 
