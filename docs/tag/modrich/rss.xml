@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>The Modrich Blog - Travel, Stories, Experiences...</title>
+	  <link>/blog//the-modrich-blog-travel-stories-experiences</link>
+	  <author></author>
+	  <pubDate>2008-04-03T23:10:34+00:00</pubDate>
+	  <guid>/blog//the-modrich-blog-travel-stories-experiences</guid>
+	  <description><![CDATA[
+	     <p>Welcome to The Modrich Blog.</p>
+
+<p>Here we want to share our travels, stories and experiences with anyone wanting to listen :)</p>
+
+<p>We started this blog mainly to allow our family to follow us throughout out travels as we are about to embark on what will possibly be the “trip of our lives” spending 3 months travelling through South America and Europe - so fun times ahead for sure.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

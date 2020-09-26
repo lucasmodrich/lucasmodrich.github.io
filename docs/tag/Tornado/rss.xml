@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Homeward bound</title>
+	  <link>/blog//homeward-bound</link>
+	  <author></author>
+	  <pubDate>2013-01-30T21:21:00+00:00</pubDate>
+	  <guid>/blog//homeward-bound</guid>
+	  <description><![CDATA[
+	     <p>This morning I find myself at Raleigh Airport (RDU) waiting to board a plane - a few days ahead of my original return schedule.</p>
+
+<p>Due to some family medical issues back home, I have decided to cut my trip short and head home early.</p>
+
+<p>Most of last night was spent rearranging flights. I’m now flying home via Detroit and LA back into Melbourne. It’s going to be a long haul, but with only about 4 hours sleep last night, I’m hoping to sleep well during the flights.</p>
+
+<p>Well America - it’s been short, but its been fun… I even got to experience a “Tornado Watch” last night with high winds and tornado threats moving through the Raleigh area yesterday and overnight.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

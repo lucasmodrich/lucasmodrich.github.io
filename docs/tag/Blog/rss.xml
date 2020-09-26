@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Privacy Update</title>
+	  <link>/blog//privacy-update</link>
+	  <author></author>
+	  <pubDate>2018-05-24T22:54:19+00:00</pubDate>
+	  <guid>/blog//privacy-update</guid>
+	  <description><![CDATA[
+	     <p>The right to privacy is a serious matter, and something that I take very seriously.</p>
+
+<p>I recently published an <a href="http://news.retaildirections.com/data-breach-be-aware-and-prepare/">article</a> on the newly introduced changes to the Australian Privacy Act which relate to Notifiable Data Breaches (NDB).</p>
+
+<p>You can <a href="http://news.retaildirections.com/data-breach-be-aware-and-prepare/">read the article in full here.</a></p>
+
+<p>With regard to your privacy, this blog does not do anything specific to determine who you are or collect personal or identifiable information about you. I simply don’t need to know. It must be stated however that this Blog is hosted with Wordpress and they may collect certain information about your visit to this and other blogs. I would refer you to the <a href="https://wordpress.com">Wordpress.com</a> privacy statement for further details.</p>
+
+<p>Again, just to be clear, I am not interested in your data and have no reason to collect it.</p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>A new look and a new home</title>
+	  <link>/blog//a-new-look-and-a-new-home</link>
+	  <author></author>
+	  <pubDate>2017-10-16T06:23:23+00:00</pubDate>
+	  <guid>/blog//a-new-look-and-a-new-home</guid>
+	  <description><![CDATA[
+	     <p>We have finished renovating our old home here at Wordpress.com, and have now moved back in. The old place at SquareSpace is still lingering, but will soon disappear for good.</p>
+
+<p>Over the course of the past few weeks (or weekends rather) there has been a lot of work happening in the background to make the transition back into our old home as painless as possible… I expect there will be some pain at some point, but for the moment I think I have nailed most things down.</p>
+
+<p>We also moved domain - modrich.com, modrich.com/blog and blog.modrich.com will all get you here - modrich.blog</p>
+
+<p>There hasn’t been too much activity or travel to report recently, but we have some exciting trips planned for next year (2019) - so stay tuned.<br />
+Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</a></p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The Modrich Travel Blog Relaunch</title>
+	  <link>/blog//welcome-to-our-new-site</link>
+	  <author></author>
+	  <pubDate>2015-07-09T00:29:53+00:00</pubDate>
+	  <guid>/blog//welcome-to-our-new-site</guid>
+	  <description><![CDATA[
+	     <p>Welcome to the new Modrich Travel Blog site.</p>
+
+<p>Over the course of the past week there has been a lot of work happening in the background to make the transition to the new site as painless as possible.</p>
+
+<p>BUT… It wouldn’t be a web site relaunch without a few technical glitches here and there. We believe all of the loose ends have been wrapped up and the new site is now read to take us into our next adventure - so stay tuned.</p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>On the move again...</title>
+	  <link>/blog//on-the-move-again</link>
+	  <author></author>
+	  <pubDate>2015-07-07T22:54:45+00:00</pubDate>
+	  <guid>/blog//on-the-move-again</guid>
+	  <description><![CDATA[
+	     <p>Its been a little while since our last blog post… but good news! We will soon be on the move again - and that means lots of new content over the next month and a half…</p>
+
+<p>Also, we are moving home… well not us, but this Blog.  While our current home has served us incredibly well over the past few years, we thought it was time for a change.</p>
+
+<p>Don’t worry - there is nothing you need to do. You will still be able to find us here at <a href="http://modrich.com">modrich.com</a> - that won’t change.  Just next time you visit, things might look… well… a bit different (but hopefully for the better).</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

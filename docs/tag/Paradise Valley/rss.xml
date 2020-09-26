@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Long weekend camping @ Paradise Valley</title>
+	  <link>/blog//long-weekend-camping-paradise-valley</link>
+	  <author></author>
+	  <pubDate>2010-03-08T10:54:36+00:00</pubDate>
+	  <guid>/blog//long-weekend-camping-paradise-valley</guid>
+	  <description><![CDATA[
+	     <p><img src="/blog//assets/images/paradise-valley.jpg" alt="Paradise Valley" title="Paradise Valley" />]
+Well the long weekend is over, and we survived the weather…</p>
+
+<p>Paradise Valley was great. What better way to relax than sitting by the camp fire, drinking a few cold ones with mates.</p>
+
+<p>Can’t wait until the next long weekend.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

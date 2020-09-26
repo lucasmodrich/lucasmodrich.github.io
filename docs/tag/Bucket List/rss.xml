@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Top 10 visited, and bucket list destinations</title>
+	  <link>/blog//top-10-visited-and-bucket-list-destinations</link>
+	  <author></author>
+	  <pubDate>2012-05-12T00:41:19+00:00</pubDate>
+	  <guid>/blog//top-10-visited-and-bucket-list-destinations</guid>
+	  <description><![CDATA[
+	     <p>So I have started to put some more thought into the content of my blog - trying to refocus back on why I originally started it - travel, stories and experiences.</p>
+
+<p>To that end, I have started to go back over our travels, and reminisce about the stories and experiences we have had.  This has lead me to start thinking about the destinations I enjoyed the most - my <a href="travel-top-10-favourite-places-and-what-we-liked-most-about-them/" title="Travel Top 10">Top 10</a>, as well as putting together the wish list - my <a href="travel-destination-bucket-list/" title="Travel Destination Bucket List">travel destination bucket list</a>… the places I would love to see next.</p>
+
+<p><a href="travel-top-10-favourite-places-and-what-we-liked-most-about-them/" title="Travel Top 10">My Travel Top 10</a> is coming along slowly.  It’s a very considered process including a destination into my top 10. I need to go back over all the places I have been to and try to figure out what it was about each place that made it special, and if that is sufficient for it to qualify for the elusive top 10.</p>
+
+<p>Similarly with the <a href="travel-destination-bucket-list/" title="Travel Destination Bucket List">Destination Bucket List</a>.  There are so many places to see in the world, but which of these are truly the ones I want to see.</p>
+
+<p>I’m hoping to keep both of these lists updated regularly.  As I travel and see new places.  The bucket list will hopefully be the driver of where to next, and the top 10 will determine if it was truly one of the places in the world that I enjoyed.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

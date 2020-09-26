@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>Stories and experiences from our occasional travels</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Istanbul awakes</title>
+	  <link>/blog//istanbul-awakes</link>
+	  <author></author>
+	  <pubDate>2012-05-21T21:10:50+00:00</pubDate>
+	  <guid>/blog//istanbul-awakes</guid>
+	  <description><![CDATA[
+	     <p>So after our first day in Istanbul I can confess it has well and truly won me over. There is something about Istanbul… Something I can’t quite put my finger on… something that has defiantly drawn me in.</p>
+
+<p>This morning I find myself waking early - possibly due to jet lag, possibly due to the prayer calls - but I’m not complaining in the least. I headed up to the roof top terrace of our hotel to sit and watch as Istanbul slowly comes to life as the sun rises.</p>
+
+<p>The outlook is across the Golden Horn and the Bosporus, with the Blue Mosque over my right shoulder and the Aya Sophia over my left. What could be more pleasant than this.</p>
+
+<p><img src="/blog//assets/images/20120522-081159.jpg" alt="20120522-081159.jpg" /></p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
