@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Our last day in Greece</title>
 	  <link>/our-last-day-in-greece</link>
 	  <author></author>
-	  <pubDate>2008-06-15T04:08:19+10:00</pubDate>
+	  <pubDate>2008-06-14T18:08:19+00:00</pubDate>
 	  <guid>/our-last-day-in-greece</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/greece.jpg" alt="" title="Greece" />]
@@ -41,7 +41,7 @@ Today is our last full day in Greece, as we fly out tomorrow at lunch time - mea
 	  <title>A slow boat on the Aegean</title>
 	  <link>/a-slow-boat-on-the-aegean</link>
 	  <author></author>
-	  <pubDate>2008-06-13T07:52:18+10:00</pubDate>
+	  <pubDate>2008-06-12T21:52:18+00:00</pubDate>
 	  <guid>/a-slow-boat-on-the-aegean</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/greece-cruise.jpg" alt="" title="Greece - Cruise" />
@@ -68,7 +68,7 @@ We spent some time on each of the islands, and managed to fit a swim in on the l
 	  <title>A slow day in Athens</title>
 	  <link>/a-slow-day-in-athens</link>
 	  <author></author>
-	  <pubDate>2008-06-12T06:34:59+10:00</pubDate>
+	  <pubDate>2008-06-11T20:34:59+00:00</pubDate>
 	  <guid>/a-slow-day-in-athens</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/athens.jpg" alt="" title="Athens" />

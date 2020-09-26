@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>The Sound of Salzburg</title>
 	  <link>/the-sound-of-salburg</link>
 	  <author></author>
-	  <pubDate>2008-07-01T20:00:34+10:00</pubDate>
+	  <pubDate>2008-07-01T10:00:34+00:00</pubDate>
 	  <guid>/the-sound-of-salburg</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/saltzberg-at-night.jpg" alt="" title="Salzburg at night" />
@@ -51,7 +51,7 @@ After this we headed to another beer garden – this one was run by monks, and w
 	  <title>Munich...Beer halls, beer halls, beer halls... Oh and tripod!</title>
 	  <link>/munich-beer-halls-beer-halls-beer-halls-oh-and-tripod</link>
 	  <author></author>
-	  <pubDate>2008-06-29T20:00:00+10:00</pubDate>
+	  <pubDate>2008-06-29T10:00:00+00:00</pubDate>
 	  <guid>/munich-beer-halls-beer-halls-beer-halls-oh-and-tripod</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/munich-beer-halls.jpg" alt="" title="Munich - Beer Halls" />
@@ -117,7 +117,7 @@ The following day was a somewhat more sombre affair – we took a tour out to Da
 	  <title>Guten tag! Willkommen in Deuchland</title>
 	  <link>/guten-tag-willkommen-in-deuchland</link>
 	  <author></author>
-	  <pubDate>2008-06-19T05:23:05+10:00</pubDate>
+	  <pubDate>2008-06-18T19:23:05+00:00</pubDate>
 	  <guid>/guten-tag-willkommen-in-deuchland</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/bremen-becks.jpg" alt="" title="Bremen - Becks" />

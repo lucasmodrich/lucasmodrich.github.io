@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Peru in review</title>
 	  <link>/peru-in-review</link>
 	  <author></author>
-	  <pubDate>2008-05-23T08:42:01+10:00</pubDate>
+	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
 	  <guid>/peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
@@ -78,7 +78,7 @@
 	  <title>Machu Picchu</title>
 	  <link>/machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-11T14:24:20+10:00</pubDate>
+	  <pubDate>2008-05-11T04:24:20+00:00</pubDate>
 	  <guid>/machu-picchu</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-machu-picchu.jpg" alt="" title="Peru - Machu Picchu" />
@@ -116,7 +116,7 @@ We got off to a very early start this morning - 4.30am, breakfast at 5, and on t
 	  <title>On the road to Machu Picchu</title>
 	  <link>/on-the-road-to-machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-10T09:27:17+10:00</pubDate>
+	  <pubDate>2008-05-09T23:27:17+00:00</pubDate>
 	  <guid>/on-the-road-to-machu-picchu</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-inca-ruins.jpg" alt="" title="Peru - Inca Ruins" />]

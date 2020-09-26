@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>(Almost) Fathers Day</title>
 	  <link>/almost-fathers-day</link>
 	  <author></author>
-	  <pubDate>2013-09-01T20:05:36+10:00</pubDate>
+	  <pubDate>2013-09-01T10:05:36+00:00</pubDate>
 	  <guid>/almost-fathers-day</guid>
 	  <description><![CDATA[
 	     <p>So to day was Fathers Day.</p>
@@ -48,7 +48,7 @@
 	  <title>Just wandering around</title>
 	  <link>/just-wandering-around</link>
 	  <author></author>
-	  <pubDate>2013-08-31T17:20:37+10:00</pubDate>
+	  <pubDate>2013-08-31T07:20:37+00:00</pubDate>
 	  <guid>/just-wandering-around</guid>
 	  <description><![CDATA[
 	     <p>Today’s plans evolved organically with more of a “why not” attitude rather than specific planning.</p>
@@ -95,7 +95,7 @@
 	  <title>Chill out in Kingscliff ("The Babymoon")</title>
 	  <link>/chill-out-in-kingscliff-the-babymoon</link>
 	  <author></author>
-	  <pubDate>2013-08-30T15:36:43+10:00</pubDate>
+	  <pubDate>2013-08-30T05:36:43+00:00</pubDate>
 	  <guid>/chill-out-in-kingscliff-the-babymoon</guid>
 	  <description><![CDATA[
 	     <p>It’s a cold, wet and windy Melbourne morning… 3am, and the alarm goes off.</p>

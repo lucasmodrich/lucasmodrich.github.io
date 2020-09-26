@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Privacy Update</title>
 	  <link>/privacy-update</link>
 	  <author></author>
-	  <pubDate>2018-05-25T08:54:19+10:00</pubDate>
+	  <pubDate>2018-05-24T22:54:19+00:00</pubDate>
 	  <guid>/privacy-update</guid>
 	  <description><![CDATA[
 	     <p>The right to privacy is a serious matter, and something that I take very seriously.</p>
@@ -36,7 +36,7 @@
 	  <title>A new look and a new home</title>
 	  <link>/a-new-look-and-a-new-home</link>
 	  <author></author>
-	  <pubDate>2017-10-16T17:23:23+11:00</pubDate>
+	  <pubDate>2017-10-16T06:23:23+00:00</pubDate>
 	  <guid>/a-new-look-and-a-new-home</guid>
 	  <description><![CDATA[
 	     <p>We have finished renovating our old home here at Wordpress.com, and have now moved back in. The old place at SquareSpace is still lingering, but will soon disappear for good.</p>
@@ -56,7 +56,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>Working in Durban (RSA)</title>
 	  <link>/working-in-durban-rsa</link>
 	  <author></author>
-	  <pubDate>2016-08-09T17:42:00+10:00</pubDate>
+	  <pubDate>2016-08-09T07:42:00+00:00</pubDate>
 	  <guid>/working-in-durban-rsa</guid>
 	  <description><![CDATA[
 	     <p>So I have been in Durban for a few days now. Mostly work meetings with clients and not much down time to get out and see the place (im not hear for leisure!).</p>
@@ -93,7 +93,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>Headed to South Africa (for Work)</title>
 	  <link>/headed-to-south-africa-for-work</link>
 	  <author></author>
-	  <pubDate>2016-08-06T13:39:24+10:00</pubDate>
+	  <pubDate>2016-08-06T03:39:24+00:00</pubDate>
 	  <guid>/headed-to-south-africa-for-work</guid>
 	  <description><![CDATA[
 	     <p>Tonight I boarded a flight from Melbourne destined for Durban, South Africa - via Perth (on Virgin Australia) and Johannesburg (on South African Airlines).</p>
@@ -124,7 +124,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>The City of Angels</title>
 	  <link>/the-city-of-angels</link>
 	  <author></author>
-	  <pubDate>2015-08-25T06:04:35+10:00</pubDate>
+	  <pubDate>2015-08-24T20:04:35+00:00</pubDate>
 	  <guid>/the-city-of-angels</guid>
 	  <description><![CDATA[
 	     <p>Earlier in the week (Monday 17th Aug) we left New York behind us (sad to leave but we have to move on), and flew across the country to Los Angeles.</p>
@@ -251,7 +251,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>New York, New York</title>
 	  <link>/new-york-new-york</link>
 	  <author></author>
-	  <pubDate>2015-08-16T21:12:00+10:00</pubDate>
+	  <pubDate>2015-08-16T11:12:00+00:00</pubDate>
 	  <guid>/new-york-new-york</guid>
 	  <description><![CDATA[
 	     <p><strong>Updated 24-Aug-2015:</strong> As promised, more pictures have now been added to this post.</p>
@@ -630,7 +630,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>London Gin Club in Soho</title>
 	  <link>/london-gin-club-in-soho</link>
 	  <author></author>
-	  <pubDate>2015-08-09T11:09:27+10:00</pubDate>
+	  <pubDate>2015-08-09T01:09:27+00:00</pubDate>
 	  <guid>/london-gin-club-in-soho</guid>
 	  <description><![CDATA[
 	     <p>Last night was our final night in London. Laura and I left Archie with Mum and Jo and then headed out to Soho to find the London Gin Club - something Laura had kindly tracked down for me and thought it would be a great way to spend our last night in London.</p>
@@ -679,7 +679,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>London and Bath</title>
 	  <link>/london-and-bath</link>
 	  <author></author>
-	  <pubDate>2015-08-08T17:32:57+10:00</pubDate>
+	  <pubDate>2015-08-08T07:32:57+00:00</pubDate>
 	  <guid>/london-and-bath</guid>
 	  <description><![CDATA[
 	     <p>So we arrived into London on Thursday afternoon (6th August) from Paris after catching the EuroStar train across the channel.</p>
@@ -774,7 +774,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>Exploring more of Paris</title>
 	  <link>/exploring-more-of-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-05T19:26:53+10:00</pubDate>
+	  <pubDate>2015-08-05T09:26:53+00:00</pubDate>
 	  <guid>/exploring-more-of-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.</p>
@@ -839,7 +839,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 	  <title>A big day in Paris</title>
 	  <link>/a-big-day-in-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-04T17:59:07+10:00</pubDate>
+	  <pubDate>2015-08-04T07:59:07+00:00</pubDate>
 	  <guid>/a-big-day-in-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been a very BIG day or us in and around Paris - and we are all knackered.</p>

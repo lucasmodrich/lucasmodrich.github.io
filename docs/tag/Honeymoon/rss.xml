@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Time out in Thailand</title>
 	  <link>/time-out-in-thailand</link>
 	  <author></author>
-	  <pubDate>2008-08-06T20:24:06+10:00</pubDate>
+	  <pubDate>2008-08-06T10:24:06+00:00</pubDate>
 	  <guid>/time-out-in-thailand</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/thailand-bedroom.jpg" alt="" title="Thailand - Bedroom" />
@@ -57,7 +57,7 @@ After a few meals in the Resorts restaurant, we woke up and found the</p>
 	  <title>Santiago pictures</title>
 	  <link>/santiago-pictures</link>
 	  <author></author>
-	  <pubDate>2008-04-17T09:49:03+10:00</pubDate>
+	  <pubDate>2008-04-16T23:49:03+00:00</pubDate>
 	  <guid>/santiago-pictures</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/chile-santiago-streets.jpg" alt="" title="Chile - Santiago streets" /></p>
@@ -72,7 +72,7 @@ After a few meals in the Resorts restaurant, we woke up and found the</p>
 	  <title>Hola! The trip begins.</title>
 	  <link>/hola-the-trip-begins</link>
 	  <author></author>
-	  <pubDate>2008-04-16T01:47:24+10:00</pubDate>
+	  <pubDate>2008-04-15T15:47:24+00:00</pubDate>
 	  <guid>/hola-the-trip-begins</guid>
 	  <description><![CDATA[
 	     <p>Hi all,</p>

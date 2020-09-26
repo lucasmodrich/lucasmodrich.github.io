@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Italian transport strike</title>
 	  <link>/italian-transport-strike</link>
 	  <author></author>
-	  <pubDate>2008-07-07T19:05:32+10:00</pubDate>
+	  <pubDate>2008-07-07T09:05:32+00:00</pubDate>
 	  <guid>/italian-transport-strike</guid>
 	  <description><![CDATA[
 	     <p>Despite all efforts to plan and schedule the Italian leg of our trip, there is nothing we can do about a public transport strike.</p>
@@ -32,7 +32,7 @@
 	  <title>The Bologna country side</title>
 	  <link>/the-bologna-country-side</link>
 	  <author></author>
-	  <pubDate>2008-07-05T19:38:06+10:00</pubDate>
+	  <pubDate>2008-07-05T09:38:06+00:00</pubDate>
 	  <guid>/the-bologna-country-side</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/bolonga.jpg" alt="" title="Bologna" />]

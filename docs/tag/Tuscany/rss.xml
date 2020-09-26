@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>San Gimignano</title>
 	  <link>/san-gimignano</link>
 	  <author></author>
-	  <pubDate>2015-07-23T19:52:00+10:00</pubDate>
+	  <pubDate>2015-07-23T09:52:00+00:00</pubDate>
 	  <guid>/san-gimignano</guid>
 	  <description><![CDATA[
 	     <p>On Friday (24th July) we set out early and took a road trip to San Gimignano - about an hour or so away from where we were staying at the villa.</p>
@@ -86,7 +86,7 @@
 	  <title>Vino e Pizza</title>
 	  <link>/vino-e-pizza</link>
 	  <author></author>
-	  <pubDate>2015-07-22T19:51:00+10:00</pubDate>
+	  <pubDate>2015-07-22T09:51:00+00:00</pubDate>
 	  <guid>/vino-e-pizza</guid>
 	  <description><![CDATA[
 	     <p>So… We have been without Internet access for a few days, and the blog posts have been limited as a result of this. I have a lot to catch up on and as Internet access becomes available - and I have time - new blog posts will begin to show up.</p>
@@ -155,7 +155,7 @@
 	  <title>A Tuscan Feast</title>
 	  <link>/a-tuscan-feast</link>
 	  <author></author>
-	  <pubDate>2015-07-21T07:56:00+10:00</pubDate>
+	  <pubDate>2015-07-20T21:56:00+00:00</pubDate>
 	  <guid>/a-tuscan-feast</guid>
 	  <description><![CDATA[
 	     <p>We arranged with Franco, the owner of the villa, to prepare us a traditional Tuscan feast (an option available to anyone staying at the villa) on Tuesday evening.</p>
@@ -226,7 +226,7 @@
 	  <title>An evening in Siena</title>
 	  <link>/an-evening-in-siena</link>
 	  <author></author>
-	  <pubDate>2015-07-20T13:48:00+10:00</pubDate>
+	  <pubDate>2015-07-20T03:48:00+00:00</pubDate>
 	  <guid>/an-evening-in-siena</guid>
 	  <description><![CDATA[
 	     <p>Today we decided to venture out to nearby Siena for the evening - its too hot (38-40c) to be out and about with the kids during the heat of the day, and for us the time is much better spent cooling off and relaxing by the pool.</p>
@@ -295,7 +295,7 @@
 	  <title>Villa Podere Incrociati</title>
 	  <link>/villa-podere-incrociati</link>
 	  <author></author>
-	  <pubDate>2015-07-19T13:46:54+10:00</pubDate>
+	  <pubDate>2015-07-19T03:46:54+00:00</pubDate>
 	  <guid>/villa-podere-incrociati</guid>
 	  <description><![CDATA[
 	     <p>So after a long few days of travel, we arrived yesterday evening at what will become our home for the next week - villa <a href="http://www.podereincrociati.it">Podere Incronciati</a> - a traditional Tuscan villa built in 1840 about 20km outside of Siena.</p>
@@ -352,7 +352,7 @@
 	  <title>The Family Vacation - Let's Begin</title>
 	  <link>/the-family-vacation-lets-begin</link>
 	  <author></author>
-	  <pubDate>2015-07-19T08:20:25+10:00</pubDate>
+	  <pubDate>2015-07-18T22:20:25+00:00</pubDate>
 	  <guid>/the-family-vacation-lets-begin</guid>
 	  <description><![CDATA[
 	     <p>So… The last few day have been hectic and somewhat full-on to say the least.</p>
@@ -469,7 +469,7 @@
 	  <title>Only days away</title>
 	  <link>/only-days-away</link>
 	  <author></author>
-	  <pubDate>2015-07-11T03:19:25+10:00</pubDate>
+	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
 	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
@@ -500,7 +500,7 @@
 	  <title>Under the Tuscan Sun</title>
 	  <link>/under-the-tuscan-sun</link>
 	  <author></author>
-	  <pubDate>2008-07-09T05:30:55+10:00</pubDate>
+	  <pubDate>2008-07-08T19:30:55+00:00</pubDate>
 	  <guid>/under-the-tuscan-sun</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/tuscany.jpg" alt="" title="Tuscany" />
