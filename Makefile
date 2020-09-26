@@ -5,5 +5,5 @@ update:
 	bundle update
 install:
 	bundle install
-serve:
+serve: clean
 	bundle exec jekyll serve
