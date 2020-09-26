@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Chill out in Kingscliff ("The Babymoon")</title>
-	  <link>/chill-out-in-kingscliff-the-babymoon</link>
+	  <link>//chill-out-in-kingscliff-the-babymoon</link>
 	  <author></author>
-	  <pubDate>2013-08-30T15:36:43+10:00</pubDate>
-	  <guid>/chill-out-in-kingscliff-the-babymoon</guid>
+	  <pubDate>2013-08-30T05:36:43+00:00</pubDate>
+	  <guid>//chill-out-in-kingscliff-the-babymoon</guid>
 	  <description><![CDATA[
 	     <p>It’s a cold, wet and windy Melbourne morning… 3am, and the alarm goes off.</p>
 
@@ -35,7 +35,7 @@
 <p>Time for another…<br />
 Lets wait to see what tomorrow brings.</p>
 
-<p><img src="/assets/images/20130830-155136.jpg" alt="20130830-155136.jpg" /></p>
+<p><img src="//assets/images/20130830-155136.jpg" alt="20130830-155136.jpg" /></p>
 
 
 	  ]]></description>

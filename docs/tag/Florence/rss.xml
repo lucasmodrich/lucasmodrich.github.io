@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>Under the Tuscan Sun</title>
-	  <link>/under-the-tuscan-sun</link>
+	  <link>//under-the-tuscan-sun</link>
 	  <author></author>
-	  <pubDate>2008-07-09T05:30:55+10:00</pubDate>
-	  <guid>/under-the-tuscan-sun</guid>
+	  <pubDate>2008-07-08T19:30:55+00:00</pubDate>
+	  <guid>//under-the-tuscan-sun</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/tuscany.jpg" alt="" title="Tuscany" />
+	     <p><img src="//assets/images/tuscany.jpg" alt="" title="Tuscany" />
 The transport strike has finished, and so has our forced day of relaxation in Bologna (yes… we did absolutely nothing, and loved it!) - we grabbed the early train out of town and headed for Certaldo in Tuscany.</p>
 
 <p>Certaldo is a cute little town south west of Florence (Firenze), and north of Siena. We are staying in a beautiful agriturismo B&amp;B, come self contained shared apartment - it has everything, free mountain bikes, kitchen &amp; fridge, internet, etc, and is immaculate.</p>

@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>The Grand Bazaar</title>
-	  <link>/the-grand-bazaar</link>
+	  <link>//the-grand-bazaar</link>
 	  <author></author>
-	  <pubDate>2012-05-25T23:20:58+10:00</pubDate>
-	  <guid>/the-grand-bazaar</guid>
+	  <pubDate>2012-05-25T13:20:58+00:00</pubDate>
+	  <guid>//the-grand-bazaar</guid>
 	  <description><![CDATA[
 	     <p>So after getting in pretty late last night from our two day tour down to Gallipoli and Troy, we had a pretty slow morning all tolled.</p>
 
@@ -42,13 +42,13 @@
 
 <p>Anyway all told we had a great afternoon out at the Grand Bazaar. We managed to pick up a few pieces we liked at prices we thought were reasonable.</p>
 
-<p><img src="/assets/images/20120525-160708.jpg" alt="20120525-160708.jpg" /></p>
+<p><img src="//assets/images/20120525-160708.jpg" alt="20120525-160708.jpg" /></p>
 
-<p><img src="/assets/images/20120525-160719.jpg" alt="20120525-160719.jpg" /></p>
+<p><img src="//assets/images/20120525-160719.jpg" alt="20120525-160719.jpg" /></p>
 
-<p><img src="/assets/images/20120525-160734.jpg" alt="20120525-160734.jpg" /></p>
+<p><img src="//assets/images/20120525-160734.jpg" alt="20120525-160734.jpg" /></p>
 
-<p><img src="/assets/images/20120525-160748.jpg" alt="20120525-160748.jpg" /></p>
+<p><img src="//assets/images/20120525-160748.jpg" alt="20120525-160748.jpg" /></p>
 
 
 	  ]]></description>
@@ -56,10 +56,10 @@
 
 	<item>
 	  <title>Istanbul awakes</title>
-	  <link>/istanbul-awakes</link>
+	  <link>//istanbul-awakes</link>
 	  <author></author>
-	  <pubDate>2012-05-22T07:10:50+10:00</pubDate>
-	  <guid>/istanbul-awakes</guid>
+	  <pubDate>2012-05-21T21:10:50+00:00</pubDate>
+	  <guid>//istanbul-awakes</guid>
 	  <description><![CDATA[
 	     <p>So after our first day in Istanbul I can confess it has well and truly won me over. There is something about Istanbul… Something I can’t quite put my finger on… something that has defiantly drawn me in.</p>
 
@@ -67,7 +67,7 @@
 
 <p>The outlook is across the Golden Horn and the Bosporus, with the Blue Mosque over my right shoulder and the Aya Sophia over my left. What could be more pleasant than this.</p>
 
-<p><img src="/assets/images/20120522-081159.jpg" alt="20120522-081159.jpg" /></p>
+<p><img src="//assets/images/20120522-081159.jpg" alt="20120522-081159.jpg" /></p>
 
 
 	  ]]></description>

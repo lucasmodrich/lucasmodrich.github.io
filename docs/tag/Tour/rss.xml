@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Gallipoli</title>
-	  <link>/gallipoli</link>
+	  <link>//gallipoli</link>
 	  <author></author>
-	  <pubDate>2012-05-23T20:35:02+10:00</pubDate>
-	  <guid>/gallipoli</guid>
+	  <pubDate>2012-05-23T10:35:02+00:00</pubDate>
+	  <guid>//gallipoli</guid>
 	  <description><![CDATA[
 	     <p>Today we are on an overnight tour that will take us down to Gallipoli (Gelibolu) and then overnight in Canakkale (on the Asian side of Turkey), and the a tour through historic Troy before heading back to Istanbul later in the evening of the second day.</p>
 
@@ -34,29 +34,29 @@
 
 <p>All up I am extremely glad to have done the tour. Our guide was excellent and provided lots of detail and stories about each of the sites we visited.</p>
 
-<p><img src="/assets/images/20120524-083725.jpg" alt="20120524-083725.jpg" /></p>
+<p><img src="//assets/images/20120524-083725.jpg" alt="20120524-083725.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083811.jpg" alt="20120524-083811.jpg" /></p>
+<p><img src="//assets/images/20120524-083811.jpg" alt="20120524-083811.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083830.jpg" alt="20120524-083830.jpg" /></p>
+<p><img src="//assets/images/20120524-083830.jpg" alt="20120524-083830.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083844.jpg" alt="20120524-083844.jpg" /></p>
+<p><img src="//assets/images/20120524-083844.jpg" alt="20120524-083844.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083856.jpg" alt="20120524-083856.jpg" /></p>
+<p><img src="//assets/images/20120524-083856.jpg" alt="20120524-083856.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083911.jpg" alt="20120524-083911.jpg" /></p>
+<p><img src="//assets/images/20120524-083911.jpg" alt="20120524-083911.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083938.jpg" alt="20120524-083938.jpg" /></p>
+<p><img src="//assets/images/20120524-083938.jpg" alt="20120524-083938.jpg" /></p>
 
-<p><img src="/assets/images/20120524-083953.jpg" alt="20120524-083953.jpg" /></p>
+<p><img src="//assets/images/20120524-083953.jpg" alt="20120524-083953.jpg" /></p>
 
-<p><img src="/assets/images/20120524-084008.jpg" alt="20120524-084008.jpg" /></p>
+<p><img src="//assets/images/20120524-084008.jpg" alt="20120524-084008.jpg" /></p>
 
-<p><img src="/assets/images/20120524-084015.jpg" alt="20120524-084015.jpg" /></p>
+<p><img src="//assets/images/20120524-084015.jpg" alt="20120524-084015.jpg" /></p>
 
-<p><img src="/assets/images/20120524-084028.jpg" alt="20120524-084028.jpg" /></p>
+<p><img src="//assets/images/20120524-084028.jpg" alt="20120524-084028.jpg" /></p>
 
-<p><img src="/assets/images/20120525-001612.jpg" alt="20120525-001612.jpg" /></p>
+<p><img src="//assets/images/20120525-001612.jpg" alt="20120525-001612.jpg" /></p>
 
 
 	  ]]></description>

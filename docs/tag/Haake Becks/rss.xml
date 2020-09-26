@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>Guten tag! Willkommen in Deuchland</title>
-	  <link>/guten-tag-willkommen-in-deuchland</link>
+	  <link>//guten-tag-willkommen-in-deuchland</link>
 	  <author></author>
-	  <pubDate>2008-06-19T05:23:05+10:00</pubDate>
-	  <guid>/guten-tag-willkommen-in-deuchland</guid>
+	  <pubDate>2008-06-18T19:23:05+00:00</pubDate>
+	  <guid>//guten-tag-willkommen-in-deuchland</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/bremen-becks.jpg" alt="" title="Bremen - Becks" />
+	     <p><img src="//assets/images/bremen-becks.jpg" alt="" title="Bremen - Becks" />
 So we are in Germany now – having arrived from Tampere, Finland into Bremen the other day. We have been in Bremen for the last few days, staying with friends (Suzanne &amp; Richard) in their lovely apartment which is just a short ride from the heart of Bremen.</p>
 
 <p>We quickly realised that the Euro 2008 Cup (soccer) is in progress – and on the night we arrived Germany were facing off with Austria (the hosts), and it was a must win type of situation for Germany to allow them to progress through.</p>
@@ -29,7 +29,7 @@ So we are in Germany now – having arrived from Tampere, Finland into Bremen th
 
 <p>Coming into Bremen we new little about the city – we quickly discovered that its the home of the Beck’s Brewery (and this stuff is cheaper than water over here – 4 Euros for 3 liters at the supermarket!). Its also the home of the Traveling Musicians from the Brothers Grimm fairy tail (a donkey, dog, cat and a rooster).</p>
 
-<p><img src="/assets/images/bremen-city.jpg" alt="" title="Bremen - City" />
+<p><img src="//assets/images/bremen-city.jpg" alt="" title="Bremen - City" />
 The old town has some classically beautiful German architecture – Churches, and other lovely old style buildings.</p>
 
 <p>Riding into Bremen, we hit the Market Platz – basically the center of town, with lovely cafe’s, buildings, and markets all skirting the main plaza.</p>

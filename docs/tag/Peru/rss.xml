@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Peru in review</title>
-	  <link>/peru-in-review</link>
+	  <link>//peru-in-review</link>
 	  <author></author>
-	  <pubDate>2008-05-23T08:42:01+10:00</pubDate>
-	  <guid>/peru-in-review</guid>
+	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
+	  <guid>//peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
 
@@ -76,12 +76,12 @@
 
 	<item>
 	  <title>Welcome to the Jungle</title>
-	  <link>/welcome-to-the-jungle</link>
+	  <link>//welcome-to-the-jungle</link>
 	  <author></author>
-	  <pubDate>2008-05-15T10:27:35+10:00</pubDate>
-	  <guid>/welcome-to-the-jungle</guid>
+	  <pubDate>2008-05-15T00:27:35+00:00</pubDate>
+	  <guid>//welcome-to-the-jungle</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-amazon-from-the-air.jpg" alt="" title="Peru - Amazon from the air" />
+	     <p><img src="//assets/images/peru-amazon-from-the-air.jpg" alt="" title="Peru - Amazon from the air" />
 From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldonado in the Amazon Jungle.</p>
 
 <p>While being back close to sea level was a relief, the temperature had also increased considerably along with the humidity, and the number of mosquitoes - although, none of these were quite as bad as we had expected.</p>
@@ -122,12 +122,12 @@ From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldo
 
 	<item>
 	  <title>Machu Picchu</title>
-	  <link>/machu-picchu</link>
+	  <link>//machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-11T14:24:20+10:00</pubDate>
-	  <guid>/machu-picchu</guid>
+	  <pubDate>2008-05-11T04:24:20+00:00</pubDate>
+	  <guid>//machu-picchu</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-machu-picchu.jpg" alt="" title="Peru - Machu Picchu" />
+	     <p><img src="//assets/images/peru-machu-picchu.jpg" alt="" title="Peru - Machu Picchu" />
 We got off to a very early start this morning - 4.30am, breakfast at 5, and on the bus up to Machu Picchu at 5.30.</p>
 
 <p>The bus departs from the bus station in Aquas Calientes and heads down a narrow road into the jungle before crossing the river to begin the step and windy assent up the Machu Picchu mountain. Both Laura and I are not the best with heights, and buses driving along shear cliff faces is one thing we both battle for the isle seat on. Laura scored the window seat on the way up - were not certain if the partial daylight made the trip better or worse, but we made it to the top in one piece, although a there were a few nifty manuevers on the way up as two buses passed each other on the often very narrow track.</p>
@@ -160,12 +160,12 @@ We got off to a very early start this morning - 4.30am, breakfast at 5, and on t
 
 	<item>
 	  <title>On the road to Machu Picchu</title>
-	  <link>/on-the-road-to-machu-picchu</link>
+	  <link>//on-the-road-to-machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-10T09:27:17+10:00</pubDate>
-	  <guid>/on-the-road-to-machu-picchu</guid>
+	  <pubDate>2008-05-09T23:27:17+00:00</pubDate>
+	  <guid>//on-the-road-to-machu-picchu</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-inca-ruins.jpg" alt="" title="Peru - Inca Ruins" />]
+	     <p><img src="//assets/images/peru-inca-ruins.jpg" alt="" title="Peru - Inca Ruins" />]
 So we left Cuzco yesterday afternoon headed for Ollantaytambo, a small rural town which is part of Cuzco province, and a couple of hours out of Cuzco city.</p>
 
 <p>On the way we passed through the sacred valley and visited the large markets in Pisac - again buying a few souvenirs. We then continued on to another small rural town where we had some local interaction. We were met at the local petrol station by a local (guide) on a push bike. We followed him through a number of back streets in our bus and eventually arrived at a local pottery factory.</p>
@@ -194,12 +194,12 @@ So we left Cuzco yesterday afternoon headed for Ollantaytambo, a small rural tow
 
 	<item>
 	  <title>Cuzco here we come</title>
-	  <link>/cuzco-here-we-come</link>
+	  <link>//cuzco-here-we-come</link>
 	  <author></author>
-	  <pubDate>2008-05-06T23:32:29+10:00</pubDate>
-	  <guid>/cuzco-here-we-come</guid>
+	  <pubDate>2008-05-06T13:32:29+00:00</pubDate>
+	  <guid>//cuzco-here-we-come</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-in-the-andies.jpg" alt="" title="Peru - In the Andies" />
+	     <p><img src="//assets/images/peru-in-the-andies.jpg" alt="" title="Peru - In the Andies" />
 So after another long bus ride across the Andean country side we arrived in Cuzco yesterday afternoon - and what a relief this was. The 7 hour bus ride across Peruvian highways that at times were as smooth as a bad gravel road was wearing thin - plus our butts were sore from sitting for so long ;).</p>
 
 <p>Cuzco really is the oasis we have been waiting for - its downtown region is really old and beautiful with a definite European feel. The icing on the cake for us is that we are sort of starting to feel better!</p>
@@ -218,12 +218,12 @@ So after another long bus ride across the Andean country side we arrived in Cuzc
 
 	<item>
 	  <title>Lake Titicaca home stay</title>
-	  <link>/lake-titicaca-home-stay</link>
+	  <link>//lake-titicaca-home-stay</link>
 	  <author></author>
-	  <pubDate>2008-05-05T10:29:30+10:00</pubDate>
-	  <guid>/lake-titicaca-home-stay</guid>
+	  <pubDate>2008-05-05T00:29:30+00:00</pubDate>
+	  <guid>//lake-titicaca-home-stay</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-lake-titi-caca.jpg" alt="" title="Peru - Lake Titi Caca" />
+	     <p><img src="//assets/images/peru-lake-titi-caca.jpg" alt="" title="Peru - Lake Titi Caca" />
 So we are back in Puno now (which is located on the shores of lake Titicaca) after leaving yesterday morning for our home-stay. We are both felling 100% on what we have been and hopefully the worst is behind us. We still need to be a little careful with our stomachs as they are still a little tender, but generally much better than they have been over the past 3-4 days.</p>
 
 <p>Leaving the hotel yesterday we caught the local limo service - bicycle taxi’s. This was quite a ride with a dozen of us heading of in these peddle powered vehicles, and our drivers all competing to get us to the port first.</p>
@@ -260,12 +260,12 @@ So we are back in Puno now (which is located on the shores of lake Titicaca) aft
 
 	<item>
 	  <title>Colca Canyon and Home Stay</title>
-	  <link>/colca-canyon-and-home-stay</link>
+	  <link>//colca-canyon-and-home-stay</link>
 	  <author></author>
-	  <pubDate>2008-05-03T12:53:29+10:00</pubDate>
-	  <guid>/colca-canyon-and-home-stay</guid>
+	  <pubDate>2008-05-03T02:53:29+00:00</pubDate>
+	  <guid>//colca-canyon-and-home-stay</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-colca-canyon.jpg" alt="" title="Peru - Colca Canyon" />
+	     <p><img src="//assets/images/peru-colca-canyon.jpg" alt="" title="Peru - Colca Canyon" />
 From Arequipa we headed to the Colca Canyon - passing through altitudes of almost 5,000m on the way.</p>
 
 <p>When you get off the bus at these altitudes, you have to take it very slowly! Even very slow walking causes your head to spin and heart to thump. I thought it was convenient that they had roadside markets in places like this. Unknowing tourists such as ourselves jump off the bus in the high altitude, dizzy due to lack of oxygen, and purchase anything that is going before making it back to the bus to recover.</p>
@@ -290,12 +290,12 @@ From Arequipa we headed to the Colca Canyon - passing through altitudes of almos
 
 	<item>
 	  <title>We made it to Arequipa</title>
-	  <link>/we-made-it-to-arequipa</link>
+	  <link>//we-made-it-to-arequipa</link>
 	  <author></author>
-	  <pubDate>2008-04-30T14:09:30+10:00</pubDate>
-	  <guid>/we-made-it-to-arequipa</guid>
+	  <pubDate>2008-04-30T04:09:30+00:00</pubDate>
+	  <guid>//we-made-it-to-arequipa</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-arequipa.jpg" alt="" title="Peru - Arequipa" />]
+	     <p><img src="//assets/images/peru-arequipa.jpg" alt="" title="Peru - Arequipa" />]
 So we caught the overnight bus from Nazca last night. We were not expecting too much, but we were pretty surprised when we boarded the bus to find it was equipped with recliner seats - i’m not just talking about being able to recline the back of the seat, but a leg rest as well. It was pretty well equipped - not that is really any exchange for a real bed and pillow. While we did sleep, I was pretty restless but probably the best you could expect on a bus.</p>
 
 <p>I get the feeling that the idea of having an overnight bus is mainly to combat the potential for car sickness. Nazca is about 500m above sea level, while Arequipa is over 2,500m - so there is a lot of mountain climbing involved, and this involves many many windy and often hairpin turns.</p>
@@ -320,12 +320,12 @@ So we caught the overnight bus from Nazca last night. We were not expecting too 
 
 	<item>
 	  <title>Peru here we come</title>
-	  <link>/peru-here-we-come</link>
+	  <link>//peru-here-we-come</link>
 	  <author></author>
-	  <pubDate>2008-04-29T13:58:53+10:00</pubDate>
-	  <guid>/peru-here-we-come</guid>
+	  <pubDate>2008-04-29T03:58:53+00:00</pubDate>
+	  <guid>//peru-here-we-come</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/peru-nazca-lines.jpg" alt="" title="Peru - Nazca Lines" />
+	     <p><img src="//assets/images/peru-nazca-lines.jpg" alt="" title="Peru - Nazca Lines" />
 It’s been a few days since we have had a chance to grab a seat in front of a computer (probably a good thing), so I will try to fill you all in on what we have been up to in the last few days.</p>
 
 <p>We started our Intrepid tour of Peru on Friday. We all met in a small hotel in Miraflores (a suburb of Lima). There are 13 of us in the group, and we all get along really well. The group is a really well balanced mix of people and ages - mostly Australians, and some Poms.</p>
@@ -368,10 +368,10 @@ It’s been a few days since we have had a chance to grab a seat in front of a c
 
 	<item>
 	  <title>Peruvian Highlights Tour Begins</title>
-	  <link>/peruvian-highlights-tour-begins</link>
+	  <link>//peruvian-highlights-tour-begins</link>
 	  <author></author>
-	  <pubDate>2008-04-27T10:31:01+10:00</pubDate>
-	  <guid>/peruvian-highlights-tour-begins</guid>
+	  <pubDate>2008-04-27T00:31:01+00:00</pubDate>
+	  <guid>//peruvian-highlights-tour-begins</guid>
 	  <description><![CDATA[
 	     <p>We meet up with our tour group last night in Miraflores (just out of Lima) in the hotel we were staying in for the night.</p>
 

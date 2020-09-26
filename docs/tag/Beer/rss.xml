@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>(Almost) Fathers Day</title>
-	  <link>/almost-fathers-day</link>
+	  <link>//almost-fathers-day</link>
 	  <author></author>
-	  <pubDate>2013-09-01T20:05:36+10:00</pubDate>
-	  <guid>/almost-fathers-day</guid>
+	  <pubDate>2013-09-01T10:05:36+00:00</pubDate>
+	  <guid>//almost-fathers-day</guid>
 	  <description><![CDATA[
 	     <p>So to day was Fathers Day.</p>
 
@@ -34,11 +34,11 @@
 
 <p>Sorry to think that this will likely be our last trip away for a few years. Time to focus on family!</p>
 
-<p><img src="/assets/images/20130901-200603.jpg" alt="20130901-200603.jpg" /></p>
+<p><img src="//assets/images/20130901-200603.jpg" alt="20130901-200603.jpg" /></p>
 
-<p><img src="/assets/images/20130901-200618.jpg" alt="20130901-200618.jpg" /></p>
+<p><img src="//assets/images/20130901-200618.jpg" alt="20130901-200618.jpg" /></p>
 
-<p><img src="/assets/images/20130901-200626.jpg" alt="20130901-200626.jpg" /></p>
+<p><img src="//assets/images/20130901-200626.jpg" alt="20130901-200626.jpg" /></p>
 
 
 	  ]]></description>
@@ -46,10 +46,10 @@
 
 	<item>
 	  <title>The Flying Saucer</title>
-	  <link>/the-flying-saucer</link>
+	  <link>//the-flying-saucer</link>
 	  <author></author>
-	  <pubDate>2013-01-27T18:30:26+11:00</pubDate>
-	  <guid>/the-flying-saucer</guid>
+	  <pubDate>2013-01-27T07:30:26+00:00</pubDate>
+	  <guid>//the-flying-saucer</guid>
 	  <description><![CDATA[
 	     <p>So it’s a Sunday afternoon in Raleigh, North Carolina. I find myself downtown with not much to do - as most places are closed.</p>
 
@@ -73,19 +73,19 @@
 
 <p>Given I was in transit for 26 hours yesterday, I have declared today to be my own personal and informal Australia Day. And I find the Flying Saucer a most enjoyable place to celebrate the day.</p>
 
-<p><img src="/assets/images/20130127-165641.jpg" alt="20130127-165641.jpg" /></p>
+<p><img src="//assets/images/20130127-165641.jpg" alt="20130127-165641.jpg" /></p>
 
-<p><img src="/assets/images/20130127-165652.jpg" alt="20130127-165652.jpg" /></p>
+<p><img src="//assets/images/20130127-165652.jpg" alt="20130127-165652.jpg" /></p>
 
-<p><img src="/assets/images/20130127-165700.jpg" alt="20130127-165700.jpg" /></p>
+<p><img src="//assets/images/20130127-165700.jpg" alt="20130127-165700.jpg" /></p>
 
-<p><img src="/assets/images/20130127-165707.jpg" alt="20130127-165707.jpg" /></p>
+<p><img src="//assets/images/20130127-165707.jpg" alt="20130127-165707.jpg" /></p>
 
-<p><img src="/assets/images/20130127-165713.jpg" alt="20130127-165713.jpg" /></p>
+<p><img src="//assets/images/20130127-165713.jpg" alt="20130127-165713.jpg" /></p>
 
-<p><img src="/assets/images/20130127-165722.jpg" alt="20130127-165722.jpg" /></p>
+<p><img src="//assets/images/20130127-165722.jpg" alt="20130127-165722.jpg" /></p>
 
-<p><img src="/assets/images/20130127-193141.jpg" alt="20130127-193141.jpg" /></p>
+<p><img src="//assets/images/20130127-193141.jpg" alt="20130127-193141.jpg" /></p>
 
 
 	  ]]></description>

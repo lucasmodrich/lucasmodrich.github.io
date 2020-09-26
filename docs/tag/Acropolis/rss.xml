@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>A slow day in Athens</title>
-	  <link>/a-slow-day-in-athens</link>
+	  <link>//a-slow-day-in-athens</link>
 	  <author></author>
-	  <pubDate>2008-06-12T06:34:59+10:00</pubDate>
-	  <guid>/a-slow-day-in-athens</guid>
+	  <pubDate>2008-06-11T20:34:59+00:00</pubDate>
+	  <guid>//a-slow-day-in-athens</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/athens.jpg" alt="" title="Athens" />
+	     <p><img src="//assets/images/athens.jpg" alt="" title="Athens" />
 We got into Athens yesterday afternoon - great weather, we managed to escape the bad weather that has been forecast for the UK!</p>
 
 <p>Yesterday basically involved getting from the airport to the hotel and checking in.</p>

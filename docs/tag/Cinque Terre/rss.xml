@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link>http://localhost:4000</link>
+   <link></link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>The Cinque Terre</title>
-	  <link>/the-cinque-terre</link>
+	  <link>//the-cinque-terre</link>
 	  <author></author>
-	  <pubDate>2008-07-15T07:54:00+10:00</pubDate>
-	  <guid>/the-cinque-terre</guid>
+	  <pubDate>2008-07-14T21:54:00+00:00</pubDate>
+	  <guid>//the-cinque-terre</guid>
 	  <description><![CDATA[
-	     <p><img src="/assets/images/cinque-terra.jpg" alt="" title="Cinque Terra" />
+	     <p><img src="//assets/images/cinque-terra.jpg" alt="" title="Cinque Terra" />
 We arrived in Riomaggiore, the southern most town in the group of 5 towns that make up the ‘Cinque Terre’, and were immediately amazed by the bella vista that was in front of us.</p>
 
 <p>We walked through the center of town to find the accommodation office. After a short discussion with the office lady we were off - winding our way through tiny streets and up stairs, to reach our apartment some 300m away and 120 steps up the hill side.</p>
