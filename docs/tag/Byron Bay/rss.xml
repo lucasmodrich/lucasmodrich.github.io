@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Just wandering around</title>
 	  <link>/just-wandering-around</link>
 	  <author></author>
-	  <pubDate>2013-08-31T07:20:37+00:00</pubDate>
+	  <pubDate>2013-08-31T17:20:37+10:00</pubDate>
 	  <guid>/just-wandering-around</guid>
 	  <description><![CDATA[
 	     <p>Today’s plans evolved organically with more of a “why not” attitude rather than specific planning.</p>

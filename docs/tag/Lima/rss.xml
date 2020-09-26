@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Peru in review</title>
 	  <link>/peru-in-review</link>
 	  <author></author>
-	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
+	  <pubDate>2008-05-23T08:42:01+10:00</pubDate>
 	  <guid>/peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
@@ -78,7 +78,7 @@
 	  <title>Rum Night (Is there a theme forming?)</title>
 	  <link>/rum-night-is-there-a-theme-forming</link>
 	  <author></author>
-	  <pubDate>2008-04-24T06:22:01+00:00</pubDate>
+	  <pubDate>2008-04-24T16:22:01+10:00</pubDate>
 	  <guid>/rum-night-is-there-a-theme-forming</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-lima.jpg" alt="" title="Peru - Lima" />
@@ -105,7 +105,7 @@ Today we jumped onto a tour bus (Mira Tours) that took us for a 3 hour tour thro
 	  <title>Pisco night</title>
 	  <link>/pisco-night</link>
 	  <author></author>
-	  <pubDate>2008-04-22T04:30:14+00:00</pubDate>
+	  <pubDate>2008-04-22T14:30:14+10:00</pubDate>
 	  <guid>/pisco-night</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-lima-sunset.jpg" alt="" title="Peru - Lima sunset" />
@@ -137,7 +137,7 @@ After the first good sleep we have had in the last week or so - I think the jet 
 	  <title>Touchdown in Lima</title>
 	  <link>/touchdown-in-lima</link>
 	  <author></author>
-	  <pubDate>2008-04-21T01:45:02+00:00</pubDate>
+	  <pubDate>2008-04-21T11:45:02+10:00</pubDate>
 	  <guid>/touchdown-in-lima</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-lima-dinner.jpg" alt="" title="Peru - Lima dinner" />

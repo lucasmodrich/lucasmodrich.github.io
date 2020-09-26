@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>A touch of Prague</title>
 	  <link>/a-touch-of-prague</link>
 	  <author></author>
-	  <pubDate>2008-06-26T08:20:00+00:00</pubDate>
+	  <pubDate>2008-06-26T18:20:00+10:00</pubDate>
 	  <guid>/a-touch-of-prague</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/prauge.jpg" alt="" title="Prauge" />

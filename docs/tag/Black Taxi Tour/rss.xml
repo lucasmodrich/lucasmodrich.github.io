@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>All aboard the Paddy Wagon</title>
 	  <link>/all-aboard-the-paddy-wagon</link>
 	  <author></author>
-	  <pubDate>2008-06-04T23:31:36+00:00</pubDate>
+	  <pubDate>2008-06-05T09:31:36+10:00</pubDate>
 	  <guid>/all-aboard-the-paddy-wagon</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/ireland-guinness-sign.jpg" alt="" title="Ireland - Guinness sign" />

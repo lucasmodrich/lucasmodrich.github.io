@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>London and Bath</title>
 	  <link>/london-and-bath</link>
 	  <author></author>
-	  <pubDate>2015-08-08T07:32:57+00:00</pubDate>
+	  <pubDate>2015-08-08T17:32:57+10:00</pubDate>
 	  <guid>/london-and-bath</guid>
 	  <description><![CDATA[
 	     <p>So we arrived into London on Thursday afternoon (6th August) from Paris after catching the EuroStar train across the channel.</p>
@@ -110,7 +110,7 @@
 	  <title>London and Liverpool</title>
 	  <link>/london-and-liverpool</link>
 	  <author></author>
-	  <pubDate>2008-06-11T08:51:49+00:00</pubDate>
+	  <pubDate>2008-06-11T18:51:49+10:00</pubDate>
 	  <guid>/london-and-liverpool</guid>
 	  <description><![CDATA[
 	     <p><strong>London - Our initial taste</strong></p>

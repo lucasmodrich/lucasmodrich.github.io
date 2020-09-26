@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Istanbul awakes</title>
 	  <link>/istanbul-awakes</link>
 	  <author></author>
-	  <pubDate>2012-05-21T21:10:50+00:00</pubDate>
+	  <pubDate>2012-05-22T07:10:50+10:00</pubDate>
 	  <guid>/istanbul-awakes</guid>
 	  <description><![CDATA[
 	     <p>So after our first day in Istanbul I can confess it has well and truly won me over. There is something about Istanbul… Something I can’t quite put my finger on… something that has defiantly drawn me in.</p>
@@ -34,7 +34,7 @@
 	  <title>We're in Istanbul, not Constantinople...</title>
 	  <link>/were-in-istanbul-not-constantinople</link>
 	  <author></author>
-	  <pubDate>2012-05-21T07:20:45+00:00</pubDate>
+	  <pubDate>2012-05-21T17:20:45+10:00</pubDate>
 	  <guid>/were-in-istanbul-not-constantinople</guid>
 	  <description><![CDATA[
 	     <p>Wow, long flight overnight again. Seems like forever ago that we were checking in to our flight in KL airport. Anyway the flight was reasonably uneventful again (which in the case of air travel is actually a positive attribute).</p>
