@@ -1855,7 +1855,11 @@ body.page-template .post-title {
     }
 
     .post-head.main-header {
-        height:45vh;
+        height:30vh;
+    }
+
+    .page-head.main-header {
+        height: 30vh;
     }
 
     .tag-head.main-header,
