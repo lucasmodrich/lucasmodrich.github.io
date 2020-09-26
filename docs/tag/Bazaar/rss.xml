@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>The Grand Bazaar</title>
 	  <link>/the-grand-bazaar</link>
 	  <author></author>
-	  <pubDate>2012-05-25T13:20:58+00:00</pubDate>
+	  <pubDate>2012-05-25T23:20:58+10:00</pubDate>
 	  <guid>/the-grand-bazaar</guid>
 	  <description><![CDATA[
 	     <p>So after getting in pretty late last night from our two day tour down to Gallipoli and Troy, we had a pretty slow morning all tolled.</p>

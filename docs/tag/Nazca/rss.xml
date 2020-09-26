@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Peru in review</title>
 	  <link>/peru-in-review</link>
 	  <author></author>
-	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
+	  <pubDate>2008-05-23T08:42:01+10:00</pubDate>
 	  <guid>/peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
@@ -78,7 +78,7 @@
 	  <title>Peru here we come</title>
 	  <link>/peru-here-we-come</link>
 	  <author></author>
-	  <pubDate>2008-04-29T03:58:53+00:00</pubDate>
+	  <pubDate>2008-04-29T13:58:53+10:00</pubDate>
 	  <guid>/peru-here-we-come</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-nazca-lines.jpg" alt="" title="Peru - Nazca Lines" />

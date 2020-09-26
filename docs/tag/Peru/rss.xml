@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Peru in review</title>
 	  <link>/peru-in-review</link>
 	  <author></author>
-	  <pubDate>2008-05-22T22:42:01+00:00</pubDate>
+	  <pubDate>2008-05-23T08:42:01+10:00</pubDate>
 	  <guid>/peru-in-review</guid>
 	  <description><![CDATA[
 	     <p>Our time in Peru has come to an end - we are moving on and leaving behind some awesome memories and great new friends.</p>
@@ -78,7 +78,7 @@
 	  <title>Welcome to the Jungle</title>
 	  <link>/welcome-to-the-jungle</link>
 	  <author></author>
-	  <pubDate>2008-05-15T00:27:35+00:00</pubDate>
+	  <pubDate>2008-05-15T10:27:35+10:00</pubDate>
 	  <guid>/welcome-to-the-jungle</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-amazon-from-the-air.jpg" alt="" title="Peru - Amazon from the air" />
@@ -124,7 +124,7 @@ From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldo
 	  <title>Machu Picchu</title>
 	  <link>/machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-11T04:24:20+00:00</pubDate>
+	  <pubDate>2008-05-11T14:24:20+10:00</pubDate>
 	  <guid>/machu-picchu</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-machu-picchu.jpg" alt="" title="Peru - Machu Picchu" />
@@ -162,7 +162,7 @@ We got off to a very early start this morning - 4.30am, breakfast at 5, and on t
 	  <title>On the road to Machu Picchu</title>
 	  <link>/on-the-road-to-machu-picchu</link>
 	  <author></author>
-	  <pubDate>2008-05-09T23:27:17+00:00</pubDate>
+	  <pubDate>2008-05-10T09:27:17+10:00</pubDate>
 	  <guid>/on-the-road-to-machu-picchu</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-inca-ruins.jpg" alt="" title="Peru - Inca Ruins" />]
@@ -196,7 +196,7 @@ So we left Cuzco yesterday afternoon headed for Ollantaytambo, a small rural tow
 	  <title>Cuzco here we come</title>
 	  <link>/cuzco-here-we-come</link>
 	  <author></author>
-	  <pubDate>2008-05-06T13:32:29+00:00</pubDate>
+	  <pubDate>2008-05-06T23:32:29+10:00</pubDate>
 	  <guid>/cuzco-here-we-come</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-in-the-andies.jpg" alt="" title="Peru - In the Andies" />
@@ -220,7 +220,7 @@ So after another long bus ride across the Andean country side we arrived in Cuzc
 	  <title>Lake Titicaca home stay</title>
 	  <link>/lake-titicaca-home-stay</link>
 	  <author></author>
-	  <pubDate>2008-05-05T00:29:30+00:00</pubDate>
+	  <pubDate>2008-05-05T10:29:30+10:00</pubDate>
 	  <guid>/lake-titicaca-home-stay</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-lake-titi-caca.jpg" alt="" title="Peru - Lake Titi Caca" />
@@ -262,7 +262,7 @@ So we are back in Puno now (which is located on the shores of lake Titicaca) aft
 	  <title>Colca Canyon and Home Stay</title>
 	  <link>/colca-canyon-and-home-stay</link>
 	  <author></author>
-	  <pubDate>2008-05-03T02:53:29+00:00</pubDate>
+	  <pubDate>2008-05-03T12:53:29+10:00</pubDate>
 	  <guid>/colca-canyon-and-home-stay</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-colca-canyon.jpg" alt="" title="Peru - Colca Canyon" />
@@ -292,7 +292,7 @@ From Arequipa we headed to the Colca Canyon - passing through altitudes of almos
 	  <title>We made it to Arequipa</title>
 	  <link>/we-made-it-to-arequipa</link>
 	  <author></author>
-	  <pubDate>2008-04-30T04:09:30+00:00</pubDate>
+	  <pubDate>2008-04-30T14:09:30+10:00</pubDate>
 	  <guid>/we-made-it-to-arequipa</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-arequipa.jpg" alt="" title="Peru - Arequipa" />]
@@ -322,7 +322,7 @@ So we caught the overnight bus from Nazca last night. We were not expecting too 
 	  <title>Peru here we come</title>
 	  <link>/peru-here-we-come</link>
 	  <author></author>
-	  <pubDate>2008-04-29T03:58:53+00:00</pubDate>
+	  <pubDate>2008-04-29T13:58:53+10:00</pubDate>
 	  <guid>/peru-here-we-come</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/peru-nazca-lines.jpg" alt="" title="Peru - Nazca Lines" />
@@ -370,7 +370,7 @@ It’s been a few days since we have had a chance to grab a seat in front of a c
 	  <title>Peruvian Highlights Tour Begins</title>
 	  <link>/peruvian-highlights-tour-begins</link>
 	  <author></author>
-	  <pubDate>2008-04-27T00:31:01+00:00</pubDate>
+	  <pubDate>2008-04-27T10:31:01+10:00</pubDate>
 	  <guid>/peruvian-highlights-tour-begins</guid>
 	  <description><![CDATA[
 	     <p>We meet up with our tour group last night in Miraflores (just out of Lima) in the hotel we were staying in for the night.</p>

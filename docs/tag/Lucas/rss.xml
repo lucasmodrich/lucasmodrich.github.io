@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Only days away</title>
 	  <link>/only-days-away</link>
 	  <author></author>
-	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
+	  <pubDate>2015-07-11T03:19:25+10:00</pubDate>
 	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
@@ -46,7 +46,7 @@
 	  <title>Turkey - The Wrap Up</title>
 	  <link>/turkey-the-wrap-up</link>
 	  <author></author>
-	  <pubDate>2012-05-27T06:41:51+00:00</pubDate>
+	  <pubDate>2012-05-27T16:41:51+10:00</pubDate>
 	  <guid>/turkey-the-wrap-up</guid>
 	  <description><![CDATA[
 	     <p>We still have a day and a half left in Istanbul. Other than our last minute shopping and revisiting the Bazaar’s we are winding down and getting ready to come home.</p>
@@ -75,7 +75,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Princes Island Ferry</title>
 	  <link>/princes-island-ferry</link>
 	  <author></author>
-	  <pubDate>2012-05-26T14:00:00+00:00</pubDate>
+	  <pubDate>2012-05-27T00:00:00+10:00</pubDate>
 	  <guid>/princes-island-ferry</guid>
 	  <description><![CDATA[
 	     <p>Today we find ourselves jumping on the tram in Sultanahmet and heading down to the ports to grab a ferry out to the Princes Island.</p>
@@ -122,7 +122,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Random Turkey Photos</title>
 	  <link>/random-turkey-photos</link>
 	  <author></author>
-	  <pubDate>2012-05-25T14:26:14+00:00</pubDate>
+	  <pubDate>2012-05-26T00:26:14+10:00</pubDate>
 	  <guid>/random-turkey-photos</guid>
 	  <description><![CDATA[
 	     <p><img src="/assets/images/20120525-172300.jpg" alt="20120525-172300.jpg" /></p>
@@ -149,7 +149,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>The Grand Bazaar</title>
 	  <link>/the-grand-bazaar</link>
 	  <author></author>
-	  <pubDate>2012-05-25T13:20:58+00:00</pubDate>
+	  <pubDate>2012-05-25T23:20:58+10:00</pubDate>
 	  <guid>/the-grand-bazaar</guid>
 	  <description><![CDATA[
 	     <p>So after getting in pretty late last night from our two day tour down to Gallipoli and Troy, we had a pretty slow morning all tolled.</p>
@@ -192,7 +192,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Mythical Troy</title>
 	  <link>/mythical-troy</link>
 	  <author></author>
-	  <pubDate>2012-05-24T13:45:33+00:00</pubDate>
+	  <pubDate>2012-05-24T23:45:33+10:00</pubDate>
 	  <guid>/mythical-troy</guid>
 	  <description><![CDATA[
 	     <p>So after out day in Gallipoli, our tour takes us across the narrows of the Dardanelles to Canakkale which is in the Asian side of Turkey, an where we spend the night before heading of to nearby Troy (Troya) in the morning.</p>
@@ -229,7 +229,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Gallipoli</title>
 	  <link>/gallipoli</link>
 	  <author></author>
-	  <pubDate>2012-05-23T10:35:02+00:00</pubDate>
+	  <pubDate>2012-05-23T20:35:02+10:00</pubDate>
 	  <guid>/gallipoli</guid>
 	  <description><![CDATA[
 	     <p>Today we are on an overnight tour that will take us down to Gallipoli (Gelibolu) and then overnight in Canakkale (on the Asian side of Turkey), and the a tour through historic Troy before heading back to Istanbul later in the evening of the second day.</p>
@@ -280,7 +280,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Istanbul Day 2 - Blue Mosque, Aya Sophia, Spice Bazaar, Taksim Square and Kebabs</title>
 	  <link>/istanbul-day-2-blue-mosque-aya-sophia-spice-bazaar-taksim-square-and-kebabs</link>
 	  <author></author>
-	  <pubDate>2012-05-22T07:10:54+00:00</pubDate>
+	  <pubDate>2012-05-22T17:10:54+10:00</pubDate>
 	  <guid>/istanbul-day-2-blue-mosque-aya-sophia-spice-bazaar-taksim-square-and-kebabs</guid>
 	  <description><![CDATA[
 	     <p>So our second full day in beautiful Istanbul has been packed with sight seeing - all the usual touristy places: The Blue Mosque, Aya Sophia, The Spice Bazaar, and Taksim Square (notably we are leaving the Grand Bazaar for a later day).</p>
@@ -339,7 +339,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>Istanbul awakes</title>
 	  <link>/istanbul-awakes</link>
 	  <author></author>
-	  <pubDate>2012-05-21T21:10:50+00:00</pubDate>
+	  <pubDate>2012-05-22T07:10:50+10:00</pubDate>
 	  <guid>/istanbul-awakes</guid>
 	  <description><![CDATA[
 	     <p>So after our first day in Istanbul I can confess it has well and truly won me over. There is something about Istanbul… Something I can’t quite put my finger on… something that has defiantly drawn me in.</p>
@@ -358,7 +358,7 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 	  <title>We're in Istanbul, not Constantinople...</title>
 	  <link>/were-in-istanbul-not-constantinople</link>
 	  <author></author>
-	  <pubDate>2012-05-21T07:20:45+00:00</pubDate>
+	  <pubDate>2012-05-21T17:20:45+10:00</pubDate>
 	  <guid>/were-in-istanbul-not-constantinople</guid>
 	  <description><![CDATA[
 	     <p>Wow, long flight overnight again. Seems like forever ago that we were checking in to our flight in KL airport. Anyway the flight was reasonably uneventful again (which in the case of air travel is actually a positive attribute).</p>

@@ -5,7 +5,7 @@
    
       <title>lucasmodrich.github.io/</title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -15,7 +15,7 @@
 	  <title>Exploring more of Paris</title>
 	  <link>/exploring-more-of-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-05T09:26:53+00:00</pubDate>
+	  <pubDate>2015-08-05T19:26:53+10:00</pubDate>
 	  <guid>/exploring-more-of-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.</p>
@@ -80,7 +80,7 @@
 	  <title>A big day in Paris</title>
 	  <link>/a-big-day-in-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-04T07:59:07+00:00</pubDate>
+	  <pubDate>2015-08-04T17:59:07+10:00</pubDate>
 	  <guid>/a-big-day-in-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been a very BIG day or us in and around Paris - and we are all knackered.</p>
@@ -151,7 +151,7 @@
 	  <title>On to Paris</title>
 	  <link>/on-to-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-03T09:37:59+00:00</pubDate>
+	  <pubDate>2015-08-03T19:37:59+10:00</pubDate>
 	  <guid>/on-to-paris</guid>
 	  <description><![CDATA[
 	     <p>This morning we were up early - but not as early as previous travel days - 6:30am is manageable.</p>
@@ -218,7 +218,7 @@
 	  <title>In and around Aix-en-Provence</title>
 	  <link>/in-and-around-aix-en-provence</link>
 	  <author></author>
-	  <pubDate>2015-08-01T21:56:57+00:00</pubDate>
+	  <pubDate>2015-08-02T07:56:57+10:00</pubDate>
 	  <guid>/in-and-around-aix-en-provence</guid>
 	  <description><![CDATA[
 	     <p>It’s been good to be back in one place for a few days. It’s still warm, but a lot cooler than where we have been in Italy - which makes getting out during the day a lot more manageable - especially for Archie our 18-month-old.</p>
@@ -295,7 +295,7 @@
 	  <title>Rome to Aix-en-Provence via Genoa (by train)</title>
 	  <link>/1rome-to-aix-en-provence-via-genoa-by-train</link>
 	  <author></author>
-	  <pubDate>2015-07-30T04:02:00+00:00</pubDate>
+	  <pubDate>2015-07-30T14:02:00+10:00</pubDate>
 	  <guid>/1rome-to-aix-en-provence-via-genoa-by-train</guid>
 	  <description><![CDATA[
 	     <h2 id="back-in-rome">Back in Rome</h2>
@@ -406,7 +406,7 @@
 	  <title>Only days away</title>
 	  <link>/only-days-away</link>
 	  <author></author>
-	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
+	  <pubDate>2015-07-11T03:19:25+10:00</pubDate>
 	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
