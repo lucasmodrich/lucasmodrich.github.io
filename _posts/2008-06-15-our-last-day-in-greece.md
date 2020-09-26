@@ -1,25 +1,24 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Our last day in Greece
 date: 2008-06-15 04:08:19.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Athens
 - Greece
 - Laura
 - Lucas
 - Ozzo
 - Souvlaki
-permalink: "/2008/06/15/our-last-day-in-greece/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/greece.jpg?w=300 "Greece")](http://modrich.wordpress.com/2008/06/15/our-last-day-in-greece/greece/)Today is our last full day in Greece, as we fly out tomorrow at lunch time - meaning an early start to make sure we get to the airport on time.
+![]({{ site.baseurl }}/assets/images/greece.jpg "Greece")]
+Today is our last full day in Greece, as we fly out tomorrow at lunch time - meaning an early start to make sure we get to the airport on time.
 
 Today was another reasonably relaxed and laid back day - we visited the National History Museum, and ate out for lunch in a lovely street side cafe adorned by fans and misting water to keep us cool.
 

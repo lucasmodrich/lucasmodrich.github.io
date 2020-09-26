@@ -1,19 +1,14 @@
 ---
+layout: post
+cover: false
 title: The Modrich Travel Blog Relaunch
 date: 2015-07-09 10:29:53.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
+tags: 
 - Blog
-- Travel
-tags: []
-permalink: "/2015/07/09/welcome-to-our-new-site/"
-excerpt: Welcome to the new Modrich Travel Blog. Now we are happily settled in our
-  new home (and hopefully everyone can still find use) - stay tuned for more post
-  over the next few months as we prepare for and head off on our next trip.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Welcome to the new Modrich Travel Blog site.
 

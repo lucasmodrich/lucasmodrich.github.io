@@ -16,11 +16,11 @@ We meet up with our tour group last night in Miraflores (just out of Lima) in th
 
 Our tour group is pretty good - a mix of both young and older people, but all lovely.
 
-We left Lima thisafternoon and after a 3-4 hour bus ride we have arrived in Pisco - the city where the national drink gets its name from.
+We left Lima this afternoon and after a 3-4 hour bus ride we have arrived in Pisco - the city where the national drink gets its name from.
 
-The earthquake in Peru last year has hit this place pretty hard, and a lot of places have been flattened - luckly our hotel wasn't one of them.
+The earthquake in Peru last year has hit this place pretty hard, and a lot of places have been flattened - luckily our hotel wasn't one of them.
 
-The first inpressions of Pisco - you step off the bus and the distinct aroma of fish is in the air - I would describe it more of a fish flavoured cat food smell... well its only for a night.
+The first impressions of Pisco - you step off the bus and the distinct aroma of fish is in the air - I would describe it more of a fish flavoured cat food smell... well its only for a night.
 
 Anyway, hope to be able to post some pics soon as we get access to a USB port.
 

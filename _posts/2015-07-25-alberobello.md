@@ -1,28 +1,18 @@
 ---
 layout: post
+cover: false
 title: Alberobello
 date: 2015-07-25 19:52:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Alberobello
 - Italy
 - Rome
 - Siena
-permalink: "/2015/07/25/alberobello/"
-excerpt: Saturday we packed up and checked out of the villa. It was sad to leave as
-  its been an absolutely great time and very relaxing, but everything must come to
-  an end and we must move on to our next destination - Alberobello.Alberobello is
-  in the south east of Italy, not far from Bari - but it's roughly 750km from where
-  we currently are in Siena, which will make for a long days driving. Furthermore
-  we need to swing by Rome airport to pickup Maddie (Laura's sister) who will be joining
-  the travelling group for a few weeks.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Saturday we packed up and checked out of the villa. It was sad to leave as its been an absolutely great time and very relaxing, but everything must come to an end and we must move on to our next destination - Alberobello.
 
@@ -32,7 +22,7 @@ Also while we are at Rome airport we will continue to try and track down our los
 
 We jumped into the cars and headed south toward Rome - a 2.5hr drive. We arrived with plenty of time to meet Maddie's plane - so while the others waited for its arrival, Laura and I headed off to lost baggage.
 
-Colleting lost baggage requires you to first pass through security - which luckily we had navigated the week prior and were now well prepared for what was ahead. We made it through security quickly and headed for the lost baggage desk - essentially a small makeshift trestle table in the back corner of the arrivals and baggage collection area of the airport.
+Collecting lost baggage requires you to first pass through security - which luckily we had navigated the week prior and were now well prepared for what was ahead. We made it through security quickly and headed for the lost baggage desk - essentially a small makeshift trestle table in the back corner of the arrivals and baggage collection area of the airport.
 
 It appears lost luggage at Rome airport is common - 3 of our group alone lost luggage. While Laura waited in line to be served (by the one person manning the desk), I decided to do a 'walk-through' of the mountains of luggage that were setup in makeshift racks and piles surrounding the desk. There would literally be enough 'lost luggage' here to fill an entire plane.
 
@@ -44,13 +34,13 @@ Heading back to Laura (who was still in the queue), I diverted to the bathrooms.
 
 Being as eco-friendly as they are, Rome airport do not have paper hand towels in the bathrooms, only hand dryers. This left me with a scrap of napkin I was fortunate enough to have left in my pocket to mop up the blood. The napkin was soon soaked, so I headed back to Laura to see if she had something to assist. Another scrap of napkin - however this time it helped to reduce the flow of blood to a trickle... a trickle that in the heat continued for the next hour until I returned to the car - shin still aching.
 
-Maddies plane arrived in late, which set our already tight schedule and long drive to Alberobello back further. We eventually hit the road and onto the autostrade - only 5.5hrs to go.
+Maddie's plane arrived in late, which set our already tight schedule and long drive to Alberobello back further. We eventually hit the road and onto the auto strade - only 5.5hrs to go.
 
-Before we set out we agreed to stop along the way to stretch our legs and for a toilet break - however as we got further and further into the drive I suspect we all just wanted to be there and the thought of stopping was not on anyone’s minds. Eventually we did stop about an hour out of Alberobello - our bladders could not take it any longer and the two drivers (Albert and I) really needed to get out from behind the wheel for a stretch and refresh. Our pit stop lasted about 30min, and we were back on the road again. Our ETA had now pushed out form 8:30pm to just after 9pm… we were going to be arriving in the dark once again. This meant handing full control of navigation over to our TomTom - who at this point we had nicknamed Slippin Jimmy (a Better Call Saul reference) - because of all the dodgy routes he had taken us on to this point.
+Before we set out we agreed to stop along the way to stretch our legs and for a toilet break - however as we got further and further into the drive I suspect we all just wanted to be there and the thought of stopping was not on anyone’s minds. Eventually we did stop about an hour out of Alberobello - our bladders could not take it any longer and the two drivers (Albert and I) really needed to get out from behind the wheel for a stretch and refresh. Our pit stop lasted about 30min, and we were back on the road again. Our ETA had now pushed out form 8:30pm to just after 9pm… we were going to be arriving in the dark once again. This meant handing full control of navigation over to our TomTom - who at this point we had nicknamed Slip'n Jimmy (a Better Call Saul reference) - because of all the dodgy routes he had taken us on to this point.
 
-Laura decided to call ahead and let the accommodation know we would be arriving late - they were fine with this but told us to call them as we arrived into town as their was a festival on and half of the roads were closed off - this was really going to put Slippin Jimmy (and the rest of us) to the test.
+Laura decided to call ahead and let the accommodation know we would be arriving late - they were fine with this but told us to call them as we arrived into town as their was a festival on and half of the roads were closed off - this was really going to put Slip'n Jimmy (and the rest of us) to the test.
 
-We were guided into town by the TomTom (Slippin Jimmy), and to its credit we got a fair way in - but the closed roads were the end of us. It was a little stressful to say the least - in the dark, in a strange town, with no idea of where we were meant to be. Turn left, turn right, or continue on? Did it matter?
+We were guided into town by the TomTom (Slip'n Jimmy), and to its credit we got a fair way in - but the closed roads were the end of us. It was a little stressful to say the least - in the dark, in a strange town, with no idea of where we were meant to be. Turn left, turn right, or continue on? Did it matter?
 
 We eventually found ourselves parked in front of the main church in town - fortunately out of the way enough to allow all the other traffic to move through without us interrupting them. We called the accommodation again and they walked up to meet us and guided us in.
 

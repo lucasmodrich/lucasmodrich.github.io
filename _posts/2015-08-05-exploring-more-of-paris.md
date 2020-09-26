@@ -1,27 +1,17 @@
 ---
 layout: post
+cover: false
 title: Exploring more of Paris
 date: 2015-08-05 19:26:53.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Eiffel Tower
 - France
 - Paris
-permalink: "/2015/08/05/exploring-more-of-paris/"
-excerpt: Today has been much hotter than yesterday - about 34c - and after the big
-  day we had yesterday we decided to take it a little easier and just hit a few of
-  the sights - with the Eiffel Tower the first on the list.We headed off reasonably
-  early from the apartment (while it was still cool) and headed across the river,
-  past Notre Dame, and then onto the train station we thought would take us straight
-  to the Eiffel Tower - unfortunately that part of the line (and the station) are
-  closed for works... there go those plans and our early start.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.
 

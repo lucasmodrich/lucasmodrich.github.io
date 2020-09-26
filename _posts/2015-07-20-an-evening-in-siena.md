@@ -1,30 +1,19 @@
 ---
+layout: post
+cover: false
 title: An evening in Siena
 date: 2015-07-20 13:48:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Duomo
 - piazza
 - Siena
 - TomTom
 - Tuscany
-permalink: "/2015/07/20/an-evening-in-siena/"
-excerpt: Yesterday we decided to venture out to nearby Siena for the evening - its
-  too hot (38-40c) to be out and about with the kids during the heat of the day, and
-  for us the time is much better spent cooling off and relaxing by the pool.From our
-  villa, Siena is roughly a 20km drive - intially through scenic hills which make
-  for some exciting driving with blind hair-pin corners, narrow stone wall lined roads
-  and streches of tree lined avenues. Winding down from the hills takes us through
-  a number of small townships and into a valley with padocks full of sunflowers and
-  others with freshly cut hay.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today we decided to venture out to nearby Siena for the evening - its too hot (38-40c) to be out and about with the kids during the heat of the day, and for us the time is much better spent cooling off and relaxing by the pool.
 

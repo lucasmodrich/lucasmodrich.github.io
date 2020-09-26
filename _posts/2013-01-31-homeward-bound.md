@@ -1,22 +1,20 @@
 ---
+layout: post
+cover: false
 title: Homeward bound
 date: 2013-01-31 08:21:00.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - America
 - Detroit
 - Los Angeles
 - North Carolina
 - Raleigh
 - Tornado
-permalink: "/2013/01/31/homeward-bound/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 This morning I find myself at Raleigh Airport (RDU) waiting to board a plane - a few days ahead of my original return schedule.
 

@@ -1,26 +1,18 @@
 ---
 layout: post
+cover: false
 title: A Tuscan Feast
 date: 2015-07-21 07:56:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
-- food
+- Food
 - Italy
 - Tuscany
 - Villa
-permalink: "/2015/07/21/a-tuscan-feast/"
-excerpt: We arranged with Franco, the owner of the villa, to prepare us a traditional
-  Tuscan feast (an option availble to anyone staying at the villa) on Tuesday evening. We
-  all wanted to celebrate arriving in Tuscany and to mark the start of our holiday,
-  but Tuesday was also Mum's birthday - and what better excuse to kick back, relax
-  and enjoy some awesome Tuscan food and wine together.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 We arranged with Franco, the owner of the villa, to prepare us a traditional Tuscan feast (an option available to anyone staying at the villa) on Tuesday evening.
 
@@ -36,7 +28,7 @@ Before dinner we come together for the obligatory group photo, inclusive of our 
 
 ![]({{ site.baseurl }}/assets/images/5080c-img.jpg)
 
-The feast commenced with an opening toast of prosecco and a delightful selection of antipasti.
+The feast commenced with an opening toast of Prosseco and a delightful selection of antipasti.
 
 We all sat down and the feast commenced. Following the antipasti dishes were two types of pasta. The first pasta dish was a pappardelle bussola, amd was absolutely amazing, and easily the best pasta dish I have ever eaten. The flavours were amazing, with (what I believe to be) a local mushroom and wild boar ragu.
 

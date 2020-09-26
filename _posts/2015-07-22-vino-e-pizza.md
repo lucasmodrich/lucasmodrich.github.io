@@ -1,27 +1,18 @@
 ---
 layout: post
+cover: false
 title: Vino e Pizza
 date: 2015-07-22 19:51:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Italy
 - Pizza
 - Tuscany
 - Wine
-permalink: "/2015/07/22/vino-e-pizza/"
-excerpt: So... We have been without Internet access for a few days, and the blog posts
-  have been limited as a result of this. I have a lot to catch up on and as Internet
-  access becomes available - and I have time - new blog posts will begin to show up.Today
-  (Thursday 23rd July) was a bit of a lay-day - we hung out at the villa and swam
-  to keep cool. After lunch (and siesta) we decided to check out a local winery, Tenuta
-  di Trecciano, which is about 5km down the road for some tastings.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So... We have been without Internet access for a few days, and the blog posts have been limited as a result of this. I have a lot to catch up on and as Internet access becomes available - and I have time - new blog posts will begin to show up.
 

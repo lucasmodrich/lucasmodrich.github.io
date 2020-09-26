@@ -1,14 +1,14 @@
 ---
+layout: post
+cover: false
 title: A new look and a new home
 date: 2017-10-16 17:23:23.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
+tags: 
 - Blog
-tags: []
-permalink: "/2017/10/16/a-new-look-and-a-new-home/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 We have finished renovating our old home here at Wordpress.com, and have now moved back in. The old place at SquareSpace is still lingering, but will soon disappear for good.
 

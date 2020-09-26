@@ -1,24 +1,23 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: The Cinque Terre
 date: 2008-07-15 07:54:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Cinque Terre
 - Italy
 - Laura
 - Lucas
 - Riomaggiore
-permalink: "/2008/07/15/the-cinque-terre/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/cinque-terra.jpg?w=300 "Cinque Terra")](http://modrich.wordpress.com/2008/07/15/the-cinque-terre/cinque-terra/)We arrived in Riomaggiore, the southern most town in the group of 5 towns that make up the 'Cinque Terre', and were immediately amazed by the bella vista that was in front of us.
+![]({{ site.baseurl }}/assets/images/cinque-terra.jpg "Cinque Terra")
+We arrived in Riomaggiore, the southern most town in the group of 5 towns that make up the 'Cinque Terre', and were immediately amazed by the bella vista that was in front of us.
 
 We walked through the center of town to find the accommodation office. After a short discussion with the office lady we were off - winding our way through tiny streets and up stairs, to reach our apartment some 300m away and 120 steps up the hill side.
 

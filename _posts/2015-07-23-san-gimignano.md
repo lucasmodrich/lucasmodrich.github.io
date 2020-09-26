@@ -1,27 +1,18 @@
 ---
 layout: post
+cover: false
 title: San Gimignano
 date: 2015-07-23 19:52:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Italy
 - San Gimignano
 - Siena
 - Tuscany
-permalink: "/2015/07/23/san-gimignano/"
-excerpt: On Friday (24th July) we set out early and took a road trip to San Gimignano
-  - about an hour or so away from where we were staying at the villa.San Gimignano
-  is a medieval hill top fortified city and is renowned for its many towers - everywhere
-  you look there are more.While San Gimignano is one of the smaller towns we have
-  visited, it is by far one of the more beautiful. The medieval architecture combined
-  with towers in every direction makes for post-card photos everywhere you look.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 On Friday (24th July) we set out early and took a road trip to San Gimignano - about an hour or so away from where we were staying at the villa.
 
@@ -43,7 +34,7 @@ I didn't make that mistake twice, and sampled all of the varieties of salami tha
 
 After a good wandering through the various shops in San Gimignano, we eventually made it up to the main piazza. From there we continued on walking to the highest point in the city and up onto some of the ancient walls for a spectacular view of both the city and the countryside that surrounds it.
 
-You definitely get a sense for why citys were built on top of the hills in this part of Italy - you can see for miles around - and San Gimignano with its fortifications and many towers would have been well placed to defend itself from any foe.
+You definitely get a sense for why cites were built on top of the hills in this part of Italy - you can see for miles around - and San Gimignano with its fortifications and many towers would have been well placed to defend itself from any foe.
 
 ![]({{ site.baseurl }}/assets/images/5d889-img.jpg)
 

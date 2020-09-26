@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: Turkey - The Wrap Up
 date: 2012-05-27 16:41:51.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Gallipoli
 - Istanbul
 - Laura
@@ -17,11 +12,14 @@ tags:
 - Princes Island
 - Troy
 - Turkey
-permalink: "/2012/05/27/turkey-the-wrap-up/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 We still have a day and a half left in Istanbul. Other than our last minute shopping and revisiting the Bazaar's we are winding down and getting ready to come home.
 
-We thought this was a good time to reflect on what we have done, and wanted to provide a breif wrap up of everything we have done while in Turkey.
+We thought this was a good time to reflect on what we have done, and wanted to provide a brief wrap up of everything we have done while in Turkey.
 
 **Gallipoli**  
 Gallipoli was probably on top of our list. It was absolutely beautiful, and the historical significance almost meant it was a must do for us - and we weren't disappointed.

@@ -1,16 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Dresden to Prague by train - the experience
 date: 2008-06-24 05:41:10.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Breakdown
 - Dresden
 - Eastern Europe
@@ -18,9 +13,13 @@ tags:
 - Lucas
 - Prague
 - Train
-permalink: "/2008/06/24/dresden-to-prague-by-train-the-experience/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/train-to-prauge.jpg?w=300 "Train to Prauge")](http://modrich.wordpress.com/2008/06/24/dresden-to-prague-by-train-the-experience/train-to-prauge/)We laid awake this morning at about 4.50 am listening to the pouring rain, and claps of thunder didn't put a positive spin on the day to come. After drifting back to sleep, we eventually go up and began to get ready for the day at about 6am - we had an early train to catch to Prague, at least the rain had stopped.
+![]({{ site.baseurl }}/assets/images/train-to-prauge.jpg "Train to Prague")]
+We laid awake this morning at about 4.50 am listening to the pouring rain, and claps of thunder didn't put a positive spin on the day to come. After drifting back to sleep, we eventually go up and began to get ready for the day at about 6am - we had an early train to catch to Prague, at least the rain had stopped.
 
 We got ourselves to the train station with plenty of time to spare for our 9am departure. As is our general experience with German public transport, the train pulled in exactly on time. We boarded and headed for our seats - we were in a 6 seater booth with only two other passengers.
 
@@ -34,13 +33,14 @@ As we drew closer to our destination we began to make some preparations - packin
 
 With only 30min until we reached Prague, we were now well over the Czech boarder and into Eastern Europe - it as at this point that the train slowed and pulled into a small station.
 
-[![]({{ site.baseurl }}/assets/images/broken-down-train-somewhere-in-eastern-eurpoe.jpg?w=300 "Broken down train - somewhere in eastern Eurpoe")](http://modrich.wordpress.com/2008/06/24/dresden-to-prague-by-train-the-experience/broken-down-train-somewhere-in-eastern-eurpoe/)This station was, as we soon put together, an 'un-scheduled' stop. Apparently there was a major problem with the locomotive pulling our train and it had to be 'swapped out' for a new one before we could continue - or at least this is what we surmised after a conversation with the guard who could only speak Czech and German.
+![]({{ site.baseurl }}/assets/images/broken-down-train-somewhere-in-eastern-eurpoe.jpg "Broken down train - somewhere in eastern Europe")]
+This station was, as we soon put together, an 'un-scheduled' stop. Apparently there was a major problem with the locomotive pulling our train and it had to be 'swapped out' for a new one before we could continue - or at least this is what we surmised after a conversation with the guard who could only speak Czech and German.
 
 The locomotive was disconnected from the train - at which point so was our power - meaning no more air conditioning, or flushing toilets!
 
 There is nothing quite like the feeling of being stranded on a broken train in Eastern Europe! Seeing our locomotive being towed away, not knowing when, or where the replacement would be coming from.
 
-At this point there was a mass exidos from the train by 'those in the know', the locals, and anyone else who could successfully communicate with the guard.
+At this point there was a mass exodus from the train by 'those in the know', the locals, and anyone else who could successfully communicate with the guard.
 
 The guard asked us our destination, to which we replied 'Prague'. 'You stay' came the reply - it appears he know some English.
 
@@ -60,5 +60,5 @@ It was another 20 minutes before the train lurched to life - we were off again! 
 
 A short 30 minute ride had us in Prague, our final destination. We had been traveling for about 5 hours now - not bad for a journey that is meant to take just 2 hours.
 
-We made it, and in one peice - and with a good story to tell. So tonight we are sitting in our hostel (actually an old two bedroom apartment) having dinner, and a few drinks relaxing - planning what we will do tommorrow.
+We made it, and in one piece - and with a good story to tell. So tonight we are sitting in our hostel (actually an old two bedroom apartment) having dinner, and a few drinks relaxing - planning what we will do tomorrow.
 

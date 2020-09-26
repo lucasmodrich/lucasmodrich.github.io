@@ -1,26 +1,20 @@
 ---
+layout: post
+cover: false
 title: London Gin Club in Soho
 date: 2015-08-09 11:09:27.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - England
 - Gin
 - London
 - London Gin Club
 - Soho
 - UK
-permalink: "/2015/08/09/london-gin-club-in-soho/"
-excerpt: " Last night was our final night in London. Laura and I left Archie with
-  Mum and Jo and then headed out to Soho to find the London Gin Club - something Laura
-  had kindly tracked down for me and thought it would be a great way to spend our
-  last night in London."
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Last night was our final night in London. Laura and I left Archie with Mum and Jo and then headed out to Soho to find the London Gin Club - something Laura had kindly tracked down for me and thought it would be a great way to spend our last night in London.
 
@@ -46,7 +40,7 @@ The tasting board arrived - 4 vials of selected Gins and accompanying garnishes 
 
 The waitress then guided me through the tasting process - first pour the vial of Gin directly over the ice and then taste. Next add some of the premium tonic water that had been provided and taste. Finally add the paired garnish and taste again - then enjoy the rest of the drink. This process was repeated for each of the 4 Gins.
 
-The night went quickly as we both enjoyed sitting in the balmy room down stairs sipping Gin. Later the waitress offered toove is upstairs where it was much cooler - so up we went - and enjoyed more Gin.
+The night went quickly as we both enjoyed sitting in the balmy room down stairs sipping Gin. Later the waitress offered to move us upstairs where it was much cooler - so up we went - and enjoyed more Gin.
 
 ![]({{ site.baseurl }}/assets/images/7efb0-image.jpg)
 

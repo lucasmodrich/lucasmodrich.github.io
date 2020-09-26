@@ -1,21 +1,19 @@
 ---
+layout: post
+cover: false
 title: Chill out in Kingscliff ("The Babymoon")
 date: 2013-08-30 15:36:43.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Babymoon
 - Kingscliff
 - NSW
 - Peppers Salt
 - Pickled Pig Brewery
-permalink: "/2013/08/30/chill-out-in-kingscliff-the-babymoon/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 It's a cold, wet and windy Melbourne morning... 3am, and the alarm goes off.
 
@@ -34,5 +32,5 @@ We arrive at Peppers and immediately enter "chill out" mode. Laura crashes on th
 Time for another...  
 Lets wait to see what tomorrow brings.
 
-[![20130830-155136.jpg]({{ site.baseurl }}/assets/images/20130830-155136.jpg)](http://modrich.files.wordpress.com/2013/08/20130830-155136.jpg)
+![20130830-155136.jpg]({{ site.baseurl }}/assets/images/20130830-155136.jpg)
 

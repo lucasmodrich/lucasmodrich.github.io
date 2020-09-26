@@ -1,22 +1,16 @@
 ---
 layout: post
+cover: false
 title: A day trip to Assisi
 date: 2015-07-21 16:19:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-tags: []
-permalink: "/2015/07/21/a-day-trip-to-assisi/"
-excerpt: Yesterday we jumped in the cars and ventured out to Assisi for a day trip
-  - roughly 120km from where we are staying. Assisi is the home of many Saints, but
-  probably most prominent was Saint Francis, the founder of the Franciscan order and
-  was named as one of the two patron Saints of Italy (along with Saint Catherine of
-  Siena).We decided to head out early to try and avoid as much of the heat of the
-  day as we could.
+tags: 
+- Travel
+- Assisi
+- Italy
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today we jumped in the cars and ventured out to Assisi for a day trip - roughly 120km from where we are staying.
 

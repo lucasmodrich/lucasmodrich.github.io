@@ -1,25 +1,19 @@
 ---
+layout: post
+cover: false
 title: Villa Podere Incrociati
 date: 2015-07-19 13:46:54.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Italy
 - Podere Incrociati
 - Siena
 - Tuscany
 - Villa
-permalink: "/2015/07/19/villa-podere-incrociati/"
-excerpt: So after a long few days of travel, we arrived yesterday evening at what
-  will become our home for the next week - villa Podere Incronciati - a traditional
-  Tuscan villa built in 1840 about 20km outside of Siena.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So after a long few days of travel, we arrived yesterday evening at what will become our home for the next week - villa [Podere Incronciati](http://www.podereincrociati.it) - a traditional Tuscan villa built in 1840 about 20km outside of Siena.
 

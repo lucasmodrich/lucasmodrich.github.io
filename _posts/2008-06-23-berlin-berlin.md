@@ -1,26 +1,26 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Berlin, Berlin
 date: 2008-06-23 10:30:11.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Berlin
-- Berline Wall
+- Berlin Wall
 - Bike Tour
 - Check Point Charlie
 - Germany
 - Jewish History Museum
 - Laura
 - Lucas
-permalink: "/2008/06/23/berlin-berlin/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/berlin1.jpg?w=300 "Berlin")](http://modrich.wordpress.com/2008/06/23/berlin-berlin/berlin-2/)Today is our last day in Berlin – we are currently in the train station having breakfast and a coffee waiting for our train to Dresden.
+![]({{ site.baseurl }}/assets/images/berlin1.jpg "Berlin")
+Today is our last day in Berlin – we are currently in the train station having breakfast and a coffee waiting for our train to Dresden.
 
 Berlin has been an experience! It's not quite what i expected as a city, but everything and more than I expected as an experience. The history here is so immense – and its not all to do with Nazi's and the Third Reich either – Berlin is so much more.
 

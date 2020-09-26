@@ -1,24 +1,23 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Machu Picchu
 date: 2008-05-11 14:24:20.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Cuzco
 - Machu Picchu
 - Peru
-permalink: "/2008/05/11/machu-picchu/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/peru-machu-picchu.jpg?w=300 "Peru - Machu Picchu")](http://modrich.wordpress.com/2008/05/11/machu-picchu/peru-machu-picchu/)We got off to a very early start this morning - 4.30am, breakfast at 5, and on the bus up to Machu Picchu at 5.30.
+![]({{ site.baseurl }}/assets/images/peru-machu-picchu.jpg "Peru - Machu Picchu")
+We got off to a very early start this morning - 4.30am, breakfast at 5, and on the bus up to Machu Picchu at 5.30.
 
-The bus departs from the bus station in Aquas Calientes and heads down a narrow road into the jungle before crossing the river to begin the step and windy assent up the Machu Picchu mountain. Both Laura and I are not the best with heights, and buses driving along shear cliff faces is one thing we both battle for the isle seat on. Laura scored the window seat on the way up - were not certain if the partial daylight made the trip better or worse, but we made it to the top in one piece, although a there were a few nifty manuevors on the way up as two buses passed each other on the often very narrow track.
+The bus departs from the bus station in Aquas Calientes and heads down a narrow road into the jungle before crossing the river to begin the step and windy assent up the Machu Picchu mountain. Both Laura and I are not the best with heights, and buses driving along shear cliff faces is one thing we both battle for the isle seat on. Laura scored the window seat on the way up - were not certain if the partial daylight made the trip better or worse, but we made it to the top in one piece, although a there were a few nifty manuevers on the way up as two buses passed each other on the often very narrow track.
 
 We were at the top at about 6am, and there was already a queue to get into the park. After entering, we walked/climbed our way to one of the higher areas on the southern side of the city where we could look down over the ruins.
 
@@ -36,9 +35,9 @@ After our tour we had the option of climbing Wayna Picchu - the small, but very 
 
 This afternoon was pretty much consumed by the train ride back to Ollantaytambo, and then a bus ride back to Cuzco and civilisation again.
 
-I must say, Cuzco is an absolutely lovely city&nbsp;- possibly one our favorite of the tour so far - and its great to be back. We have another free day here in Cuzco tomorrow, and then we head off for the Jungle after that for two nights, and that will conclude out tour.
+I must say, Cuzco is an absolutely lovely city - possibly one our favorite of the tour so far - and its great to be back. We have another free day here in Cuzco tomorrow, and then we head off for the Jungle after that for two nights, and that will conclude out tour.
 
 We are looking forward to the Jungle, and have had a very small taste of it travelling to Machu Picchu today.
 
-The country side here is amazing. In the Jungle (about 2,000m) its warm and humid, yet the tops of the mountains (some of which go over 5,000m) have snow caps. Its weird to be in the warmth of the Jungle&nbsp;and look up and see snow on top of the mountains.
+The country side here is amazing. In the Jungle (about 2,000m) its warm and humid, yet the tops of the mountains (some of which go over 5,000m) have snow caps. Its weird to be in the warmth of the Jungle and look up and see snow on top of the mountains.
 

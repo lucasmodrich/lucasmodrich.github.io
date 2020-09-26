@@ -1,15 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: London calling
 date: 2008-05-28 19:30:49.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - England
 - Heathrow
 - Laura
@@ -17,7 +13,10 @@ tags:
 - Lucas
 - Paddington Station
 - UK
-permalink: "/2008/05/28/london-calling/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 We have now left the Spanish speaking countries behind us after about 7 weeks of traveling. We find it hard to stop saying 'Gracias' to people - but I'm sure we will get over it.
 
@@ -27,7 +26,7 @@ We caught the train from the airport to Paddington station, where we dumped our 
 
 The very first thing that hit us ws the smell of fried food - the train station was full of it. I was an unfortunately familiar smell - one that we haven't come across for the last 7 weeks.
 
-We had no idea where we were and where things were in realtion to us (no, we hadn't done our homework again!). Wandering the streets we stumbled on a sign pointing to Hyde Park - where we managed to spend th rest of the afternoon.
+We had no idea where we were and where things were in relation to us (no, we hadn't done our homework again!). Wandering the streets we stumbled on a sign pointing to Hyde Park - where we managed to spend th rest of the afternoon.
 
 We found our way back to Paddington station (and saw Princess Ann getting into a huge Bentley), grabbed our packs (and quickly remembered how heavy they were), and caught th train to Elouise's place in Fulham - a reasonably easy experience.
 

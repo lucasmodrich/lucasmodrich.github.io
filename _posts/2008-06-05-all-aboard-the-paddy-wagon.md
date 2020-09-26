@@ -1,15 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: All aboard the Paddy Wagon
 date: 2008-06-05 09:31:36.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Belfast
 - Black Taxi Tour
 - Blarney Stone
@@ -23,17 +19,21 @@ tags:
 - Laura
 - Lucas
 - Paddy Wagon
-permalink: "/2008/06/05/all-aboard-the-paddy-wagon/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/ireland-guinness-sign.jpg?w=225 "Ireland - Guinness sign")](http://modrich.wordpress.com/2008/06/05/all-aboard-the-paddy-wagon/ireland-guinness-sign/)Sorry it's been a while since out last update, but it can be hectic on the road - never knowing when and where you will get a chance to have 5 minutes free to post a message or two (and I have to say touring in Ireland, with its many pubs does create a pretty big distraction :) ).
+![]({{ site.baseurl }}/assets/images/ireland-guinness-sign.jpg "Ireland - Guinness sign")
+Sorry it's been a while since out last update, but it can be hectic on the road - never knowing when and where you will get a chance to have 5 minutes free to post a message or two (and I have to say touring in Ireland, with its many pubs does create a pretty big distraction :) ).
 
-Anyway - to start with, no one will believe us when we say that the weather in Ireland at the moment is bloody great - its actaully sunny and hot - none of us epected to get sun burnt on the north coast of Ireland, but most of us did - it must have been at least 25-28c here - its been bloody great.
+Anyway - to start with, no one will believe us when we say that the weather in Ireland at the moment is bloody great - its actually sunny and hot - none of us expected to get sun burnt on the north coast of Ireland, but most of us did - it must have been at least 25-28c here - its been bloody great.
 
 Anyway we have jumped on a 6 day Paddy Wagon tour of Ireland, which basically takes us around the entire coastline of Ireland - starting and ending in Dublin.
 
 Our first night was in Derry (or Londonderry as it is known by the British loyalists - and many of the UK controlled sign posts), in Northern Ireland. This very quickly set the scene that was, and still is, Northern Ireland - Catholic majority ruled by a British backed Protestant minority.
 
-Derry was also the location of the (most recent) Bloody Sunday masacar, where 14 Irish people were shot by Britsh troops at a demonstration.
+Derry was also the location of the (most recent) Bloody Sunday massacre, where 14 Irish people were shot by British troops at a demonstration.
 
 To be honest, we knew Ireland had a bit of a rough past but we thought nothing of it - I guess most of it occurred before our time - but visiting Derry helped us to realise how bad it actually was at times.
 
@@ -41,21 +41,21 @@ The following day we move onto Belfast, the capital of Northern Ireland. Just af
 
 It was absolutely amazing to be driven through neighborhoods that were, and still are, controlled by para-military organizations (UDF, UFF, IRA, etc).
 
-Firstly we toured the Prodestant neighbourhoods. It was an eire feeling to see large murals on the sides of houses and flags flying indicating the teritory you were currently standing on.
+Firstly we toured the Protestant neighbourhoods. It was an eire feeling to see large murals on the sides of houses and flags flying indicating the territory you were currently standing on.
 
 Next we moved onto the Catholic neighborhoods - again this was an experience due mainly to the the existence of the 'Peace Walls'. The 'Peace Wall' is a massive wall that effectively separates the Protestant neighborhoods from the Catholic Neighborhoods - for their own good, and safety.
 
-It was absolutly mind blowing for us to then move on through a set of gates that still (during peace time) close at night - and appearently you don't want to be caught on the wrong side of the gate once it is closed unless your family want to pick you up in hospital the next day (if your lucky).
+It was absolutely mind blowing for us to then move on through a set of gates that still (during peace time) close at night - and apparently you don't want to be caught on the wrong side of the gate once it is closed unless your family want to pick you up in hospital the next day (if your lucky).
 
 We were all allowed to jump out of the taxi at the peace wall and sign it. Finding a small place amongst millions of other names was hard, but possibly nothing compared to the struggle that still occurs locally - even with peace declared in the region.
 
 Once within the walls and onto the Catholic territory suddenly Catholic churches and schools appear everywhere. We also toured to the the headquarters of Sinn Fein - the supposed political wing of the IRA.
 
-Heading home to our hostel, we passed back into Protestant controlled territory (which faction I can't recall), the only advice our cab driver could give to us was "Walk up and down themain street your in, but don't venture down this way. They won't care who you are..."
+Heading home to our hostel, we passed back into Protestant controlled territory (which faction I can't recall), the only advice our cab driver could give to us was "Walk up and down the main street your in, but don't venture down this way. They won't care who you are..."
 
 This was also the reason our hostel was named the 'Belfast Palace' rather than 'Paddies Palace' as it is in every other town - the reason given was "No reason to hold a red rag to a bull! That would be just asking for trouble!"
 
-While overall we had a great time in Belfast, our time there really showed us that the place is still not right - there is obviously still a lot of pent up tension and hostility. Basically its peace because the stories don't make it to the news anymore. The para-military groups have stopped their large scale campains to concerntrate on control of teritory, drugs, and keeping each other in check.
+While overall we had a great time in Belfast, our time there really showed us that the place is still not right - there is obviously still a lot of pent up tension and hostility. Basically its peace because the stories don't make it to the news anymore. The para-military groups have stopped their large scale campaigns to concentrate on control of territory, drugs, and keeping each other in check.
 
 Leaving Belfast, we headed for the far north coast to explore the Giants Causeway - a geological structure that actually looks man made. The causeway is made up of thousands of hexagonal shaped stones that look like they have bee assembled by man and stretch out into the ocean. Its an awesome sight to see.
 

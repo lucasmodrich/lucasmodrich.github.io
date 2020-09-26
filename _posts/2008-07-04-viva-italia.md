@@ -1,24 +1,24 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Viva Italia
 date: 2008-07-04 06:17:54.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Canals
 - Gondola
 - Italy
 - Laura
 - Lucas
 - Venice
-permalink: "/2008/07/04/viva-italia/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/venice.jpg?w=300 "Venice")](http://modrich.wordpress.com/2008/07/04/viva-italia/venice/)We are finally on the last leg of our trip (in Europe anyway!) - we hit Italy three days ago (1st July), having caught a rather scenic train from Salzburg. The scenery was absolutely amazing - travelling by train through the Austrian and Italian Alps is highly recommended. There are a few rather long tunnels at times, but the scenery, especially prior to leaving Austria was unbelievable.
+![]({{ site.baseurl }}/assets/images/venice.jpg "Venice")]
+We are finally on the last leg of our trip (in Europe anyway!) - we hit Italy three days ago (1st July), having caught a rather scenic train from Salzburg. The scenery was absolutely amazing - travelling by train through the Austrian and Italian Alps is highly recommended. There are a few rather long tunnels at times, but the scenery, especially prior to leaving Austria was unbelievable.
 
 Once again we used our Eurail ticket to facilitate the 6 hour trip (with 1 change over) from Salzburg to Venice. We raced to get on the train in Salzburg - in amongst heaps of school kids who obviously use the intercity service instead of the suburban service for its comfort to get to and from school.
 

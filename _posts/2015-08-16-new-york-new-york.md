@@ -1,30 +1,25 @@
 ---
+layout: post
+cover: false
 title: New York, New York
 date: 2015-08-16 21:12:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - America
-- Beauty &amp; Essex
+- Beauty and Essex
 - Broadway
 - Brooklyn
 - Central Park
 - Chelsea
 - Chelsea Market
 - Highline
-- Icecream Sandwich
+- Ice cream Sandwich
 - Katz's Deli
 - Lower East Side
 - Manhattan
 - Melt Bakery
 - New York
-- Penn &amp; Teller
+- Penn and Teller
 - Penn and Teller
 - RadioCity
 - Rockefeller Centre
@@ -32,18 +27,10 @@ tags:
 - Times Square
 - Top of the Rock
 - Wall Street
-permalink: "/2015/08/16/new-york-new-york/"
-excerpt: 'Updated 24-Aug-2015: As promised, more pictures have now been added to this
-  post.We arrived into JFK airport on Sunday afternoon (9th August) and met our friend
-  Carmen who had flown 20 odd hours from Melbourne to join us. We then waited around
-  the arrivals hall for about the next hour waiting for our transfer shuttle to turn
-  up - a little annoying to say the least. After two phone calls a big white Ford
-  van eventually pulled up. We loaded our gear into the back and piled in with the
-  other travellers. After swinging past another terminal for another pickup - and
-  to make sure the van was packed to capacity - we finally left the airport.The drive
-  into Manhattan took about an hour. It''s a long and unglamorous drive through the
-  outer boroughs of New York. We eventually made it to the Queensborough Bridge and
-  the skyscrapers of Manhattan were now clearly visible.'
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
  **Updated 24-Aug-2015:** As promised, more pictures have now been added to this post.
 
@@ -261,13 +248,13 @@ I then met up with the girls and we headed home.
 
 Saturday was Carmen's Birthday - we had spent some of our rare spare time in the days prior researching and planning what to do.
 
-Carmen had a few recommended places that we thought we would checkout. First brucnh on the lower east side near Soho.
+Carmen had a few recommended places that we thought we would checkout. First brunch on the lower east side near Soho.
 
 We took the subway down to the lower east side and wandered through the funky back streets - cool shops and cafes everywhere.
 
 ![]({{ site.baseurl }}/assets/images/0e854-img_9480.jpg)
 
-We arrived at our brunch destination - [Public](http://public-nyc.com). Public is a trendy little restaurant cafe that was awarded a Michelin Star in 2015, and offers awesome meals and drinks - including a Gin and Juice bar where you can mix your straight Gin with any number of the freshly prepared fruit juices and condiments (fresh friut wedges, select herbs, etc).
+We arrived at our brunch destination - [Public](http://public-nyc.com). Public is a trendy little restaurant cafe that was awarded a Michelin Star in 2015, and offers awesome meals and drinks - including a Gin and Juice bar where you can mix your straight Gin with any number of the freshly prepared fruit juices and condiments (fresh fruit wedges, select herbs, etc).
 
 We ordered a selection of meals from the brunch menu and enjoyed. I also topped out my brunch with a Bloody Mary (or two).
 

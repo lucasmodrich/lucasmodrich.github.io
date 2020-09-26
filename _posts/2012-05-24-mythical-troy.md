@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: Mythical Troy
 date: 2012-05-24 23:45:33.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Canakkale
 - Dardanelles
 - Laura
@@ -17,7 +12,10 @@ tags:
 - Trojan
 - Troy
 - Turkey
-permalink: "/2012/05/24/mythical-troy/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So after out day in Gallipoli, our tour takes us across the narrows of the Dardanelles to Canakkale which is in the Asian side of Turkey, an where we spend the night before heading of to nearby Troy (Troya) in the morning.
 
@@ -35,13 +33,13 @@ This resulted in 9 different levels of Troy - all built on top of the ruins of t
 
 All in all it was a very interesting tour. The only downside is the 6 hour bus ride back to Istanbul, which included the obligatory stop at the purpose built tourist trap buffet and shopping complex - glad we ate before we left 5TL for 2 Kebabs in Canakkale or 13TL each for crappy buffet in the middle of nowhere).
 
-[![20120525-112106.jpg]({{ site.baseurl }}/assets/images/20120525-112106.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-112106.jpg)
+![20120525-112106.jpg]({{ site.baseurl }}/assets/images/20120525-112106.jpg)
 
-[![20120525-112120.jpg]({{ site.baseurl }}/assets/images/20120525-112120.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-112120.jpg)
+![20120525-112120.jpg]({{ site.baseurl }}/assets/images/20120525-112120.jpg)
 
-[![20120525-112131.jpg]({{ site.baseurl }}/assets/images/20120525-112131.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-112131.jpg)
+![20120525-112131.jpg]({{ site.baseurl }}/assets/images/20120525-112131.jpg)
 
-[![20120525-112157.jpg]({{ site.baseurl }}/assets/images/20120525-112157.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-112157.jpg)
+![20120525-112157.jpg]({{ site.baseurl }}/assets/images/20120525-112157.jpg)
 
-[![20120525-112028.jpg]({{ site.baseurl }}/assets/images/20120525-112028.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-112028.jpg)
+![20120525-112028.jpg]({{ site.baseurl }}/assets/images/20120525-112028.jpg)
 

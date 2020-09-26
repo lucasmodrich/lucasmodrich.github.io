@@ -1,16 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Munich...Beer halls, beer halls, beer halls... Oh and tripod!
 date: 2008-06-29 20:00:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Beer Garden
 - Beer Hall
 - Dachau
@@ -20,9 +15,13 @@ tags:
 - Munich
 - Neuschwanstein
 - River Surfing
-permalink: "/2008/06/29/munich-beer-halls-beer-halls-beer-halls-oh-and-tripod/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/munich-beer-halls.jpg?w=300 "Munich - Beer Halls")](http://modrich.wordpress.com/2008/06/29/munichbeer-halls-beer-halls-beer-halls-oh-and-tripod/munich-beer-halls/)So we left Prague, and the Czech Republic behind us (and the train made it this time!) for the spoils of Munich (passing back through Dresden, to minimize our ticket cost, and maximize our use of the Eurail pass).
+![]({{ site.baseurl }}/assets/images/munich-beer-halls.jpg "Munich - Beer Halls")
+So we left Prague, and the Czech Republic behind us (and the train made it this time!) for the spoils of Munich (passing back through Dresden, to minimize our ticket cost, and maximize our use of the Eurail pass).
 
 Straight out, Munich is a lovely city – beer halls, parks & gardens, old buildings, and lovely people (well almost all of them – we will get to this later).
 
@@ -38,13 +37,15 @@ At the start of the tour, the guide was looking for a volunteer – and then I g
 
 On the tour we ventured through the main park area of Munich, which is loved and adored by the locals – and by none more than the local nudists (yes it is legal to be nude in the middle of Munich!).
 
-The park featured as one of our stops, and being a warm day, there were plenty of people about – and one in particular (a nudist), who our guide dubbed 'Tripod', and we soon found out why! He was not shy of tourists, and actually appeared to enjoy the tourist presence, in amongst his odd 10m jog (for no apparent reason), or throw of the frisby (to himself). Needless to say we quickly moved on before he became any more friendly.
+The park featured as one of our stops, and being a warm day, there were plenty of people about – and one in particular (a nudist), who our guide dubbed 'Tripod', and we soon found out why! He was not shy of tourists, and actually appeared to enjoy the tourist presence, in amongst his odd 10m jog (for no apparent reason), or throw of the frisbee (to himself). Needless to say we quickly moved on before he became any more friendly.
 
-[![]({{ site.baseurl }}/assets/images/munich-river-surfing.jpg?w=300 "Munich - River Surfing")](http://modrich.wordpress.com/2008/06/29/munichbeer-halls-beer-halls-beer-halls-oh-and-tripod/munich-river-surfing/)The park is also the home to the Munich river surfers. The river that flows through the park was altered artificially by US solders after the war to entertain themselves. The river was temporarily stopped, and a large piece of concrete put in place to cause a large pressure wave in the river – which provides quite good surfing. It was pretty amazing to see people jumping in on the wave one after another surfing it, and bailing to let the next on.
+![]({{ site.baseurl }}/assets/images/munich-river-surfing.jpg "Munich - River Surfing")
+The park is also the home to the Munich river surfers. The river that flows through the park was altered artificially by US solders after the war to entertain themselves. The river was temporarily stopped, and a large piece of concrete put in place to cause a large pressure wave in the river – which provides quite good surfing. It was pretty amazing to see people jumping in on the wave one after another surfing it, and bailing to let the next on.
 
 Once the tour finished, I relinquished my authority (and my nick name), and we headed out to explore more of Munich on our own – first stop the market to pick up some local food for lunch (bread, dip, pickled octopus, olives, tomato and mozzarella salad, and strawberries). We managed to entertain ourselves for the rest of the day – ending up at the famous Hofbrauhaus beer hall, where we indulged in a few beers to end the day.
 
-[![]({{ site.baseurl }}/assets/images/dachau.jpg?w=300 "Dachau")](http://modrich.wordpress.com/2008/06/29/munichbeer-halls-beer-halls-beer-halls-oh-and-tripod/dachau/)The following day was a somewhat more sombre affair – we took a tour out to Dachau where the first Nazi concentration camp was located. The tour was a pretty sobering experience, and really told a strong story. While Dachau was not an actual 'death camp', in the same sense that Auschwitz was, many thousands of people did die there – mainly through disease, undernourishment, overwork, suicide, or a combination of many other factors.
+![]({{ site.baseurl }}/assets/images/dachau.jpg "Dachau")]
+The following day was a somewhat more sombre affair – we took a tour out to Dachau where the first Nazi concentration camp was located. The tour was a pretty sobering experience, and really told a strong story. While Dachau was not an actual 'death camp', in the same sense that Auschwitz was, many thousands of people did die there – mainly through disease, undernourishment, overwork, suicide, or a combination of many other factors.
 
 One of the most amazing pieces of information we were told on the tour that helped to cement how bad conditions would have been was in regard to the camp population size. The camp was originally built and designed to hold 2,500 people – however when it was liberated at the end of the war, over 30,000 people were found in the camp.
 

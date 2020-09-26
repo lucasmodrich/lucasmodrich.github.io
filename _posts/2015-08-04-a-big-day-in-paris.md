@@ -1,29 +1,20 @@
 ---
 layout: post
+cover: false
 title: A big day in Paris
 date: 2015-08-04 17:59:07.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Champs Elysee
 - France
 - Louvre
 - Monet's Garden
 - Paris
 - Versailles
-permalink: "/2015/08/04/a-big-day-in-paris/"
-excerpt: Today has been a very BIG day or us in and around Paris - and we are all
-  knackered. I'm sitting at the small kitchen table in our apartment - my back to
-  the open window to catch the breeze. Today has been substantially cooler than any
-  day we have encountered on our trip so far - about 28c max with most of the morning
-  and afternoon around 18-25c - which made it actually quite pleasant for the amount
-  of walking we ended up doing. It just wouldn't have been possible on a hotter day.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today has been a very BIG day or us in and around Paris - and we are all knackered.
 

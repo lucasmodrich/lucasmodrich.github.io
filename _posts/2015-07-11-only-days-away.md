@@ -1,17 +1,11 @@
 ---
+layout: post
+cover: false
 title: Only days away
 date: 2015-07-11 03:19:25.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
+tags: 
 - America
-- europe
+- Europe
 - France
 - Italy
 - Laura
@@ -20,17 +14,16 @@ tags:
 - San Lupo
 - Tuscany
 - UK
-permalink: "/2015/07/11/only-days-away/"
-excerpt: After almost 18 months of planning, we are now quickly approaching our departure
-  date.  Our bags are packed (well mostly), and we are ready to go.In the past Laura
-  and I have either travelled solo or more typically together as a couple - not this
-  time however...  
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.
 
 In the past Laura and I have either travelled solo or more typically together as a couple - not this time however...
 
-Since we last had the opertunity to travel abroad, a few things have changed... mainly the arival of our son (now 18 months old) who will be heading off with us to experience the wonders of the big wide world.
+Since we last had the opportunity to travel abroad, a few things have changed... mainly the arrival of our son (now 18 months old) who will be heading off with us to experience the wonders of the big wide world.
 
 Not only will our son be travelling with us, but a fair part of our immediate families are also joining - some 17 people at last count.
 

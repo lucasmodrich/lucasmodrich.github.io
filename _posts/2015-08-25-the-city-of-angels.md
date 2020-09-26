@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: The City of Angels
 date: 2015-08-25 06:04:35.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - America
 - Anaheim
 - ART Bus
@@ -25,9 +20,10 @@ tags:
 - Star Wars
 - Train
 - Woody
-permalink: "/2015/08/25/the-city-of-angels/"
-excerpt: Earlier in the week (Tuesday 18th August) we left New York behind us (sad
-  to leave but we had to move on), and flew across the country to Los Angeles. 
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Earlier in the week (Monday 17th Aug) we left New York behind us (sad to leave but we have to move on), and flew across the country to Los Angeles.
 

@@ -13,7 +13,8 @@ logo: false
 author: modrich
 categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/chile-santiago-markets.jpg?w=300 "Chile - Santiago Markets")](http://modrich.wordpress.com/2008/04/20/our-last-day-in-santiago/chile-santiago-markets/)So today is our last day in Santiago. We started out by heading to the post office to send off a few post cards to family back home. Right next to the post office in the Plaza de Armas is a huge old church where we went to mass.
+![]({{ site.baseurl }}/assets/images/chile-santiago-markets.jpg "Chile - Santiago Markets")
+So today is our last day in Santiago. We started out by heading to the post office to send off a few post cards to family back home. Right next to the post office in the Plaza de Armas is a huge old church where we went to mass.
 
 From there we went onto the Marceto Centro (the central market) which is basically a cut down version of the Victoria Market in Melbourne.
 

@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: Istanbul Day 2 - Blue Mosque, Aya Sophia, Spice Bazaar, Taksim Square and Kebabs
 date: 2012-05-22 17:10:54.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Aya Sophia
 - Blue Mosque
 - Istanbul
@@ -19,7 +14,10 @@ tags:
 - Spice Bazaar
 - Taksim Square
 - Turkey
-permalink: "/2012/05/22/istanbul-day-2-blue-mosque-aya-sophia-spice-bazaar-taksim-square-and-kebabs/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So our second full day in beautiful Istanbul has been packed with sight seeing - all the usual touristy places: The Blue Mosque, Aya Sophia, The Spice Bazaar, and Taksim Square (notably we are leaving the Grand Bazaar for a later day).
 
@@ -35,7 +33,7 @@ After the first two touristy sights now ticked off the list, we decided to walk 
 
 In a little side street, not too far from the Spice Bazaar, we were drawn to a small kebab shop, called Sehzade Erzurum Cag Kebabi. The feature that drew our attention was a large wood fire and slow roasting lamb spit in the front of the store. The smell was amazing. This wasn't your typical take-away fast food kebab place... This was the real deal, and we couldn't pass it up.
 
-Sitting down right next to the lamb spit, the wait staff quickly sorted our order out - two lamb kebabs each, bread, salad, chilli, and spiced onion. Sitting right next to the spit gave us the opportunity to watch the master kebab chief at work, carefully turning the spit to identify the best cooked meat, then craftily cutting and threading it onto a skuer. By this time our mouths were well and truly watering - nothing smells quite as good as lamb cooking over the fire... And I can assure you the taste was absolutely amazing!
+Sitting down right next to the lamb spit, the wait staff quickly sorted our order out - two lamb kebabs each, bread, salad, chilli, and spiced onion. Sitting right next to the spit gave us the opportunity to watch the master kebab chief at work, carefully turning the spit to identify the best cooked meat, then craftily cutting and threading it onto a skewer. By this time our mouths were well and truly watering - nothing smells quite as good as lamb cooking over the fire... And I can assure you the taste was absolutely amazing!
 
 After our fill of succulent lamb kebabs for lunch, we continued on wandering the streets and eventually found our way to the Spice Bazaar. Walking inside is a dizzying display of every spice, tea, nougat and sweat preserved fruits you could imaging - with the occasional plate, shoe or carpet store springing up in between. Resisting the urge to enter into any purchase we pushed on through the crowds and eventually emerged on the other side and back into the open street.
 
@@ -45,27 +43,27 @@ Taksim square was abuzz with people - all seemingly coming and going from nowher
 
 At the bottom of the hill we decided to jump onto a tram and headed back to the hotel to rest up for a few hours before heading back out later tonight for dinner.
 
-[![20120522-171321.jpg]({{ site.baseurl }}/assets/images/20120522-171321.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171321.jpg)
+![20120522-171321.jpg]({{ site.baseurl }}/assets/images/20120522-171321.jpg)
 
-[![20120522-171345.jpg]({{ site.baseurl }}/assets/images/20120522-171345.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171345.jpg)
+![20120522-171345.jpg]({{ site.baseurl }}/assets/images/20120522-171345.jpg)
 
-[![20120522-171403.jpg]({{ site.baseurl }}/assets/images/20120522-171403.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171403.jpg)
+![20120522-171403.jpg]({{ site.baseurl }}/assets/images/20120522-171403.jpg)
 
-[![20120522-171427.jpg]({{ site.baseurl }}/assets/images/20120522-171427.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171427.jpg)
+![20120522-171427.jpg]({{ site.baseurl }}/assets/images/20120522-171427.jpg)
 
-[![20120522-171444.jpg]({{ site.baseurl }}/assets/images/20120522-171444.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171444.jpg)
+![20120522-171444.jpg]({{ site.baseurl }}/assets/images/20120522-171444.jpg)
 
-[![20120522-171458.jpg]({{ site.baseurl }}/assets/images/20120522-171458.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171458.jpg)
+![20120522-171458.jpg]({{ site.baseurl }}/assets/images/20120522-171458.jpg)
 
-[![20120522-171616.jpg]({{ site.baseurl }}/assets/images/20120522-171616.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171616.jpg)
+![20120522-171616.jpg]({{ site.baseurl }}/assets/images/20120522-171616.jpg)
 
-[![20120522-171627.jpg]({{ site.baseurl }}/assets/images/20120522-171627.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171627.jpg)
+![20120522-171627.jpg]({{ site.baseurl }}/assets/images/20120522-171627.jpg)
 
-[![20120522-171548.jpg]({{ site.baseurl }}/assets/images/20120522-1715481.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715481.jpg)
+![20120522-171548.jpg]({{ site.baseurl }}/assets/images/20120522-1715481.jpg)
 
-[![20120522-171524.jpg]({{ site.baseurl }}/assets/images/20120522-171524.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-171524.jpg)
+![20120522-171524.jpg]({{ site.baseurl }}/assets/images/20120522-171524.jpg)
 
-[![20120522-171534.jpg]({{ site.baseurl }}/assets/images/20120522-1715341.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715341.jpg)
+![20120522-171534.jpg]({{ site.baseurl }}/assets/images/20120522-1715341.jpg)
 
-[![20120522-171508.jpg]({{ site.baseurl }}/assets/images/20120522-1715081.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-1715081.jpg)
+![20120522-171508.jpg]({{ site.baseurl }}/assets/images/20120522-1715081.jpg)
 

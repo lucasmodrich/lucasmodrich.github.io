@@ -1,20 +1,19 @@
 ---
+layout: post
+cover: false
 title: Day Dreaming - Day 3
 date: 2012-12-11 18:46:31.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
+tags: 
 - Travel
-tags:
 - Australia
 - Day Dream Island
 - Great Barrier Reef
 - Queensland
 - Whitsunday's
-permalink: "/2012/12/11/day-dreaming-day-3/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So day three of our stay on Day Dream Island has come, and now almost past.
 
@@ -34,13 +33,13 @@ It was an amazing way to top off 3 days away, and a great surprise from my wife.
 
 This evening, we find ourselves looking out over the ocean on the southern end of Day Dream Island, watching the sun go down, waiting for tonight's open air movie to start - wonder if we will make it more than 5min tonight...
 
-[![20121211-183947.jpg]({{ site.baseurl }}/assets/images/20121211-183947.jpg)](http://modrich.files.wordpress.com/2012/12/20121211-183947.jpg)
+![20121211-183947.jpg]({{ site.baseurl }}/assets/images/20121211-183947.jpg)
 
-[![20121211-184006.jpg]({{ site.baseurl }}/assets/images/20121211-184006.jpg)](http://modrich.files.wordpress.com/2012/12/20121211-184006.jpg)
+![20121211-184006.jpg]({{ site.baseurl }}/assets/images/20121211-184006.jpg)
 
-[![20121211-184045.jpg]({{ site.baseurl }}/assets/images/20121211-184045.jpg)](http://modrich.files.wordpress.com/2012/12/20121211-184045.jpg)
+![20121211-184045.jpg]({{ site.baseurl }}/assets/images/20121211-184045.jpg)
 
-[![20121211-184126.jpg]({{ site.baseurl }}/assets/images/20121211-184126.jpg)](http://modrich.files.wordpress.com/2012/12/20121211-184126.jpg)
+![20121211-184126.jpg]({{ site.baseurl }}/assets/images/20121211-184126.jpg)
 
-[![20121211-184145.jpg]({{ site.baseurl }}/assets/images/20121211-184145.jpg)](http://modrich.files.wordpress.com/2012/12/20121211-184145.jpg)
+![20121211-184145.jpg]({{ site.baseurl }}/assets/images/20121211-184145.jpg)
 

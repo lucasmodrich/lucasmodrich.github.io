@@ -1,21 +1,18 @@
 ---
+layout: post
+cover: false
 title: "(Almost) Fathers Day"
 date: 2013-09-01 20:05:36.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Travel
-tags:
+tags: 
 - Beer
 - Brisbane
 - Fathers Day
 - Kingscliff
 - Thai Food
-permalink: "/2013/09/01/almost-fathers-day/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So to day was Fathers Day.
 
@@ -33,9 +30,9 @@ So it's back home tomorrow.. Reality always catches up with you at some point. A
 
 Sorry to think that this will likely be our last trip away for a few years. Time to focus on family!
 
-[![20130901-200603.jpg]({{ site.baseurl }}/assets/images/20130901-200603.jpg)](http://modrich.files.wordpress.com/2013/09/20130901-200603.jpg)
+![20130901-200603.jpg]({{ site.baseurl }}/assets/images/20130901-200603.jpg)
 
-[![20130901-200618.jpg]({{ site.baseurl }}/assets/images/20130901-200618.jpg)](http://modrich.files.wordpress.com/2013/09/20130901-200618.jpg)
+![20130901-200618.jpg]({{ site.baseurl }}/assets/images/20130901-200618.jpg)
 
-[![20130901-200626.jpg]({{ site.baseurl }}/assets/images/20130901-200626.jpg)](http://modrich.files.wordpress.com/2013/09/20130901-200626.jpg)
+![20130901-200626.jpg]({{ site.baseurl }}/assets/images/20130901-200626.jpg)
 

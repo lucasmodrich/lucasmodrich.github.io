@@ -13,7 +13,8 @@ logo: false
 author: modrich
 categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/peru-lima-dinner.jpg?w=225 "Peru - Lima dinner")](http://modrich.wordpress.com/2008/04/21/touchdown-in-lima/peru-lima-dinner/)So we flew out of Santiago this morning (bright and early) into Lima, Peru.
+![]({{ site.baseurl }}/assets/images/peru-lima-dinner.jpg?w=225 "Peru - Lima dinner")
+So we flew out of Santiago this morning (bright and early) into Lima, Peru.
 
 I probably should have mentioned it earlier, but was only reminded about the fantastic view from the airplane window as you approach Santiago - floating through the clouds between the various snow capped mountains. It was an awesome experience. However, coming into Lima today topped it.
 

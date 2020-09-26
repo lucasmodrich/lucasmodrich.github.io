@@ -1,19 +1,18 @@
 ---
+layout: post
+cover: false
 title: 5 things I would take to a desert island
 date: 2012-12-10 17:47:29.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
+tags: 
 - Travel
-tags:
 - 5 Things
 - Day Dream Island
 - Desert Island
 - Question
-permalink: "/2012/12/10/5-things-i-would-take-to-a-desert-island/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So my last post got me thinking... What are the 5 things I would take to a desert island.
 

@@ -1,21 +1,19 @@
 ---
+layout: post
+cover: false
 title: Princes Island Ferry
 date: 2012-05-27 00:00:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Istanbul
 - Laura
 - Lucas
 - Princes Island
 - Turkey
-permalink: "/2012/05/27/princes-island-ferry/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today we find ourselves jumping on the tram in Sultanahmet and heading down to the ports to grab a ferry out to the Princes Island.
 
@@ -35,7 +33,7 @@ Suddenly it's like wining the jackpot at the pokies - as the remainder of my 20T
 
 Tokens in hand, and now weighed down by a fist full of change we make out way to the boarding gates and onto the ferry. Inside we find ourselves a nice comfy seat next to a window and settle in for the trip - which we have no idea how long it will take.
 
-Cruising out into the Bosphorus, we decide to pass the time with a glass of Turkish tea or cia (pronounced chia) which the locals seem to have formed more than a mild addiction to.
+Cruising out into the Bosporus, we decide to pass the time with a glass of Turkish tea or cia (pronounced chia) which the locals seem to have formed more than a mild addiction to.
 
 Several stops and a bit over an hour later we start approaching Princes Island.
 
@@ -45,7 +43,7 @@ After seeing the sights by horse drawn cart, we decided to head to the water fro
 
 So after a pleasant afternoon on Princes Island we grab another ferry back to Istanbul. The ferry trip is an experience in itself - almost a floating Grand Bazaar. There are people trying to sell everything to you. One guy in particular has mastered the art and commands the audience well - and converts his performance into multiple sales.
 
-His sales performance is comedic and grand. He wouldn't be out of place as the ring leader of a circus. First item is a retractable walking stick. He pulls it from his bag and extends it, and waits... "ooohh" he crys and the audience follow. Next he walks around using the stick demonstrating just how good it is. But wait.. It also has suspension built in. "ooohh" the crowd cry. But wait it also has a compas built in. "oooohhh" the crowd cry with applause. Also it has a small torch which he turns on and off to demonstrate. "ooooohhhh" the crowd cry again with further dramatic applause. Finally he collapses the walking stick back - so simple, so easy. "oooohhh" the crowd cry. And for the finale... Now with the walking stick fully collapsed, he swings it over his shoulder and scratches his back. The crowd erupt with laughter and cheers. "How much you pay?"... "10TL.. This is all."
+His sales performance is comedic and grand. He wouldn't be out of place as the ring leader of a circus. First item is a retractable walking stick. He pulls it from his bag and extends it, and waits... "ooohh" he cry's and the audience follow. Next he walks around using the stick demonstrating just how good it is. But wait.. It also has suspension built in. "ooohh" the crowd cry. But wait it also has a compass built in. "oooohhh" the crowd cry with applause. Also it has a small torch which he turns on and off to demonstrate. "ooooohhhh" the crowd cry again with further dramatic applause. Finally he collapses the walking stick back - so simple, so easy. "oooohhh" the crowd cry. And for the finale... Now with the walking stick fully collapsed, he swings it over his shoulder and scratches his back. The crowd erupt with laughter and cheers. "How much you pay?"... "10TL.. This is all."
 
 Moments later he is flooded by people waving their 10TL notes at him. He has easily made his days pay with this crowd.
 

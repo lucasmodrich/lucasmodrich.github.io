@@ -1,16 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Napoli, Sorrento and beyond
 date: 2008-07-27 03:37:42.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Capri
 - Italy
 - Laura
@@ -20,9 +15,13 @@ tags:
 - Pompeii
 - Positano
 - Sorrento
-permalink: "/2008/07/27/napoli-sorrento-and-beyond/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/naples-city-streets.jpg?w=300 "Naples - City Streets")](http://modrich.wordpress.com/2008/07/27/napoli-sorrento-and-beyond/naples-city-streets/)After our adventures in Rome, our next stop was Napoli.
+![]({{ site.baseurl }}/assets/images/naples-city-streets.jpg "Naples - City Streets")
+After our adventures in Rome, our next stop was Napoli.
 
 We headed to the Termini train station to reserve our seats - two seat reservations in 1st class came to 10 Euro.
 
@@ -60,7 +59,8 @@ We were both a little spooked after that, and every loud noise or bang that we h
 
 We verified that we had reached the correct platform and that we had the correct tickets - which made us feel a little better, but we were still a little unsettled by the fact that we had not picked up on what was going on. In hind sight, the man had actually helped us - although it was help we could have done without.
 
-[![]({{ site.baseurl }}/assets/images/pompeii-body.jpg?w=225 "Pompeii - Body")](http://modrich.wordpress.com/2008/07/27/napoli-sorrento-and-beyond/pompeii-body/)Once we got to Pompeii we had a fantastic day. Pompeii was dry, hot and dusty, with virtually no shade in the whole place.
+![]({{ site.baseurl }}/assets/images/pompeii-body.jpg "Pompeii - Body")
+Once we got to Pompeii we had a fantastic day. Pompeii was dry, hot and dusty, with virtually no shade in the whole place.
 
 Unfortunately we don't often travel on day trips with much ID (except photo copies of our passports) - this meant couldn't get one of the audio guides that had been recommended to us by others at our hostel. This was a little disappointing, however we managed to get around most of the city (which is huge), and saw most of the main sights.
 
@@ -78,7 +78,7 @@ We also found we were able to live reasonably cheaply, yet another reason to sta
 
 From Sorrento we made a day trip to Positano, which was an interestingly windy 20km, 1 hour bus ride.
 
-The following day we ventured out to Capri, with the intention of seeing the blue grotto&nbsp; - however on arriving we quickly discovered that the tides had been wrong, and there was no way to get into the grotto. This put a bit of a hole in our plans for Capri. We eventually decided to do a boat tour around the island anyway, which turned out to be quite nice.
+The following day we ventured out to Capri, with the intention of seeing the blue grotto  - however on arriving we quickly discovered that the tides had been wrong, and there was no way to get into the grotto. This put a bit of a hole in our plans for Capri. We eventually decided to do a boat tour around the island anyway, which turned out to be quite nice.
 
 The remainder of the time in Sorrento was spent lazily by the pool, at the (rock) beach (with its amazing blue water) or around the cabins at night with a few drinks and a chat with the others staying there.
 

@@ -1,21 +1,19 @@
 ---
+layout: post
+cover: false
 title: Two days in Kuala Lumpur
 date: 2012-05-20 19:24:22.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - KL
 - Kuala Lumpur
 - Laura
 - Lucas
 - Malaysia
-permalink: "/2012/05/20/two-days-in-kuala-lumpur/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
  **Day 1**  
 So we arrived in Kuala Lumpur bright and early after a reasonably uneventful overnight flight from Melbourne.
@@ -40,7 +38,7 @@ Back to wandering the streets...
 
 Our wanderings took us to the aquarium which was very worthwhile visiting. It was well setup and stocked with a diverse range of fish. The highlight was the under water travelator which takes you on a journey through a glass domed tank containing sharks, rays, giant turtles and many other types of fish.
 
-After the aquariam we stumbled across a small group of local food outlets where we decided to grab a Char Kuey Teow each which was absolutely awesome (even though it included something we assume to be chicken livers.. Not sure but the strong flavour was "different" to say the least).
+After the aquarium we stumbled across a small group of local food outlets where we decided to grab a Char Kuey Teow each which was absolutely awesome (even though it included something we assume to be chicken livers.. Not sure but the strong flavour was "different" to say the least).
 
 Sitting down over lunch we decided to plan out our afternoon exploring the city. Next stop the outdoor bird aviary.
 
@@ -83,19 +81,19 @@ So we have a heap of photos which I will try to come back and incorporate into t
 Catch you all from Turkey.  
 Lucas & Laura.
 
-[![20120522-064703.jpg]({{ site.baseurl }}/assets/images/20120522-064703.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-064703.jpg)
+![20120522-064703.jpg]({{ site.baseurl }}/assets/images/20120522-064703.jpg)
 
-[![20120522-064803.jpg]({{ site.baseurl }}/assets/images/20120522-064803.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-064803.jpg)
+![20120522-064803.jpg]({{ site.baseurl }}/assets/images/20120522-064803.jpg)
 
-[![20120522-064827.jpg]({{ site.baseurl }}/assets/images/20120522-064827.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-064827.jpg)
+![20120522-064827.jpg]({{ site.baseurl }}/assets/images/20120522-064827.jpg)
 
-[![20120522-064907.jpg]({{ site.baseurl }}/assets/images/20120522-064907.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-064907.jpg)
+![20120522-064907.jpg]({{ site.baseurl }}/assets/images/20120522-064907.jpg)
 
-[![20120522-064940.jpg]({{ site.baseurl }}/assets/images/20120522-064940.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-064940.jpg)
+![20120522-064940.jpg]({{ site.baseurl }}/assets/images/20120522-064940.jpg)
 
-[![20120522-065027.jpg]({{ site.baseurl }}/assets/images/20120522-065027.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-065027.jpg)
+![20120522-065027.jpg]({{ site.baseurl }}/assets/images/20120522-065027.jpg)
 
-[![20120522-065053.jpg]({{ site.baseurl }}/assets/images/20120522-065053.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-065053.jpg)
+![20120522-065053.jpg]({{ site.baseurl }}/assets/images/20120522-065053.jpg)
 
-[![20120522-065136.jpg]({{ site.baseurl }}/assets/images/20120522-065136.jpg)](http://modrich.files.wordpress.com/2012/05/20120522-065136.jpg)
+![20120522-065136.jpg]({{ site.baseurl }}/assets/images/20120522-065136.jpg)
 

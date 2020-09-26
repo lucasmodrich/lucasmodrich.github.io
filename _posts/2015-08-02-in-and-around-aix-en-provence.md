@@ -1,26 +1,16 @@
 ---
 layout: post
+cover: false
 title: In and around Aix-en-Provence
 date: 2015-08-02 07:56:57.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Aix-en-Provence
 - France
-permalink: "/2015/08/02/in-and-around-aix-en-provence/"
-excerpt: It's been good to be back in one place for a few days. It's still warm, but
-  a lot cooler than where we have been in Italy - which makes getting out during the
-  day a lot more manageable - especially for Archie our 18-month-old.Aix-en-Provence
-  is a beautiful old city - two main grand carriage ways (streets) with many, many
-  cobble stone lined streets leading off them in all directions. It’s very easy to
-  get tangled - but also easy to get your way back to the main streets if you need
-  to.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 It's been good to be back in one place for a few days. It's still warm, but a lot cooler than where we have been in Italy - which makes getting out during the day a lot more manageable - especially for Archie our 18-month-old.
 

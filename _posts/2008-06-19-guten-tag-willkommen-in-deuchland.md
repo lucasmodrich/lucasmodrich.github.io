@@ -1,15 +1,11 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Guten tag! Willkommen in Deuchland
 date: 2008-06-19 05:23:05.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Becks
 - Beer Garden
 - Bremen
@@ -20,9 +16,13 @@ tags:
 - Lucas
 - Soccer
 - Weissbier
-permalink: "/2008/06/19/guten-tag-willkommen-in-deuchland/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/bremen-becks.jpg?w=300 "Bremen - Becks")](http://modrich.wordpress.com/2008/06/19/guten-tag-willkommen-in-deuchland/bremen-becks/)So we are in Germany now – having arrived from Tampere, Finland into Bremen the other day. We have been in Bremen for the last few days, staying with friends (Suzanne & Richard) in their lovely apartment which is just a short ride from the heart of Bremen.
+![]({{ site.baseurl }}/assets/images/bremen-becks.jpg "Bremen - Becks")
+So we are in Germany now – having arrived from Tampere, Finland into Bremen the other day. We have been in Bremen for the last few days, staying with friends (Suzanne & Richard) in their lovely apartment which is just a short ride from the heart of Bremen.
 
 We quickly realised that the Euro 2008 Cup (soccer) is in progress – and on the night we arrived Germany were facing off with Austria (the hosts), and it was a must win type of situation for Germany to allow them to progress through.
 
@@ -32,7 +32,8 @@ The next day we headed out into Bremen on bikes we borrowed from Suzanne & Richa
 
 Coming into Bremen we new little about the city – we quickly discovered that its the home of the Beck's Brewery (and this stuff is cheaper than water over here – 4 Euros for 3 liters at the supermarket!). Its also the home of the Traveling Musicians from the Brothers Grimm fairy tail (a donkey, dog, cat and a rooster).
 
-[![]({{ site.baseurl }}/assets/images/bremen-city.jpg?w=225 "Bremen - City")](http://modrich.wordpress.com/2008/06/19/guten-tag-willkommen-in-deuchland/bremen-city/)The old town has some classically beautiful German architecture – Churches, and other lovely old style buildings.
+![]({{ site.baseurl }}/assets/images/bremen-city.jpg "Bremen - City")
+The old town has some classically beautiful German architecture – Churches, and other lovely old style buildings.
 
 Riding into Bremen, we hit the Market Platz – basically the center of town, with lovely cafe's, buildings, and markets all skirting the main plaza.
 

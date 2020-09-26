@@ -1,16 +1,10 @@
 ---
 layout: post
+cover: false
 title: Rome to Aix-en-Provence via Genoa (by train)
 date: 2015-07-30 14:02:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Aix-en-Provence
 - France
 - Genoa
@@ -19,10 +13,10 @@ tags:
 - Spanish Steps
 - St. Peters
 - Train
-permalink: "/2015/07/30/1rome-to-aix-en-provence-via-genoa-by-train/"
-excerpt: We arrived back into Rome on Wednesday evening (29th July) in reasonable
-  time after having left San Lupo in the early afternoon - immediately after the main
-  mass and precession of the statue of San Lupo through the streets.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 ## Back in Rome
 
@@ -30,7 +24,7 @@ We arrived back into Rome on Wednesday evening (29th July) in reasonable time af
 
 It was good to have made it back to San Lupo again, although not a lot looks to have changed since our last visit in 2008 - but its beautiful during the festival with all the lights lining the streets at night.
 
-The drive from San Lupo back to Rome was fairly straightforward and un-eventful - exactly how I like my drives in Italy to be. The autostrade makes for fairly good driving - especially on the tolled sections. It’s always the last 25-30min of navigation into your final destination that becomes stressful.
+The drive from San Lupo back to Rome was fairly straightforward and un-eventful - exactly how I like my drives in Italy to be. The auto strade makes for fairly good driving - especially on the tolled sections. It’s always the last 25-30min of navigation into your final destination that becomes stressful.
 
 Once we got back to Rome, we unpacked and checked into our hotel. We decided it was best to return the rental cars that night instead of hanging onto them for the night and risking damage in the car park - or worse a 2.5hr wait to return the car like it took to pick it up.
 

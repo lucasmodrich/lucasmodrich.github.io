@@ -1,20 +1,19 @@
 ---
+layout: post
+cover: false
 title: Day Dreaming - Day 2
 date: 2012-12-10 17:23:46.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
+tags: 
 - Travel
-tags:
 - Australia
 - Day Dream Island
 - Great Barrier Reef
 - Queensland
 - Whitsunday's
-permalink: "/2012/12/10/day-dreaming-day-2/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Another sun filled day in paradise... well on Day Dream Island at least.
 
@@ -36,13 +35,13 @@ Pool time next, and a few more refreshing beverages lead to a great, and relaxin
 
 Now we find ourselves relaxing on our balcony, looking out across the resort and the ocean view with a bottle of sparking, and some subtle Afro Cuban All Stars playing off an iPhone in the background. Couldn't really find a better way to chill out for an afternoon.
 
-[![20121210-172208.jpg]({{ site.baseurl }}/assets/images/20121210-172208.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-172208.jpg)
+![20121210-172208.jpg]({{ site.baseurl }}/assets/images/20121210-172208.jpg)
 
-[![20121210-172223.jpg]({{ site.baseurl }}/assets/images/20121210-172223.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-172223.jpg)
+![20121210-172223.jpg]({{ site.baseurl }}/assets/images/20121210-172223.jpg)
 
-[![20121210-172244.jpg]({{ site.baseurl }}/assets/images/20121210-172244.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-172244.jpg)
+![20121210-172244.jpg]({{ site.baseurl }}/assets/images/20121210-172244.jpg)
 
-[![20121210-172257.jpg]({{ site.baseurl }}/assets/images/20121210-172257.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-172257.jpg)
+![20121210-172257.jpg]({{ site.baseurl }}/assets/images/20121210-172257.jpg)
 
-[![20121210-172313.jpg]({{ site.baseurl }}/assets/images/20121210-172313.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-172313.jpg)
+![20121210-172313.jpg]({{ site.baseurl }}/assets/images/20121210-172313.jpg)
 

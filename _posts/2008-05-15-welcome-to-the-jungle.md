@@ -1,32 +1,31 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Welcome to the Jungle
 date: 2008-05-15 10:27:35.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Amazon
 - Peru
 - Puerto Maldonado
-permalink: "/2008/05/15/welcome-to-the-jungle/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/peru-amazon-from-the-air.jpg?w=300 "Peru - Amazon from the air")](http://modrich.wordpress.com/2008/05/15/welcome-to-the-jungle/peru-amazon-from-the-air/)From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldonado in the Amazon Jungle.
+![]({{ site.baseurl }}/assets/images/peru-amazon-from-the-air.jpg "Peru - Amazon from the air")
+From the comfort of Cuzco, we headed our on an AreoCondor flight to Puerto Maldonado in the Amazon Jungle.
 
 While being back close to sea level was a relief, the temperature had also increased considerably along with the humidity, and the number of mosquitoes - although, none of these were quite as bad as we had expected.
 
-After leaving the airport at Puerto Maldonado&nbsp;we were picked up by our Jungle Lodge transfer service - a Mercedes Benz bus without windows, and wooden seats with Jungle themes painted down the sides. The bus took us into Puerto Maldonado - a bit of a slum really, with not much there, and very dirty. Apparently the main mode of transport is the motorbike, with hundreds of these packing the dirty streets. While helmets did appear to be quite common, this was only the case for the drivers, with the passengers (often another 2 or 3 people) never seen to be wearing them.
+After leaving the airport at Puerto Maldonado we were picked up by our Jungle Lodge transfer service - a Mercedes Benz bus without windows, and wooden seats with Jungle themes painted down the sides. The bus took us into Puerto Maldonado - a bit of a slum really, with not much there, and very dirty. Apparently the main mode of transport is the motorbike, with hundreds of these packing the dirty streets. While helmets did appear to be quite common, this was only the case for the drivers, with the passengers (often another 2 or 3 people) never seen to be wearing them.
 
 We had a quick tour of the local market in Puerto Maldonado, which showed us some of the local Jungle produce, and one of the specialties of the area, the Brazil nut - which were quite nice.
 
 From Puerto Maldonado we caught a slim boat down the river 2 hours to eventually arrive at the Ecoamazonia Lodge - our accommodation for the next two nights.
 
-The lodge was very well set out and very comfortable - two hammocks in every room. The rooms were very open to the outside but sealed well with flyscreens - not a single mosquito bite the whole time :).
+The lodge was very well set out and very comfortable - two hammocks in every room. The rooms were very open to the outside but sealed well with fly-screens - not a single mosquito bite the whole time :).
 
 They also had a very nice bar, which offered beer and cocktails till 10pm, when all power was turned off to the lodge - literally lights out.
 

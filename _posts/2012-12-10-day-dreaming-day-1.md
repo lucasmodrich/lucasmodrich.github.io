@@ -1,20 +1,19 @@
 ---
+layout: post
+cover: false
 title: Day Dreaming - Day 1
 date: 2012-12-10 07:20:32.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
+tags: 
 - Travel
-tags:
 - Australia
 - Day Dream Island
 - Great Barrier Reef
 - Queensland
 - Whitsunday's
-permalink: "/2012/12/10/day-dreaming-day-1/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So we hit the ground running in our first day on Day Dream Island, and went straight into relaxation overdrive.
 
@@ -34,11 +33,11 @@ After a 4am start, we quickly discovered ourselves succumbing to the effects of 
 
 Needless to say, after a brief stroll home, our first day ended there - it was 8pm.
 
-[![20121210-071154.jpg]({{ site.baseurl }}/assets/images/20121210-071154.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-071154.jpg)
+![20121210-071154.jpg]({{ site.baseurl }}/assets/images/20121210-071154.jpg)
 
-[![20121210-071208.jpg]({{ site.baseurl }}/assets/images/20121210-071208.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-071208.jpg)
+![20121210-071208.jpg]({{ site.baseurl }}/assets/images/20121210-071208.jpg)
 
-[![20121210-071225.jpg]({{ site.baseurl }}/assets/images/20121210-071225.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-071225.jpg)
+![20121210-071225.jpg]({{ site.baseurl }}/assets/images/20121210-071225.jpg)
 
-[![20121210-071235.jpg]({{ site.baseurl }}/assets/images/20121210-071235.jpg)](http://modrich.files.wordpress.com/2012/12/20121210-071235.jpg)
+![20121210-071235.jpg]({{ site.baseurl }}/assets/images/20121210-071235.jpg)
 

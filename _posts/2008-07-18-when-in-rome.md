@@ -1,17 +1,12 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: When in Rome...
 date: 2008-07-18 09:11:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
-- B&amp;B
+- BnB
 - Basilica di San Giovanni
 - colosseum
 - Italy
@@ -26,9 +21,13 @@ tags:
 - St. Peters Square
 - Trevi Fountain
 - Vatican City
-permalink: "/2008/07/18/when-in-rome/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/rome.jpg?w=300 "Rome")](http://modrich.wordpress.com/2008/07/18/when-in-rome/rome/)We made it to Rome after a pleasant few days in the Cinque Terre. Almost immediately we noticed that it was a little warmer here in Rome, away from the cooler comfort of the coast that Cinque Terre offered.
+![]({{ site.baseurl }}/assets/images/rome.jpg "Rome")
+We made it to Rome after a pleasant few days in the Cinque Terre. Almost immediately we noticed that it was a little warmer here in Rome, away from the cooler comfort of the coast that Cinque Terre offered.
 
 We are staying in a simple B&B - its not quite what you would classify as a B&B in Australia, but I guess it meets the necessities, we get a bed, and we get breakfast. To be honest, its actually quite nice. The room is huge, and while there are no cooking facilities we do have access to a fridge.
 

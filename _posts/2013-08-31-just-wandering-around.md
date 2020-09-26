@@ -1,20 +1,16 @@
 ---
+layout: post
+cover: false
 title: Just wandering around
 date: 2013-08-31 17:20:37.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
-- Travel
-tags:
+tags: 
 - Byron Bay
 - Kingscliff
 - Nimbin
-permalink: "/2013/08/31/just-wandering-around/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 Today's plans evolved organically with more of a "why not" attitude rather than specific planning.
 
@@ -42,13 +38,13 @@ Having now tried these exotic fruits, I can tick them off my bucket list and mov
 
 Tomorrow will bring an early start as we plan to head into Brisbane for the morning before spending the arvo poolside again.
 
-[![20130831-171931.jpg]({{ site.baseurl }}/assets/images/20130831-171931.jpg)](http://modrich.files.wordpress.com/2013/08/20130831-171931.jpg)
+![20130831-171931.jpg]({{ site.baseurl }}/assets/images/20130831-171931.jpg)
 
-[![20130831-171950.jpg]({{ site.baseurl }}/assets/images/20130831-171950.jpg)](http://modrich.files.wordpress.com/2013/08/20130831-171950.jpg)
+![20130831-171950.jpg]({{ site.baseurl }}/assets/images/20130831-171950.jpg)
 
-[![20130831-172002.jpg]({{ site.baseurl }}/assets/images/20130831-172002.jpg)](http://modrich.files.wordpress.com/2013/08/20130831-172002.jpg)
+![20130831-172002.jpg]({{ site.baseurl }}/assets/images/20130831-172002.jpg)
 
-[![20130831-172012.jpg]({{ site.baseurl }}/assets/images/20130831-172012.jpg)](http://modrich.files.wordpress.com/2013/08/20130831-172012.jpg)
+![20130831-172012.jpg]({{ site.baseurl }}/assets/images/20130831-172012.jpg)
 
-[![20130831-172023.jpg]({{ site.baseurl }}/assets/images/20130831-172023.jpg)](http://modrich.files.wordpress.com/2013/08/20130831-172023.jpg)
+![20130831-172023.jpg]({{ site.baseurl }}/assets/images/20130831-172023.jpg)
 

@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: London and Bath
 date: 2015-08-08 17:32:57.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Bath
 - England
 - EuroStar
@@ -19,12 +14,10 @@ tags:
 - Tower of London
 - UK
 - Westminster
-permalink: "/2015/08/08/london-and-bath/"
-excerpt: So we arrived into London on Thursday afternoon (6th August) from Paris after
-  catching the EuroStar train across the channel. We were expecting a little more
-  from the EuroStar – the name builds up a certain expectation – and we were left
-  wanting. It probably didn’t help that the air conditioning in our carriage was on
-  the blink either – making for quite a warm journey indeed.
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So we arrived into London on Thursday afternoon (6th August) from Paris after catching the EuroStar train across the channel.
 
@@ -46,7 +39,7 @@ Well so it seems William and Kate are our neighbours – literally a misguided d
 
 ![]({{ site.baseurl }}/assets/images/ee14b-img.jpg)
 
-So it appears we are not in a scrubby neighbourhood at all, but rather the Royal Borough of Kensington and Chelsea – the X-Trail would look rather ‘out-of-place’ here I can tell you. Most car bonnets seem to be emblazon with either a three-point-star, four joined hoops, a horse, a big B or R. I think you get my drift – not to many Toyota’s or Nissans.
+So it appears we are not in a scrubby neighbourhood at all, but rather the Royal Borough of Kensington and Chelsea – the X-Trail would look rather ‘out-of-place’ here I can tell you. Most car bonnets seem to be emblazon with either a three-point-star, four joined hoops, a horse, a big B or R. I think you get my drift – not to many Toyota’s or Nissan's.
 
 ![]({{ site.baseurl }}/assets/images/97d0f-img.jpg)
 

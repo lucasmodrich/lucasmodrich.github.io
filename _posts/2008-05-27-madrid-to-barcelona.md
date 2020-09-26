@@ -1,19 +1,18 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: Madrid to Barcelona
 date: 2008-05-27 02:54:40.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Barcelona
 - Madrid
 - Spain
-permalink: "/2008/05/27/madrid-to-barcelona/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So after a reasonably restful sleep overnight we got into exploring Madrid early – eager to use the remainder of the time available on our 24hr Madrid Vision card (we had until about 2pm) – first on the list was a coffee at one of the many local cafe's, then onto the Royal Palace for a tour.
 

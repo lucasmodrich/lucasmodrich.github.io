@@ -1,15 +1,10 @@
 ---
+layout: post
+cover: false
 title: The Grand Bazaar
 date: 2012-05-25 23:20:58.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
+tags: 
 - Travel
-tags:
 - Bazaar
 - Grand Bazaar
 - Istanbul
@@ -17,7 +12,10 @@ tags:
 - Lucas
 - Sultanahmet
 - Turkey
-permalink: "/2012/05/25/the-grand-bazaar/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So after getting in pretty late last night from our two day tour down to Gallipoli and Troy, we had a pretty slow morning all tolled.
 
@@ -43,11 +41,11 @@ And one last piece of advise - its only a bargain if you actually need it.
 
 Anyway all told we had a great afternoon out at the Grand Bazaar. We managed to pick up a few pieces we liked at prices we thought were reasonable.
 
-[![20120525-160708.jpg]({{ site.baseurl }}/assets/images/20120525-160708.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-160708.jpg)
+![20120525-160708.jpg]({{ site.baseurl }}/assets/images/20120525-160708.jpg)
 
-[![20120525-160719.jpg]({{ site.baseurl }}/assets/images/20120525-160719.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-160719.jpg)
+![20120525-160719.jpg]({{ site.baseurl }}/assets/images/20120525-160719.jpg)
 
-[![20120525-160734.jpg]({{ site.baseurl }}/assets/images/20120525-160734.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-160734.jpg)
+![20120525-160734.jpg]({{ site.baseurl }}/assets/images/20120525-160734.jpg)
 
-[![20120525-160748.jpg]({{ site.baseurl }}/assets/images/20120525-160748.jpg)](http://modrich.files.wordpress.com/2012/05/20120525-160748.jpg)
+![20120525-160748.jpg]({{ site.baseurl }}/assets/images/20120525-160748.jpg)
 

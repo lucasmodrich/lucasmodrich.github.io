@@ -1,24 +1,22 @@
 ---
+layout: post
+cover: false
 title: Long weekend camping @ Paradise Valley
 date: 2010-03-08 21:54:36.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
-tags:
-- camp fire
-- Camping
-- long weekend
-- Paradise Valley
+tags: 
 - Travel
-- victoria
-permalink: "/2010/03/08/long-weekend-camping-paradise-valley/"
+- Camp Fire
+- Camping
+- Long Weekend
+- Paradise Valley
+- Victoria
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![Paradise Valley]({{ site.baseurl }}/assets/images/paradise-valley.jpg?w=300 "Paradise Valley")](http://modrich.wordpress.com/2010/03/08/long-weekend-camping-paradise-valley/paradise-valley/)Well the long weekend is over, and we survived the weather...
+![Paradise Valley]({{ site.baseurl }}/assets/images/paradise-valley.jpg "Paradise Valley")]
+Well the long weekend is over, and we survived the weather...
 
 Paradise Valley was great. What better way to relax than sitting by the camp fire, drinking a few cold ones with mates.
 

@@ -1,27 +1,24 @@
 ---
+layout: post
+cover: false
 title: The Flying Saucer
 date: 2013-01-27 18:30:26.000000000 +11:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - America
 - Bar
 - Beer
 - Flying Saucer
 - North Carolina
 - Raleigh
-permalink: "/2013/01/27/the-flying-saucer/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 So it's a Sunday afternoon in Raleigh, North Carolina. I find myself downtown with not much to do - as most places are closed.
 
-On a cool afternoon, I now find myself at [The Flying Saucer](http://www.beerknurd.com)- possibly the best bar I have been to in the Northern Hemisphere (and defiantly the US!)
+On a cool afternoon, I now find myself at [The Flying Saucer](http://www.beerknurd.com) - possibly the best bar I have been to in the Northern Hemisphere (and defiantly the US!)
 
 With over 200 beers available, made up from both local brew craft and imported, where else should I be for a belated solo Australian day party? These guys know how to do beer. Every option is covered - even direct from the cask.
 
@@ -41,17 +38,17 @@ Unfortunately with my short time here I doubt I will come close to qualifying fo
 
 Given I was in transit for 26 hours yesterday, I have declared today to be my own personal and informal Australia Day. And I find the Flying Saucer a most enjoyable place to celebrate the day.
 
-[![20130127-165641.jpg]({{ site.baseurl }}/assets/images/20130127-165641.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165641.jpg)
+![20130127-165641.jpg]({{ site.baseurl }}/assets/images/20130127-165641.jpg)
 
-[![20130127-165652.jpg]({{ site.baseurl }}/assets/images/20130127-165652.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165652.jpg)
+![20130127-165652.jpg]({{ site.baseurl }}/assets/images/20130127-165652.jpg)
 
-[![20130127-165700.jpg]({{ site.baseurl }}/assets/images/20130127-165700.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165700.jpg)
+![20130127-165700.jpg]({{ site.baseurl }}/assets/images/20130127-165700.jpg)
 
-[![20130127-165707.jpg]({{ site.baseurl }}/assets/images/20130127-165707.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165707.jpg)
+![20130127-165707.jpg]({{ site.baseurl }}/assets/images/20130127-165707.jpg)
 
-[![20130127-165713.jpg]({{ site.baseurl }}/assets/images/20130127-165713.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165713.jpg)
+![20130127-165713.jpg]({{ site.baseurl }}/assets/images/20130127-165713.jpg)
 
-[![20130127-165722.jpg]({{ site.baseurl }}/assets/images/20130127-165722.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-165722.jpg)
+![20130127-165722.jpg]({{ site.baseurl }}/assets/images/20130127-165722.jpg)
 
-[![20130127-193141.jpg]({{ site.baseurl }}/assets/images/20130127-193141.jpg)](http://modrich.files.wordpress.com/2013/01/20130127-193141.jpg)
+![20130127-193141.jpg]({{ site.baseurl }}/assets/images/20130127-193141.jpg)
 

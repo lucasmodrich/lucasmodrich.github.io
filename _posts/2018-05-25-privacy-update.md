@@ -1,14 +1,14 @@
 ---
+layout: post
+cover: false
 title: Privacy Update
 date: 2018-05-25 08:54:19.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-status: publish
-categories:
+tags: 
 - Blog
-tags: []
-permalink: "/2018/05/25/privacy-update/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
 The right to privacy is a serious matter, and something that I take very seriously.
 

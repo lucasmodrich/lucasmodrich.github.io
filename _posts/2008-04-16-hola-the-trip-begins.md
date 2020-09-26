@@ -23,7 +23,7 @@ After a reasonable, but long flight we touched down in Santiago yesterday aftern
 
 After some more sleep last night we had a light breakfast where we are staying, and have headed out to try and get a feel for the place. Hope to do some tours during the week to see the sights, etc.
 
-The city is reasonably nice. We are staying in the european area, which has nice buildings and cobble stone streets. The rest of the city is basically like any other - very busy. The smog here is noticable, although not too bad.
+The city is reasonably nice. We are staying in the european area, which has nice buildings and cobble stone streets. The rest of the city is basically like any other - very busy. The smog here is noticeable, although not too bad.
 
 We hope to have some photos up here shortly.
 

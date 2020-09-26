@@ -1,24 +1,23 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: A slow day in Athens
 date: 2008-06-12 06:34:59.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Acropolis
 - Athens
 - Greece
 - Laura
 - Lucas
-permalink: "/2008/06/12/a-slow-day-in-athens/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/athens.jpg?w=300 "Athens")](http://modrich.wordpress.com/2008/06/12/a-slow-day-in-athens/athens/)We got into Athens yesterday afternoon - great weather, we managed to escape the bad weather that has been forecast for the UK!
+![]({{ site.baseurl }}/assets/images/athens.jpg "Athens")
+We got into Athens yesterday afternoon - great weather, we managed to escape the bad weather that has been forecast for the UK!
 
 Yesterday basically involved getting from the airport to the hotel and checking in.
 

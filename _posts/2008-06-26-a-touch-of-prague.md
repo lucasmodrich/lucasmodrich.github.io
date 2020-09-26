@@ -1,24 +1,23 @@
 ---
+layout: post
+cover: false
+navigation: true
 title: A touch of Prague
 date: 2008-06-26 18:20:00.000000000 +10:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Blog
-- Photos
+tags: 
 - Travel
-tags:
 - Charles Bridge
 - Czech Republic
 - Laura
 - Lucas
 - Prague
-permalink: "/2008/06/26/a-touch-of-prague/"
+subclass: 'post tag-travel'
+logo: false
+author: modrich
+categories: travel
 ---
-[![]({{ site.baseurl }}/assets/images/prauge.jpg?w=300 "Prauge")](http://modrich.wordpress.com/2008/06/26/a-touch-of-prague/prauge/)Having arrived in Prague and settled in (after out exciting train ride) we decided to take a tour of Prague city – old, and new.
+![]({{ site.baseurl }}/assets/images/prauge.jpg "Prauge")
+Having arrived in Prague and settled in (after out exciting train ride) we decided to take a tour of Prague city – old, and new.
 
 The tour started in the new Prague and worked its way through the streets to cross over into the old town. The old town is absolutely lovely – cobble stone streets that are easy to get lost in, and medieval buildings everywhere you look.
 
