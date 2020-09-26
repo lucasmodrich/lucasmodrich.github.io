@@ -302,7 +302,7 @@ Looking over the city on a hot balmy night was a great experience from the Top o
 
 Earlier I the week we had booked ourselves tickets to see the Harlem Gospel Choir at BB Kings Blues Bar just off Broadway. It was a brunch show starting around 12.
 
-Before heading out to the gospel show, we wandered down to Times Square to see if we could get Jo some tickets to a show - she was the only one of us yet to get to a Broadway show. She managed to get herself some discounted tickets to a mateney show of An American in Paris - which was on her 'too see' list.
+Before heading out to the gospel show, we wandered down to Times Square to see if we could get Jo some tickets to a show - she was the only one of us yet to get to a Broadway show. She managed to get herself some discounted tickets to a matinee show of An American in Paris - which was on her 'too see' list.
 
 We headed down to the BB King Blues Bar for lunch (brunch) and to see the gospel choir. We had decent seats in a booth to the left of the stage, and the music was great. Archie loved it - up and dancing to the classic gospel songs being belted out (quite well) by the choir.
 
