@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Rome to Aix-en-Provence via Genoa (by train)</title>
-	  <link>//1rome-to-aix-en-provence-via-genoa-by-train</link>
+	  <link>/1rome-to-aix-en-provence-via-genoa-by-train</link>
 	  <author></author>
-	  <pubDate>2015-07-30T04:02:00+00:00</pubDate>
-	  <guid>//1rome-to-aix-en-provence-via-genoa-by-train</guid>
+	  <pubDate>2015-07-30T14:02:00+10:00</pubDate>
+	  <guid>/1rome-to-aix-en-provence-via-genoa-by-train</guid>
 	  <description><![CDATA[
 	     <h2 id="back-in-rome">Back in Rome</h2>
 
@@ -54,13 +54,13 @@
 
 <p>We got out to St. Peters Basilica in no time at all - and the air-conditioning in the Metro trains was a nice escape from the heat and humidity of the Roman streets.</p>
 
-<p><img src="//assets/images/1fe0e-img.jpg" alt="" /></p>
+<p><img src="/assets/images/1fe0e-img.jpg" alt="" /></p>
 
 <p>Walking up and into St. Peter’s Basilica was quite a sight. It was only us, and 10,000 other people - quite tranquil really…</p>
 
 <p>The line to get into the basilica wound its way right around the main piazza. We didn’t join the queue and were satisfied to observe from the outside and snap a few pics.</p>
 
-<p><img src="//assets/images/900c1-img.jpg" alt="" /></p>
+<p><img src="/assets/images/900c1-img.jpg" alt="" /></p>
 
 <p>We then started to head back to the train and popped out at the Spanish Steps for a few pics before heading back to Rome Termini to pick up our bags and catch our train onto Genoa.</p>
 
@@ -74,7 +74,7 @@
 
 <p>We arrived into Genoa in the early evening, and checked into our hotel, which was just a short walk across the piazza from the station. On this trip, Genoa is simply a stop over for us - so after a quick dinner (which was absolutely beautiful) we all headed off to bed to get up at 4:30am to catch our next train at 6am.</p>
 
-<p><img src="//assets/images/bf391-img.jpg" alt="" /></p>
+<p><img src="/assets/images/bf391-img.jpg" alt="" /></p>
 
 <h2 id="the-early-train-to-aix-en-provence">The early train to Aix-en-Provence</h2>
 
@@ -90,7 +90,7 @@
 
 <p>The next two legs of the journey were also straightforward - however we did notice an increased level of chaos at the French train stations as opposed to the Italian stations. Both Nice and the TGV station in Aix-en-Provence were packed and totally chaotic.</p>
 
-<p><img src="//assets/images/481a6-img.jpg" alt="" /></p>
+<p><img src="/assets/images/481a6-img.jpg" alt="" /></p>
 
 <p>After arriving into the TGV station in Aix-en-Provence (about 20km out of the main city), we started looking for a taxi. Simply you would think - and in reality it was - unless you had two 30kg bags in tow plus a 10kg backpack, 4 other travellers and your 18-month-old son. Apparently we had arrived into platform 1. Taxis were at platform 3. This meant lugging bags up two flights of stairs onto the mezzanine level that allowed you to walk over the train line to platform 3. Most of the stations lifts were out of order. We found one that got us half way up, and reduced the stair climb by 50% - but we had to carry the bags the rest of the way.</p>
 
@@ -98,25 +98,25 @@
 
 <p>We did notice the much more comfortable temperature in Aix-en-Provence. Closer to 28c, and much cooler in the later evening when we ventured out for a walk up the nearby Cours Mir Abeau - a long and grand street which has night markets, cafes and restaurants all the way up. It made for a very nice and relaxed evening walk.</p>
 
-<p><img src="//assets/images/3d18f-img_7660.jpg" alt="" /></p>
+<p><img src="/assets/images/3d18f-img_7660.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ea41f-img_7661.jpg" alt="" /></p>
+<p><img src="/assets/images/ea41f-img_7661.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7b590-img_7737.jpg" alt="" /></p>
+<p><img src="/assets/images/7b590-img_7737.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8ed35-img_7739.jpg" alt="" /></p>
+<p><img src="/assets/images/8ed35-img_7739.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8a6c0-img_7759.jpg" alt="" /></p>
+<p><img src="/assets/images/8a6c0-img_7759.jpg" alt="" /></p>
 
-<p><img src="//assets/images/99010-img_7768.jpg" alt="" /></p>
+<p><img src="/assets/images/99010-img_7768.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e9736-img_7770.jpg" alt="" /></p>
+<p><img src="/assets/images/e9736-img_7770.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fe418-img_7772.jpg" alt="" /></p>
+<p><img src="/assets/images/fe418-img_7772.jpg" alt="" /></p>
 
-<p><img src="//assets/images/db8db-img_7775.jpg" alt="" /></p>
+<p><img src="/assets/images/db8db-img_7775.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bf9aa-img_7778.jpg" alt="" /></p>
+<p><img src="/assets/images/bf9aa-img_7778.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -124,10 +124,10 @@
 
 	<item>
 	  <title>Alberobello</title>
-	  <link>//alberobello</link>
+	  <link>/alberobello</link>
 	  <author></author>
-	  <pubDate>2015-07-25T09:52:00+00:00</pubDate>
-	  <guid>//alberobello</guid>
+	  <pubDate>2015-07-25T19:52:00+10:00</pubDate>
+	  <guid>/alberobello</guid>
 	  <description><![CDATA[
 	     <p>Saturday we packed up and checked out of the villa. It was sad to leave as its been an absolutely great time and very relaxing, but everything must come to an end and we must move on to our next destination - Alberobello.</p>
 
@@ -163,50 +163,50 @@
 
 <p>After a long and somewhat stressful drive, we turned in for the night - it was now almost 11pm.</p>
 
-<p><img src="//assets/images/6f559-img.jpg" alt="" /></p>
+<p><img src="/assets/images/6f559-img.jpg" alt="" /></p>
 
 <p>The next morning we all regrouped and headed down to the main town piazza to a restaurant where our breakfast had been arranged. In the light of day the town, and the Trulli houses were amazing - unlike anything we had seen before.</p>
 
-<p><img src="//assets/images/0a641-img.jpg" alt="" /></p>
+<p><img src="/assets/images/0a641-img.jpg" alt="" /></p>
 
 <p>The remainder of the day was spent exploring Alberobello, the various districts of Trullis, the Trulli church, and the largest Trulli in town.<br />
 That night the town filled up again and the roads closed - the festival that had stopped us driving into town the night before was still running. We sat on the edge of the main piazza, enjoyed dinner and watched the people flow through.</p>
 
-<p><img src="//assets/images/a7781-img_7208.jpg" alt="" /></p>
+<p><img src="/assets/images/a7781-img_7208.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6cb1d-img_7212.jpg" alt="" /></p>
+<p><img src="/assets/images/6cb1d-img_7212.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bdd4d-img_7218.jpg" alt="" /></p>
+<p><img src="/assets/images/bdd4d-img_7218.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b1265-img_7220.jpg" alt="" /></p>
+<p><img src="/assets/images/b1265-img_7220.jpg" alt="" /></p>
 
-<p><img src="//assets/images/42bb8-img_7233.jpg" alt="" /></p>
+<p><img src="/assets/images/42bb8-img_7233.jpg" alt="" /></p>
 
-<p><img src="//assets/images/cd596-img_7243.jpg" alt="" /></p>
+<p><img src="/assets/images/cd596-img_7243.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c144a-img_7238.jpg" alt="" /></p>
+<p><img src="/assets/images/c144a-img_7238.jpg" alt="" /></p>
 
-<p><img src="//assets/images/da6bd-img_7243.jpg" alt="" /></p>
+<p><img src="/assets/images/da6bd-img_7243.jpg" alt="" /></p>
 
-<p><img src="//assets/images/0d7e9-img_7256.jpg" alt="" /></p>
+<p><img src="/assets/images/0d7e9-img_7256.jpg" alt="" /></p>
 
-<p><img src="//assets/images/cb19d-img_7268.jpg" alt="" /></p>
+<p><img src="/assets/images/cb19d-img_7268.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f085f-img_7281.jpg" alt="" /></p>
+<p><img src="/assets/images/f085f-img_7281.jpg" alt="" /></p>
 
-<p><img src="//assets/images/4e1d9-img_7297.jpg" alt="" /></p>
+<p><img src="/assets/images/4e1d9-img_7297.jpg" alt="" /></p>
 
-<p><img src="//assets/images/937af-img_7299.jpg" alt="" /></p>
+<p><img src="/assets/images/937af-img_7299.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e26f1-img_7282.jpg" alt="" /></p>
+<p><img src="/assets/images/e26f1-img_7282.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d2ac2-img_7283.jpg" alt="" /></p>
+<p><img src="/assets/images/d2ac2-img_7283.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b8217-img_7305.jpg" alt="" /></p>
+<p><img src="/assets/images/b8217-img_7305.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7a7c7-img_7283.jpg" alt="" /></p>
+<p><img src="/assets/images/7a7c7-img_7283.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7e73f-img_7328.jpg" alt="" /></p>
+<p><img src="/assets/images/7e73f-img_7328.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -214,10 +214,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>San Gimignano</title>
-	  <link>//san-gimignano</link>
+	  <link>/san-gimignano</link>
 	  <author></author>
-	  <pubDate>2015-07-23T09:52:00+00:00</pubDate>
-	  <guid>//san-gimignano</guid>
+	  <pubDate>2015-07-23T19:52:00+10:00</pubDate>
+	  <guid>/san-gimignano</guid>
 	  <description><![CDATA[
 	     <p>On Friday (24th July) we set out early and took a road trip to San Gimignano - about an hour or so away from where we were staying at the villa.</p>
 
@@ -229,9 +229,9 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>We stopped in a nice little cafe to grab a snack and a coffee before heading into the main piazza. The cafe was full to the brim with beautiful biscotti and chocolates - so we had to sample a few - my favourite was a biscotti covered in pine nuts with a moist almond meal centre.</p>
 
-<p><img src="//assets/images/1bac2-img.jpg" alt="" /></p>
+<p><img src="/assets/images/1bac2-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/03945-img.jpg" alt="" /></p>
+<p><img src="/assets/images/03945-img.jpg" alt="" /></p>
 
 <p>Continuing our wandering through the main shopping street I recognised a deli that I visited last time I was here (in 2008). Last time I was here I drooled over the look, smell and taste of the local wild boar salami - however, for whatever reason, didn’t buy any…</p>
 
@@ -241,9 +241,9 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>You definitely get a sense for why cites were built on top of the hills in this part of Italy - you can see for miles around - and San Gimignano with its fortifications and many towers would have been well placed to defend itself from any foe.</p>
 
-<p><img src="//assets/images/5d889-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5d889-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fa2ba-img.jpg" alt="" /></p>
+<p><img src="/assets/images/fa2ba-img.jpg" alt="" /></p>
 
 <p>After some more wandering around the ancient city, we started to head back for the car - but not without stopping off at ‘the best gelato’ place in the world. Funnily enough there was another gelato store right across the street that was proclaiming the same thing.</p>
 
@@ -255,29 +255,29 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>We headed back home to the villa to spend the rest of the afternoon in the pool - until an afternoon thunderstorm rolled in and bought the rain with it. We didn’t complain though as it also bought the temperature down from about 38c to a much more bearable 25c.</p>
 
-<p><img src="//assets/images/49291-img_7085.jpg" alt="" /></p>
+<p><img src="/assets/images/49291-img_7085.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5a520-img_7089.jpg" alt="" /></p>
+<p><img src="/assets/images/5a520-img_7089.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b0d89-img_7111.jpg" alt="" /></p>
+<p><img src="/assets/images/b0d89-img_7111.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7cc71-img_7114.jpg" alt="" /></p>
+<p><img src="/assets/images/7cc71-img_7114.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f8e09-img_7129.jpg" alt="" /></p>
+<p><img src="/assets/images/f8e09-img_7129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ee982-img_7149.jpg" alt="" /></p>
+<p><img src="/assets/images/ee982-img_7149.jpg" alt="" /></p>
 
-<p><img src="//assets/images/35e05-img_7150.jpg" alt="" /></p>
+<p><img src="/assets/images/35e05-img_7150.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2d31b-img_7153.jpg" alt="" /></p>
+<p><img src="/assets/images/2d31b-img_7153.jpg" alt="" /></p>
 
-<p><img src="//assets/images/38609-img_7156.jpg" alt="" /></p>
+<p><img src="/assets/images/38609-img_7156.jpg" alt="" /></p>
 
-<p><img src="//assets/images/0fb03-img_7157.jpg" alt="" /></p>
+<p><img src="/assets/images/0fb03-img_7157.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f4445-img_7158.jpg" alt="" /></p>
+<p><img src="/assets/images/f4445-img_7158.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b9169-img_7162.jpg" alt="" /></p>
+<p><img src="/assets/images/b9169-img_7162.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -285,22 +285,22 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>Vino e Pizza</title>
-	  <link>//vino-e-pizza</link>
+	  <link>/vino-e-pizza</link>
 	  <author></author>
-	  <pubDate>2015-07-22T09:51:00+00:00</pubDate>
-	  <guid>//vino-e-pizza</guid>
+	  <pubDate>2015-07-22T19:51:00+10:00</pubDate>
+	  <guid>/vino-e-pizza</guid>
 	  <description><![CDATA[
 	     <p>So… We have been without Internet access for a few days, and the blog posts have been limited as a result of this. I have a lot to catch up on and as Internet access becomes available - and I have time - new blog posts will begin to show up.</p>
 
 <p>Today (Thursday 23rd July) was a bit of a lay-day - we hung out at the villa and swam to keep cool. After lunch (and siesta) we decided to check out a local winery, <a href="http://www.trecciano.it/it/13/home.aspx">Tenuta di Trecciano</a>, which is about 5km down the road for some tastings.</p>
 
-<p><img src="//assets/images/7fe0e-img.jpg" alt="" /></p>
+<p><img src="/assets/images/7fe0e-img.jpg" alt="" /></p>
 
 <p>The wine on offer was produced from grape varieties and in the styles typical of the local Tuscan region. We tried 1 white, 4 reds and a desert wine - all rather nice - and we ended up purchasing 4 of their bottles, 1 white and 3 of the red. Interestingly we were encouraged to drink the desert wine by dunking a piece of almond biscotti into it - it made for quite a delicious combination.</p>
 
 <p>The owner took us for a walk through their facility so we could see the wine being bottled.</p>
 
-<p><img src="//assets/images/31cd5-img.jpg" alt="" /></p>
+<p><img src="/assets/images/31cd5-img.jpg" alt="" /></p>
 
 <p>After finishing up our tastings we continued on to a local ceramics factory we had found online. It took a bit of finding, but after 3 laps around the block we made it. Most of their ceramic work appeared to be targeted at the bulk commercial market - however they did sell certain pieces direct to the public from their factory.</p>
 
@@ -310,43 +310,43 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>Watching the Pizza oven in operation was interesting - and extremely hot. The chef worked the oven like a master and put together some of the best pizza we have eaten - delicate thin crust, and extremely tasty toppings.</p>
 
-<p><img src="//assets/images/fab5c-img.jpg" alt="" /></p>
+<p><img src="/assets/images/fab5c-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/cbaac-image.jpg" alt="" /></p>
+<p><img src="/assets/images/cbaac-image.jpg" alt="" /></p>
 
 <p>As with the night of the feast a few nights before, we started with a selection of antipasti. This was then followed by a procession of pizzas - one after the other - the continued to come until we could eat no more. We did finish the night with a Nutella pizza and some Limoncello however.</p>
 
-<p><img src="//assets/images/34b67-img_6838.jpg" alt="" /></p>
+<p><img src="/assets/images/34b67-img_6838.jpg" alt="" /></p>
 
-<p><img src="//assets/images/09ebb-img_6843.jpg" alt="" /></p>
+<p><img src="/assets/images/09ebb-img_6843.jpg" alt="" /></p>
 
-<p><img src="//assets/images/97013-img_6846.jpg" alt="" /></p>
+<p><img src="/assets/images/97013-img_6846.jpg" alt="" /></p>
 
-<p><img src="//assets/images/79477-img_6848.jpg" alt="" /></p>
+<p><img src="/assets/images/79477-img_6848.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a3362-img_6851.jpg" alt="" /></p>
+<p><img src="/assets/images/a3362-img_6851.jpg" alt="" /></p>
 
-<p><img src="//assets/images/72a63-img_6853.jpg" alt="" /></p>
+<p><img src="/assets/images/72a63-img_6853.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2a2bc-img_6867.jpg" alt="" /></p>
+<p><img src="/assets/images/2a2bc-img_6867.jpg" alt="" /></p>
 
-<p><img src="//assets/images/15c7e-img_6868.jpg" alt="" /></p>
+<p><img src="/assets/images/15c7e-img_6868.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fe108-img_6984.jpg" alt="" /></p>
+<p><img src="/assets/images/fe108-img_6984.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7b443-img_6996.jpg" alt="" /></p>
+<p><img src="/assets/images/7b443-img_6996.jpg" alt="" /></p>
 
-<p><img src="//assets/images/75c73-img_7017.jpg" alt="" /></p>
+<p><img src="/assets/images/75c73-img_7017.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7432a-img_7062.jpg" alt="" /></p>
+<p><img src="/assets/images/7432a-img_7062.jpg" alt="" /></p>
 
-<p><img src="//assets/images/74bc8-img_7064.jpg" alt="" /></p>
+<p><img src="/assets/images/74bc8-img_7064.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f9dd0-img_7079.jpg" alt="" /></p>
+<p><img src="/assets/images/f9dd0-img_7079.jpg" alt="" /></p>
 
-<p><img src="//assets/images/830d8-img_7081.jpg" alt="" /></p>
+<p><img src="/assets/images/830d8-img_7081.jpg" alt="" /></p>
 
-<p><img src="//assets/images/815b6-img_7082.jpg" alt="" /></p>
+<p><img src="/assets/images/815b6-img_7082.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -354,10 +354,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>A day trip to Assisi</title>
-	  <link>//a-day-trip-to-assisi</link>
+	  <link>/a-day-trip-to-assisi</link>
 	  <author></author>
-	  <pubDate>2015-07-21T06:19:00+00:00</pubDate>
-	  <guid>//a-day-trip-to-assisi</guid>
+	  <pubDate>2015-07-21T16:19:00+10:00</pubDate>
+	  <guid>/a-day-trip-to-assisi</guid>
 	  <description><![CDATA[
 	     <p>Today we jumped in the cars and ventured out to Assisi for a day trip - roughly 120km from where we are staying.</p>
 
@@ -369,55 +369,55 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>The goat track wound us slowly around and up the side of the hill leading to Assisi. We eventually popped out on the side of the main road where we more comfortably continued heading to the top of the hill found a carpark in Piazza Matteotti.</p>
 
-<p><img src="//assets/images/c4ca2-img.jpg" alt="" /></p>
+<p><img src="/assets/images/c4ca2-img.jpg" alt="" /></p>
 
 <p>We left the cars and started walking down the hill through the beautiful (but very hot) streets of Assisi. We wandered our way down to the bottom of the hill and ended up at the Basilica of San Francesco d’Assisi.</p>
 
 <p>After touring the Basilica we headed further down the hilly streets of Assisi and found a nice place for lunch - and to escape the head of the day for a while. After lunch we walked through some of the shops at the bottom of the hill (including one that was selling fresh truffles) and grabbed a gelato to help cool off before catching the bus back to the top of the hill and to our cars.</p>
 
-<p><img src="//assets/images/6b140-img.jpg" alt="" /></p>
+<p><img src="/assets/images/6b140-img.jpg" alt="" /></p>
 
 <p>The drive home was fairly uneventful - thankfully and the TomTom got us home on main roads for a change.</p>
 
-<p><img src="//assets/images/be296-img_6713.jpg" alt="" /></p>
+<p><img src="/assets/images/be296-img_6713.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6a8be-img_6720.jpg" alt="" /></p>
+<p><img src="/assets/images/6a8be-img_6720.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b3724-img_6723.jpg" alt="" /></p>
+<p><img src="/assets/images/b3724-img_6723.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7963b-img_6725.jpg" alt="" /></p>
+<p><img src="/assets/images/7963b-img_6725.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a036f-img_6727.jpg" alt="" /></p>
+<p><img src="/assets/images/a036f-img_6727.jpg" alt="" /></p>
 
-<p><img src="//assets/images/dee1b-img_672828129.jpg" alt="" /></p>
+<p><img src="/assets/images/dee1b-img_672828129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c1625-img_6728.jpg" alt="" /></p>
+<p><img src="/assets/images/c1625-img_6728.jpg" alt="" /></p>
 
-<p><img src="//assets/images/22ad2-img_6730.jpg" alt="" /></p>
+<p><img src="/assets/images/22ad2-img_6730.jpg" alt="" /></p>
 
-<p><img src="//assets/images/35e5b-img_6737.jpg" alt="" /></p>
+<p><img src="/assets/images/35e5b-img_6737.jpg" alt="" /></p>
 
-<p><img src="//assets/images/dca39-img_6740.jpg" alt="" /></p>
+<p><img src="/assets/images/dca39-img_6740.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d3efd-img_6742.jpg" alt="" /></p>
+<p><img src="/assets/images/d3efd-img_6742.jpg" alt="" /></p>
 
-<p><img src="//assets/images/65374-img_6746.jpg" alt="" /></p>
+<p><img src="/assets/images/65374-img_6746.jpg" alt="" /></p>
 
-<p><img src="//assets/images/4e855-img_6749.jpg" alt="" /></p>
+<p><img src="/assets/images/4e855-img_6749.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d29f4-img_6753.jpg" alt="" /></p>
+<p><img src="/assets/images/d29f4-img_6753.jpg" alt="" /></p>
 
-<p><img src="//assets/images/280f5-img_6755.jpg" alt="" /></p>
+<p><img src="/assets/images/280f5-img_6755.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e3b84-img_6756.jpg" alt="" /></p>
+<p><img src="/assets/images/e3b84-img_6756.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b4262-img_6759.jpg" alt="" /></p>
+<p><img src="/assets/images/b4262-img_6759.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5e67f-img_6778.jpg" alt="" /></p>
+<p><img src="/assets/images/5e67f-img_6778.jpg" alt="" /></p>
 
-<p><img src="//assets/images/757ba-img_6788.jpg" alt="" /></p>
+<p><img src="/assets/images/757ba-img_6788.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9a132-img_6791.jpg" alt="" /></p>
+<p><img src="/assets/images/9a132-img_6791.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -425,10 +425,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>A Tuscan Feast</title>
-	  <link>//a-tuscan-feast</link>
+	  <link>/a-tuscan-feast</link>
 	  <author></author>
-	  <pubDate>2015-07-20T21:56:00+00:00</pubDate>
-	  <guid>//a-tuscan-feast</guid>
+	  <pubDate>2015-07-21T07:56:00+10:00</pubDate>
+	  <guid>/a-tuscan-feast</guid>
 	  <description><![CDATA[
 	     <p>We arranged with Franco, the owner of the villa, to prepare us a traditional Tuscan feast (an option available to anyone staying at the villa) on Tuesday evening.</p>
 
@@ -438,11 +438,11 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>As the afternoon turned into early evening, we found ourselves heading out onto the lawn to enjoy a few beers in the cooler evening air - waiting in anticipation for the meal to commence.</p>
 
-<p><img src="//assets/images/a6252-img.jpg" alt="" /></p>
+<p><img src="/assets/images/a6252-img.jpg" alt="" /></p>
 
 <p>Before dinner we come together for the obligatory group photo, inclusive of our custom made holiday t-shirts - “Pruscino &amp; Pals - Italian vacanza 2015”.</p>
 
-<p><img src="//assets/images/5080c-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5080c-img.jpg" alt="" /></p>
 
 <p>The feast commenced with an opening toast of Prosseco and a delightful selection of antipasti.</p>
 
@@ -462,33 +462,33 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>On Thursday night we have arranged to have a pizza night - so the chefs will be back to cook up a storm on the wood fired pizza oven.</p>
 
-<p><img src="//assets/images/ced31-img_6681.jpg" alt="" /></p>
+<p><img src="/assets/images/ced31-img_6681.jpg" alt="" /></p>
 
-<p><img src="//assets/images/1904a-img_6682.jpg" alt="" /></p>
+<p><img src="/assets/images/1904a-img_6682.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8ee31-img_6684.jpg" alt="" /></p>
+<p><img src="/assets/images/8ee31-img_6684.jpg" alt="" /></p>
 
-<p><img src="//assets/images/997a7-img_6685.jpg" alt="" /></p>
+<p><img src="/assets/images/997a7-img_6685.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bca84-img_6687.jpg" alt="" /></p>
+<p><img src="/assets/images/bca84-img_6687.jpg" alt="" /></p>
 
-<p><img src="//assets/images/22cff-img_6688.jpg" alt="" /></p>
+<p><img src="/assets/images/22cff-img_6688.jpg" alt="" /></p>
 
-<p><img src="//assets/images/18ce9-img_6689.jpg" alt="" /></p>
+<p><img src="/assets/images/18ce9-img_6689.jpg" alt="" /></p>
 
-<p><img src="//assets/images/241ab-img_6690.jpg" alt="" /></p>
+<p><img src="/assets/images/241ab-img_6690.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9e7f8-img_6691.jpg" alt="" /></p>
+<p><img src="/assets/images/9e7f8-img_6691.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e4d2b-img_6697.jpg" alt="" /></p>
+<p><img src="/assets/images/e4d2b-img_6697.jpg" alt="" /></p>
 
-<p><img src="//assets/images/023d6-img_6699.jpg" alt="" /></p>
+<p><img src="/assets/images/023d6-img_6699.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9b16e-img_6700.jpg" alt="" /></p>
+<p><img src="/assets/images/9b16e-img_6700.jpg" alt="" /></p>
 
-<p><img src="//assets/images/59f9c-img_6701.jpg" alt="" /></p>
+<p><img src="/assets/images/59f9c-img_6701.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6008a-img_6703.jpg" alt="" /></p>
+<p><img src="/assets/images/6008a-img_6703.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -496,10 +496,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>Villa Podere Incrociati</title>
-	  <link>//villa-podere-incrociati</link>
+	  <link>/villa-podere-incrociati</link>
 	  <author></author>
-	  <pubDate>2015-07-19T03:46:54+00:00</pubDate>
-	  <guid>//villa-podere-incrociati</guid>
+	  <pubDate>2015-07-19T13:46:54+10:00</pubDate>
+	  <guid>/villa-podere-incrociati</guid>
 	  <description><![CDATA[
 	     <p>So after a long few days of travel, we arrived yesterday evening at what will become our home for the next week - villa <a href="http://www.podereincrociati.it">Podere Incronciati</a> - a traditional Tuscan villa built in 1840 about 20km outside of Siena.</p>
 
@@ -511,41 +511,41 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>We have only been here for a day so far, but we are already totally relaxed - mission accomplished.</p>
 
-<p><img src="//assets/images/8eb0f-img_6436.jpg" alt="" /></p>
+<p><img src="/assets/images/8eb0f-img_6436.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f741c-img_6437.jpg" alt="" /></p>
+<p><img src="/assets/images/f741c-img_6437.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b97a5-img_6438.jpg" alt="" /></p>
+<p><img src="/assets/images/b97a5-img_6438.jpg" alt="" /></p>
 
-<p><img src="//assets/images/3993a-img_6440.jpg" alt="" /></p>
+<p><img src="/assets/images/3993a-img_6440.jpg" alt="" /></p>
 
-<p><img src="//assets/images/17ff4-img_6441.jpg" alt="" /></p>
+<p><img src="/assets/images/17ff4-img_6441.jpg" alt="" /></p>
 
-<p><img src="//assets/images/97021-img_6444.jpg" alt="" /></p>
+<p><img src="/assets/images/97021-img_6444.jpg" alt="" /></p>
 
-<p><img src="//assets/images/69585-img_6442.jpg" alt="" /></p>
+<p><img src="/assets/images/69585-img_6442.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fa2eb-img_6445.jpg" alt="" /></p>
+<p><img src="/assets/images/fa2eb-img_6445.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6783d-img_6454.jpg" alt="" /></p>
+<p><img src="/assets/images/6783d-img_6454.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ec6fb-img_6456.jpg" alt="" /></p>
+<p><img src="/assets/images/ec6fb-img_6456.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7d973-img_6450.jpg" alt="" /></p>
+<p><img src="/assets/images/7d973-img_6450.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b7059-img_6460.jpg" alt="" /></p>
+<p><img src="/assets/images/b7059-img_6460.jpg" alt="" /></p>
 
-<p><img src="//assets/images/71ab3-img_6454.jpg" alt="" /></p>
+<p><img src="/assets/images/71ab3-img_6454.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a9138-img_6467.jpg" alt="" /></p>
+<p><img src="/assets/images/a9138-img_6467.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8fdd3-img_6471.jpg" alt="" /></p>
+<p><img src="/assets/images/8fdd3-img_6471.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7730f-img_6460.jpg" alt="" /></p>
+<p><img src="/assets/images/7730f-img_6460.jpg" alt="" /></p>
 
-<p><img src="//assets/images/31c6e-img_6474.jpg" alt="" /></p>
+<p><img src="/assets/images/31c6e-img_6474.jpg" alt="" /></p>
 
-<p><img src="//assets/images/01fc3-img_6477.jpg" alt="" /></p>
+<p><img src="/assets/images/01fc3-img_6477.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -553,10 +553,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>The Family Vacation - Let's Begin</title>
-	  <link>//the-family-vacation-lets-begin</link>
+	  <link>/the-family-vacation-lets-begin</link>
 	  <author></author>
-	  <pubDate>2015-07-18T22:20:25+00:00</pubDate>
-	  <guid>//the-family-vacation-lets-begin</guid>
+	  <pubDate>2015-07-19T08:20:25+10:00</pubDate>
+	  <guid>/the-family-vacation-lets-begin</guid>
 	  <description><![CDATA[
 	     <p>So… The last few day have been hectic and somewhat full-on to say the least.</p>
 
@@ -578,7 +578,7 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>The next 14hrs hours of flight is made up of brief naps, resettling our little ones - who were incredibly good throughout the flight - and putting the Wiggles on high repetition on the in-flight entertainment system when the little ones became unsettled.</p>
 
-<p><img src="//assets/images/560b3-img_0600.jpg" alt="" /></p>
+<p><img src="/assets/images/560b3-img_0600.jpg" alt="" /></p>
 
 <p>Needless to say we all arrived safely in Dubai just slightly ahead of schedule.</p>
 
@@ -608,7 +608,7 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>4 hours of doing nothing in Heathrow airport is truly about as exciting as it sounds. It makes the long haul plane ride look great in comparison.</p>
 
-<p><img src="//assets/images/aaee0-img.jpg" alt="" /></p>
+<p><img src="/assets/images/aaee0-img.jpg" alt="" /></p>
 
 <p>10 minutes before our boarding gate was to be announced all of the airport departure screens went out. This made for a more lively time - with everyone suddenly rushing the information desks in panic trying to find out what departure gate they needed to get to. We joined in the chaos and eventually found out what our next move was to be - Gate B32.</p>
 
@@ -616,7 +616,7 @@ That night the town filled up again and the roads closed - the festival that had
 
 <p>We eventually boarded our flight to Rome - with Archie sound asleep on my shoulder… this is where tired little ones in an airport has it advantages - straight to the front of the line and first to board.</p>
 
-<p><img src="//assets/images/e7d32-img_0603.jpg" alt="" /></p>
+<p><img src="/assets/images/e7d32-img_0603.jpg" alt="" /></p>
 
 <h2 id="when-in-rome---wait">When in Rome - Wait</h2>
 
@@ -670,10 +670,10 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>Only days away</title>
-	  <link>//only-days-away</link>
+	  <link>/only-days-away</link>
 	  <author></author>
-	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
-	  <guid>//only-days-away</guid>
+	  <pubDate>2015-07-11T03:19:25+10:00</pubDate>
+	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
 
@@ -701,12 +701,12 @@ That night the town filled up again and the roads closed - the festival that had
 
 	<item>
 	  <title>San Lupo</title>
-	  <link>//san-lupo</link>
+	  <link>/san-lupo</link>
 	  <author></author>
-	  <pubDate>2008-07-31T09:37:19+00:00</pubDate>
-	  <guid>//san-lupo</guid>
+	  <pubDate>2008-07-31T19:37:19+10:00</pubDate>
+	  <guid>/san-lupo</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/sanlupo-poster.jpg" alt="" title="San Lupo - Poster" />
+	     <p><img src="/assets/images/sanlupo-poster.jpg" alt="" title="San Lupo - Poster" />
 We arrived into Benevento by train from Naples, and were greeted warmly by Laura’s relations Sandra and Lorenzo Ciaglia. We then drove for about 30min up into the hills to our destination, the small town of San Lupo.</p>
 
 <p>We arrived right at the beginning of the three day festa, where the town honors its patron saint - San Lupo.</p>
@@ -717,7 +717,7 @@ We arrived into Benevento by train from Naples, and were greeted warmly by Laura
 
 <p>Of course, it wouldn’t be an Italian fiesta without food - and there was defiantly no lack of that - Laura and myself generally returned to our accommodation most afternoons(for siesta), and again at night, stuffed to the brim with traditional Italian foods including, various pasta, pepperoni (stuffed peppers), breads, prosciutto, cheeses, parmigiana, vino, and beautiful home made limoncello - to mention just a few.</p>
 
-<p><img src="//assets/images/san-lupo-village.jpg" alt="" title="San Lupo - Village" />
+<p><img src="/assets/images/san-lupo-village.jpg" alt="" title="San Lupo - Village" />
 The town of San Lupo was absolutely beautiful. The main part of the town is essentially a medieval village with tiny cobble stone streets that wind up and down the side of a mountain.</p>
 
 <p>Now days the town sprawls out a little with more modern, free standing houses surrounding the original village - but we were surprised at how modern the interiors of the older houses in the village actually were.</p>
@@ -728,7 +728,7 @@ The town of San Lupo was absolutely beautiful. The main part of the town is esse
 
 <p>We participated in most of the events of the festa, including two of the main mass’s, and all three of the town processions - 1 to commemorate the beheading of a bandit who used to raid the town a few centuries ago, the next to bless the local oil and grain, and the final one which was the longest and wound its way through almost every street in the town was to honor San Lupo.</p>
 
-<p><img src="//assets/images/san-lupo-festa1.jpg" alt="" title="San Lupo - Festa" />
+<p><img src="/assets/images/san-lupo-festa1.jpg" alt="" title="San Lupo - Festa" />
 The final procession follows immediately after a large mass given by the Bishop. The procession is made up of a marching band at the front, who are followed by many candle holders (who have made offerings to San Lupo). They are followed by another marching band and a group of men who carry the statue of San Lupo on their shoulders. Finally, anyone else who wishes to participate in the procession (this included us) walk behind.</p>
 
 <p>This final procession took about an hour - on quite a warm day - and wound its way through almost every street in San Lupo (all of the main ones at least). It starts and ends at the church.</p>

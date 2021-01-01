@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>San Gimignano</title>
-	  <link>//san-gimignano</link>
+	  <link>/san-gimignano</link>
 	  <author></author>
-	  <pubDate>2015-07-23T09:52:00+00:00</pubDate>
-	  <guid>//san-gimignano</guid>
+	  <pubDate>2015-07-23T19:52:00+10:00</pubDate>
+	  <guid>/san-gimignano</guid>
 	  <description><![CDATA[
 	     <p>On Friday (24th July) we set out early and took a road trip to San Gimignano - about an hour or so away from where we were staying at the villa.</p>
 
@@ -28,9 +28,9 @@
 
 <p>We stopped in a nice little cafe to grab a snack and a coffee before heading into the main piazza. The cafe was full to the brim with beautiful biscotti and chocolates - so we had to sample a few - my favourite was a biscotti covered in pine nuts with a moist almond meal centre.</p>
 
-<p><img src="//assets/images/1bac2-img.jpg" alt="" /></p>
+<p><img src="/assets/images/1bac2-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/03945-img.jpg" alt="" /></p>
+<p><img src="/assets/images/03945-img.jpg" alt="" /></p>
 
 <p>Continuing our wandering through the main shopping street I recognised a deli that I visited last time I was here (in 2008). Last time I was here I drooled over the look, smell and taste of the local wild boar salami - however, for whatever reason, didn’t buy any…</p>
 
@@ -40,9 +40,9 @@
 
 <p>You definitely get a sense for why cites were built on top of the hills in this part of Italy - you can see for miles around - and San Gimignano with its fortifications and many towers would have been well placed to defend itself from any foe.</p>
 
-<p><img src="//assets/images/5d889-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5d889-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fa2ba-img.jpg" alt="" /></p>
+<p><img src="/assets/images/fa2ba-img.jpg" alt="" /></p>
 
 <p>After some more wandering around the ancient city, we started to head back for the car - but not without stopping off at ‘the best gelato’ place in the world. Funnily enough there was another gelato store right across the street that was proclaiming the same thing.</p>
 
@@ -54,29 +54,29 @@
 
 <p>We headed back home to the villa to spend the rest of the afternoon in the pool - until an afternoon thunderstorm rolled in and bought the rain with it. We didn’t complain though as it also bought the temperature down from about 38c to a much more bearable 25c.</p>
 
-<p><img src="//assets/images/49291-img_7085.jpg" alt="" /></p>
+<p><img src="/assets/images/49291-img_7085.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5a520-img_7089.jpg" alt="" /></p>
+<p><img src="/assets/images/5a520-img_7089.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b0d89-img_7111.jpg" alt="" /></p>
+<p><img src="/assets/images/b0d89-img_7111.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7cc71-img_7114.jpg" alt="" /></p>
+<p><img src="/assets/images/7cc71-img_7114.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f8e09-img_7129.jpg" alt="" /></p>
+<p><img src="/assets/images/f8e09-img_7129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ee982-img_7149.jpg" alt="" /></p>
+<p><img src="/assets/images/ee982-img_7149.jpg" alt="" /></p>
 
-<p><img src="//assets/images/35e05-img_7150.jpg" alt="" /></p>
+<p><img src="/assets/images/35e05-img_7150.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2d31b-img_7153.jpg" alt="" /></p>
+<p><img src="/assets/images/2d31b-img_7153.jpg" alt="" /></p>
 
-<p><img src="//assets/images/38609-img_7156.jpg" alt="" /></p>
+<p><img src="/assets/images/38609-img_7156.jpg" alt="" /></p>
 
-<p><img src="//assets/images/0fb03-img_7157.jpg" alt="" /></p>
+<p><img src="/assets/images/0fb03-img_7157.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f4445-img_7158.jpg" alt="" /></p>
+<p><img src="/assets/images/f4445-img_7158.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b9169-img_7162.jpg" alt="" /></p>
+<p><img src="/assets/images/b9169-img_7162.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -84,22 +84,22 @@
 
 	<item>
 	  <title>Vino e Pizza</title>
-	  <link>//vino-e-pizza</link>
+	  <link>/vino-e-pizza</link>
 	  <author></author>
-	  <pubDate>2015-07-22T09:51:00+00:00</pubDate>
-	  <guid>//vino-e-pizza</guid>
+	  <pubDate>2015-07-22T19:51:00+10:00</pubDate>
+	  <guid>/vino-e-pizza</guid>
 	  <description><![CDATA[
 	     <p>So… We have been without Internet access for a few days, and the blog posts have been limited as a result of this. I have a lot to catch up on and as Internet access becomes available - and I have time - new blog posts will begin to show up.</p>
 
 <p>Today (Thursday 23rd July) was a bit of a lay-day - we hung out at the villa and swam to keep cool. After lunch (and siesta) we decided to check out a local winery, <a href="http://www.trecciano.it/it/13/home.aspx">Tenuta di Trecciano</a>, which is about 5km down the road for some tastings.</p>
 
-<p><img src="//assets/images/7fe0e-img.jpg" alt="" /></p>
+<p><img src="/assets/images/7fe0e-img.jpg" alt="" /></p>
 
 <p>The wine on offer was produced from grape varieties and in the styles typical of the local Tuscan region. We tried 1 white, 4 reds and a desert wine - all rather nice - and we ended up purchasing 4 of their bottles, 1 white and 3 of the red. Interestingly we were encouraged to drink the desert wine by dunking a piece of almond biscotti into it - it made for quite a delicious combination.</p>
 
 <p>The owner took us for a walk through their facility so we could see the wine being bottled.</p>
 
-<p><img src="//assets/images/31cd5-img.jpg" alt="" /></p>
+<p><img src="/assets/images/31cd5-img.jpg" alt="" /></p>
 
 <p>After finishing up our tastings we continued on to a local ceramics factory we had found online. It took a bit of finding, but after 3 laps around the block we made it. Most of their ceramic work appeared to be targeted at the bulk commercial market - however they did sell certain pieces direct to the public from their factory.</p>
 
@@ -109,43 +109,43 @@
 
 <p>Watching the Pizza oven in operation was interesting - and extremely hot. The chef worked the oven like a master and put together some of the best pizza we have eaten - delicate thin crust, and extremely tasty toppings.</p>
 
-<p><img src="//assets/images/fab5c-img.jpg" alt="" /></p>
+<p><img src="/assets/images/fab5c-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/cbaac-image.jpg" alt="" /></p>
+<p><img src="/assets/images/cbaac-image.jpg" alt="" /></p>
 
 <p>As with the night of the feast a few nights before, we started with a selection of antipasti. This was then followed by a procession of pizzas - one after the other - the continued to come until we could eat no more. We did finish the night with a Nutella pizza and some Limoncello however.</p>
 
-<p><img src="//assets/images/34b67-img_6838.jpg" alt="" /></p>
+<p><img src="/assets/images/34b67-img_6838.jpg" alt="" /></p>
 
-<p><img src="//assets/images/09ebb-img_6843.jpg" alt="" /></p>
+<p><img src="/assets/images/09ebb-img_6843.jpg" alt="" /></p>
 
-<p><img src="//assets/images/97013-img_6846.jpg" alt="" /></p>
+<p><img src="/assets/images/97013-img_6846.jpg" alt="" /></p>
 
-<p><img src="//assets/images/79477-img_6848.jpg" alt="" /></p>
+<p><img src="/assets/images/79477-img_6848.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a3362-img_6851.jpg" alt="" /></p>
+<p><img src="/assets/images/a3362-img_6851.jpg" alt="" /></p>
 
-<p><img src="//assets/images/72a63-img_6853.jpg" alt="" /></p>
+<p><img src="/assets/images/72a63-img_6853.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2a2bc-img_6867.jpg" alt="" /></p>
+<p><img src="/assets/images/2a2bc-img_6867.jpg" alt="" /></p>
 
-<p><img src="//assets/images/15c7e-img_6868.jpg" alt="" /></p>
+<p><img src="/assets/images/15c7e-img_6868.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fe108-img_6984.jpg" alt="" /></p>
+<p><img src="/assets/images/fe108-img_6984.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7b443-img_6996.jpg" alt="" /></p>
+<p><img src="/assets/images/7b443-img_6996.jpg" alt="" /></p>
 
-<p><img src="//assets/images/75c73-img_7017.jpg" alt="" /></p>
+<p><img src="/assets/images/75c73-img_7017.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7432a-img_7062.jpg" alt="" /></p>
+<p><img src="/assets/images/7432a-img_7062.jpg" alt="" /></p>
 
-<p><img src="//assets/images/74bc8-img_7064.jpg" alt="" /></p>
+<p><img src="/assets/images/74bc8-img_7064.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f9dd0-img_7079.jpg" alt="" /></p>
+<p><img src="/assets/images/f9dd0-img_7079.jpg" alt="" /></p>
 
-<p><img src="//assets/images/830d8-img_7081.jpg" alt="" /></p>
+<p><img src="/assets/images/830d8-img_7081.jpg" alt="" /></p>
 
-<p><img src="//assets/images/815b6-img_7082.jpg" alt="" /></p>
+<p><img src="/assets/images/815b6-img_7082.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -153,10 +153,10 @@
 
 	<item>
 	  <title>A Tuscan Feast</title>
-	  <link>//a-tuscan-feast</link>
+	  <link>/a-tuscan-feast</link>
 	  <author></author>
-	  <pubDate>2015-07-20T21:56:00+00:00</pubDate>
-	  <guid>//a-tuscan-feast</guid>
+	  <pubDate>2015-07-21T07:56:00+10:00</pubDate>
+	  <guid>/a-tuscan-feast</guid>
 	  <description><![CDATA[
 	     <p>We arranged with Franco, the owner of the villa, to prepare us a traditional Tuscan feast (an option available to anyone staying at the villa) on Tuesday evening.</p>
 
@@ -166,11 +166,11 @@
 
 <p>As the afternoon turned into early evening, we found ourselves heading out onto the lawn to enjoy a few beers in the cooler evening air - waiting in anticipation for the meal to commence.</p>
 
-<p><img src="//assets/images/a6252-img.jpg" alt="" /></p>
+<p><img src="/assets/images/a6252-img.jpg" alt="" /></p>
 
 <p>Before dinner we come together for the obligatory group photo, inclusive of our custom made holiday t-shirts - “Pruscino &amp; Pals - Italian vacanza 2015”.</p>
 
-<p><img src="//assets/images/5080c-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5080c-img.jpg" alt="" /></p>
 
 <p>The feast commenced with an opening toast of Prosseco and a delightful selection of antipasti.</p>
 
@@ -190,33 +190,33 @@
 
 <p>On Thursday night we have arranged to have a pizza night - so the chefs will be back to cook up a storm on the wood fired pizza oven.</p>
 
-<p><img src="//assets/images/ced31-img_6681.jpg" alt="" /></p>
+<p><img src="/assets/images/ced31-img_6681.jpg" alt="" /></p>
 
-<p><img src="//assets/images/1904a-img_6682.jpg" alt="" /></p>
+<p><img src="/assets/images/1904a-img_6682.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8ee31-img_6684.jpg" alt="" /></p>
+<p><img src="/assets/images/8ee31-img_6684.jpg" alt="" /></p>
 
-<p><img src="//assets/images/997a7-img_6685.jpg" alt="" /></p>
+<p><img src="/assets/images/997a7-img_6685.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bca84-img_6687.jpg" alt="" /></p>
+<p><img src="/assets/images/bca84-img_6687.jpg" alt="" /></p>
 
-<p><img src="//assets/images/22cff-img_6688.jpg" alt="" /></p>
+<p><img src="/assets/images/22cff-img_6688.jpg" alt="" /></p>
 
-<p><img src="//assets/images/18ce9-img_6689.jpg" alt="" /></p>
+<p><img src="/assets/images/18ce9-img_6689.jpg" alt="" /></p>
 
-<p><img src="//assets/images/241ab-img_6690.jpg" alt="" /></p>
+<p><img src="/assets/images/241ab-img_6690.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9e7f8-img_6691.jpg" alt="" /></p>
+<p><img src="/assets/images/9e7f8-img_6691.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e4d2b-img_6697.jpg" alt="" /></p>
+<p><img src="/assets/images/e4d2b-img_6697.jpg" alt="" /></p>
 
-<p><img src="//assets/images/023d6-img_6699.jpg" alt="" /></p>
+<p><img src="/assets/images/023d6-img_6699.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9b16e-img_6700.jpg" alt="" /></p>
+<p><img src="/assets/images/9b16e-img_6700.jpg" alt="" /></p>
 
-<p><img src="//assets/images/59f9c-img_6701.jpg" alt="" /></p>
+<p><img src="/assets/images/59f9c-img_6701.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6008a-img_6703.jpg" alt="" /></p>
+<p><img src="/assets/images/6008a-img_6703.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -224,10 +224,10 @@
 
 	<item>
 	  <title>An evening in Siena</title>
-	  <link>//an-evening-in-siena</link>
+	  <link>/an-evening-in-siena</link>
 	  <author></author>
-	  <pubDate>2015-07-20T03:48:00+00:00</pubDate>
-	  <guid>//an-evening-in-siena</guid>
+	  <pubDate>2015-07-20T13:48:00+10:00</pubDate>
+	  <guid>/an-evening-in-siena</guid>
 	  <description><![CDATA[
 	     <p>Today we decided to venture out to nearby Siena for the evening - its too hot (38-40c) to be out and about with the kids during the heat of the day, and for us the time is much better spent cooling off and relaxing by the pool.</p>
 
@@ -241,27 +241,27 @@
 
 <p>From the shopping centre we headed up (and up, and up, and up) the length of escalators and travelators that take you up to the walled city of Siena.</p>
 
-<p><img src="//assets/images/cc20f-img.jpg" alt="" /></p>
+<p><img src="/assets/images/cc20f-img.jpg" alt="" /></p>
 
 <p>We headed in toward the centre of the city to find the Piazza del Campo. We found a nice restaurant on the edge of the Piazza and settled in for a refreshing few glasses of wine and a lovely dinner. By this time the heat of the day had passed and a lovely light breeze was moving through the Piazza - making for a wonderfully enjoyable evening.</p>
 
-<p><img src="//assets/images/09864-img.jpg" alt="" /></p>
+<p><img src="/assets/images/09864-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bdf31-img.jpg" alt="" /></p>
+<p><img src="/assets/images/bdf31-img.jpg" alt="" /></p>
 
 <p>After dinner we continued to explore the streets of Siena. The cooler air of the evening made this much more enjoyable, and the streets looked lovely in the light of dusk.</p>
 
 <p>We wandered up to the Siena Cathedral (the Duomo), a spectacular black and white marble cathedral right in the middle of Siena. Unfortunately it was closed at night so we couldn’t go inside, but the architecture of the building from the outside was exceptional.</p>
 
-<p><img src="//assets/images/ab054-img.jpg" alt="" /></p>
+<p><img src="/assets/images/ab054-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/eaed9-img.jpg" alt="" /></p>
+<p><img src="/assets/images/eaed9-img.jpg" alt="" /></p>
 
 <p>By this time the kids were ready for home, so we walked back through Siena and headed for the shopping centre that would lead us back to the card.</p>
 
-<p><img src="//assets/images/2df6b-img.jpg" alt="" /></p>
+<p><img src="/assets/images/2df6b-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c953d-img.jpg" alt="" /></p>
+<p><img src="/assets/images/c953d-img.jpg" alt="" /></p>
 
 <p>Heading home from Siena was a challenge to say the least. Navigating in near pitch darkness for 20km in the Tuscan countryside means you need total confidence in your TomTom - something we didn’t have.</p>
 
@@ -275,17 +275,17 @@
 
 <p>Needless to say a few beers were required to settle the stress levels from the drive home. We all decided that maybe we should impose the ‘Cinderella Policy’ and make sure we are home before dark next time - although where would the fun be in that…</p>
 
-<p><img src="//assets/images/59019-img_6524.jpg" alt="" /></p>
+<p><img src="/assets/images/59019-img_6524.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c1929-img_6528.jpg" alt="" /></p>
+<p><img src="/assets/images/c1929-img_6528.jpg" alt="" /></p>
 
-<p><img src="//assets/images/77fec-img_6536.jpg" alt="" /></p>
+<p><img src="/assets/images/77fec-img_6536.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bebdb-img_6572.jpg" alt="" /></p>
+<p><img src="/assets/images/bebdb-img_6572.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a92c3-img_6575.jpg" alt="" /></p>
+<p><img src="/assets/images/a92c3-img_6575.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9df29-img_6579.jpg" alt="" /></p>
+<p><img src="/assets/images/9df29-img_6579.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -293,10 +293,10 @@
 
 	<item>
 	  <title>Villa Podere Incrociati</title>
-	  <link>//villa-podere-incrociati</link>
+	  <link>/villa-podere-incrociati</link>
 	  <author></author>
-	  <pubDate>2015-07-19T03:46:54+00:00</pubDate>
-	  <guid>//villa-podere-incrociati</guid>
+	  <pubDate>2015-07-19T13:46:54+10:00</pubDate>
+	  <guid>/villa-podere-incrociati</guid>
 	  <description><![CDATA[
 	     <p>So after a long few days of travel, we arrived yesterday evening at what will become our home for the next week - villa <a href="http://www.podereincrociati.it">Podere Incronciati</a> - a traditional Tuscan villa built in 1840 about 20km outside of Siena.</p>
 
@@ -308,41 +308,41 @@
 
 <p>We have only been here for a day so far, but we are already totally relaxed - mission accomplished.</p>
 
-<p><img src="//assets/images/8eb0f-img_6436.jpg" alt="" /></p>
+<p><img src="/assets/images/8eb0f-img_6436.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f741c-img_6437.jpg" alt="" /></p>
+<p><img src="/assets/images/f741c-img_6437.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b97a5-img_6438.jpg" alt="" /></p>
+<p><img src="/assets/images/b97a5-img_6438.jpg" alt="" /></p>
 
-<p><img src="//assets/images/3993a-img_6440.jpg" alt="" /></p>
+<p><img src="/assets/images/3993a-img_6440.jpg" alt="" /></p>
 
-<p><img src="//assets/images/17ff4-img_6441.jpg" alt="" /></p>
+<p><img src="/assets/images/17ff4-img_6441.jpg" alt="" /></p>
 
-<p><img src="//assets/images/97021-img_6444.jpg" alt="" /></p>
+<p><img src="/assets/images/97021-img_6444.jpg" alt="" /></p>
 
-<p><img src="//assets/images/69585-img_6442.jpg" alt="" /></p>
+<p><img src="/assets/images/69585-img_6442.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fa2eb-img_6445.jpg" alt="" /></p>
+<p><img src="/assets/images/fa2eb-img_6445.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6783d-img_6454.jpg" alt="" /></p>
+<p><img src="/assets/images/6783d-img_6454.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ec6fb-img_6456.jpg" alt="" /></p>
+<p><img src="/assets/images/ec6fb-img_6456.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7d973-img_6450.jpg" alt="" /></p>
+<p><img src="/assets/images/7d973-img_6450.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b7059-img_6460.jpg" alt="" /></p>
+<p><img src="/assets/images/b7059-img_6460.jpg" alt="" /></p>
 
-<p><img src="//assets/images/71ab3-img_6454.jpg" alt="" /></p>
+<p><img src="/assets/images/71ab3-img_6454.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a9138-img_6467.jpg" alt="" /></p>
+<p><img src="/assets/images/a9138-img_6467.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8fdd3-img_6471.jpg" alt="" /></p>
+<p><img src="/assets/images/8fdd3-img_6471.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7730f-img_6460.jpg" alt="" /></p>
+<p><img src="/assets/images/7730f-img_6460.jpg" alt="" /></p>
 
-<p><img src="//assets/images/31c6e-img_6474.jpg" alt="" /></p>
+<p><img src="/assets/images/31c6e-img_6474.jpg" alt="" /></p>
 
-<p><img src="//assets/images/01fc3-img_6477.jpg" alt="" /></p>
+<p><img src="/assets/images/01fc3-img_6477.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -350,10 +350,10 @@
 
 	<item>
 	  <title>The Family Vacation - Let's Begin</title>
-	  <link>//the-family-vacation-lets-begin</link>
+	  <link>/the-family-vacation-lets-begin</link>
 	  <author></author>
-	  <pubDate>2015-07-18T22:20:25+00:00</pubDate>
-	  <guid>//the-family-vacation-lets-begin</guid>
+	  <pubDate>2015-07-19T08:20:25+10:00</pubDate>
+	  <guid>/the-family-vacation-lets-begin</guid>
 	  <description><![CDATA[
 	     <p>So… The last few day have been hectic and somewhat full-on to say the least.</p>
 
@@ -375,7 +375,7 @@
 
 <p>The next 14hrs hours of flight is made up of brief naps, resettling our little ones - who were incredibly good throughout the flight - and putting the Wiggles on high repetition on the in-flight entertainment system when the little ones became unsettled.</p>
 
-<p><img src="//assets/images/560b3-img_0600.jpg" alt="" /></p>
+<p><img src="/assets/images/560b3-img_0600.jpg" alt="" /></p>
 
 <p>Needless to say we all arrived safely in Dubai just slightly ahead of schedule.</p>
 
@@ -405,7 +405,7 @@
 
 <p>4 hours of doing nothing in Heathrow airport is truly about as exciting as it sounds. It makes the long haul plane ride look great in comparison.</p>
 
-<p><img src="//assets/images/aaee0-img.jpg" alt="" /></p>
+<p><img src="/assets/images/aaee0-img.jpg" alt="" /></p>
 
 <p>10 minutes before our boarding gate was to be announced all of the airport departure screens went out. This made for a more lively time - with everyone suddenly rushing the information desks in panic trying to find out what departure gate they needed to get to. We joined in the chaos and eventually found out what our next move was to be - Gate B32.</p>
 
@@ -413,7 +413,7 @@
 
 <p>We eventually boarded our flight to Rome - with Archie sound asleep on my shoulder… this is where tired little ones in an airport has it advantages - straight to the front of the line and first to board.</p>
 
-<p><img src="//assets/images/e7d32-img_0603.jpg" alt="" /></p>
+<p><img src="/assets/images/e7d32-img_0603.jpg" alt="" /></p>
 
 <h2 id="when-in-rome---wait">When in Rome - Wait</h2>
 
@@ -467,10 +467,10 @@
 
 	<item>
 	  <title>Only days away</title>
-	  <link>//only-days-away</link>
+	  <link>/only-days-away</link>
 	  <author></author>
-	  <pubDate>2015-07-10T17:19:25+00:00</pubDate>
-	  <guid>//only-days-away</guid>
+	  <pubDate>2015-07-11T03:19:25+10:00</pubDate>
+	  <guid>/only-days-away</guid>
 	  <description><![CDATA[
 	     <p>After almost 18 months of planning, we are now quickly approaching our departure date. Our bags are packed (well mostly), and we are ready to go.</p>
 
@@ -498,12 +498,12 @@
 
 	<item>
 	  <title>Under the Tuscan Sun</title>
-	  <link>//under-the-tuscan-sun</link>
+	  <link>/under-the-tuscan-sun</link>
 	  <author></author>
-	  <pubDate>2008-07-08T19:30:55+00:00</pubDate>
-	  <guid>//under-the-tuscan-sun</guid>
+	  <pubDate>2008-07-09T05:30:55+10:00</pubDate>
+	  <guid>/under-the-tuscan-sun</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/tuscany.jpg" alt="" title="Tuscany" />
+	     <p><img src="/assets/images/tuscany.jpg" alt="" title="Tuscany" />
 The transport strike has finished, and so has our forced day of relaxation in Bologna (yes… we did absolutely nothing, and loved it!) - we grabbed the early train out of town and headed for Certaldo in Tuscany.</p>
 
 <p>Certaldo is a cute little town south west of Florence (Firenze), and north of Siena. We are staying in a beautiful agriturismo B&amp;B, come self contained shared apartment - it has everything, free mountain bikes, kitchen &amp; fridge, internet, etc, and is immaculate.</p>

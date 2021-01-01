@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>Viva Italia</title>
-	  <link>//viva-italia</link>
+	  <link>/viva-italia</link>
 	  <author></author>
-	  <pubDate>2008-07-03T20:17:54+00:00</pubDate>
-	  <guid>//viva-italia</guid>
+	  <pubDate>2008-07-04T06:17:54+10:00</pubDate>
+	  <guid>/viva-italia</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/venice.jpg" alt="" title="Venice" />]
+	     <p><img src="/assets/images/venice.jpg" alt="" title="Venice" />]
 We are finally on the last leg of our trip (in Europe anyway!) - we hit Italy three days ago (1st July), having caught a rather scenic train from Salzburg. The scenery was absolutely amazing - travelling by train through the Austrian and Italian Alps is highly recommended. There are a few rather long tunnels at times, but the scenery, especially prior to leaving Austria was unbelievable.</p>
 
 <p>Once again we used our Eurail ticket to facilitate the 6 hour trip (with 1 change over) from Salzburg to Venice. We raced to get on the train in Salzburg - in amongst heaps of school kids who obviously use the intercity service instead of the suburban service for its comfort to get to and from school.</p>

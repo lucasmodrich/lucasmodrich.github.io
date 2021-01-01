@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Privacy Update</title>
-	  <link>//privacy-update</link>
+	  <link>/privacy-update</link>
 	  <author></author>
-	  <pubDate>2018-05-24T22:54:19+00:00</pubDate>
-	  <guid>//privacy-update</guid>
+	  <pubDate>2018-05-25T08:54:19+10:00</pubDate>
+	  <guid>/privacy-update</guid>
 	  <description><![CDATA[
 	     <p>The right to privacy is a serious matter, and something that I take very seriously.</p>
 
@@ -34,10 +34,10 @@
 
 	<item>
 	  <title>A new look and a new home</title>
-	  <link>//a-new-look-and-a-new-home</link>
+	  <link>/a-new-look-and-a-new-home</link>
 	  <author></author>
-	  <pubDate>2017-10-16T06:23:23+00:00</pubDate>
-	  <guid>//a-new-look-and-a-new-home</guid>
+	  <pubDate>2017-10-16T17:23:23+11:00</pubDate>
+	  <guid>/a-new-look-and-a-new-home</guid>
 	  <description><![CDATA[
 	     <p>We have finished renovating our old home here at Wordpress.com, and have now moved back in. The old place at SquareSpace is still lingering, but will soon disappear for good.</p>
 
@@ -54,10 +54,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>Working in Durban (RSA)</title>
-	  <link>//working-in-durban-rsa</link>
+	  <link>/working-in-durban-rsa</link>
 	  <author></author>
-	  <pubDate>2016-08-09T07:42:00+00:00</pubDate>
-	  <guid>//working-in-durban-rsa</guid>
+	  <pubDate>2016-08-09T17:42:00+10:00</pubDate>
+	  <guid>/working-in-durban-rsa</guid>
 	  <description><![CDATA[
 	     <p>So I have been in Durban for a few days now. Mostly work meetings with clients and not much down time to get out and see the place (im not hear for leisure!).</p>
 
@@ -65,7 +65,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We did get out to the local shopping centre one evening to visit out client retail outlet and to get a better feel for their operation - but again - this was not a social visit.</p>
 
-<p><img src="//assets/images/2aeb0-durban.png" alt="Durban - South Africa" /> Durban - South Africa</p>
+<p><img src="/assets/images/2aeb0-durban.png" alt="Durban - South Africa" /> Durban - South Africa</p>
 
 <p>We are staying about 20km north of the Durban CBD itself - and the are is a mix of residential and industrial.</p>
 
@@ -79,11 +79,11 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Durban downtown was a mix of new and old buildings - and I have the feeling some areas that you really don’t want to get too close to. We passed through quickly and headed back north to the beach suburb of Umhlanga - which was quite nice and obviously a more wealthy part of town.</p>
 
-<p><img src="//assets/images/399fc-sunrisefrommyroomsunrisefrommyroom.jpg" alt="Sunrise from my room" /> Sunrise from my room</p>
+<p><img src="/assets/images/399fc-sunrisefrommyroomsunrisefrommyroom.jpg" alt="Sunrise from my room" /> Sunrise from my room</p>
 
-<p><img src="//assets/images/13bfa-cheekymonkiescheekymonkies.jpg" alt="Cheeky Monkey @ Hotel" /> Cheeky Monkey @ Hotel</p>
+<p><img src="/assets/images/13bfa-cheekymonkiescheekymonkies.jpg" alt="Cheeky Monkey @ Hotel" /> Cheeky Monkey @ Hotel</p>
 
-<p><img src="//assets/images/f1f22-img.jpg" alt="Moses Mabhida Stadium in Durban" /> Moses Mabhida Stadium in Durban</p>
+<p><img src="/assets/images/f1f22-img.jpg" alt="Moses Mabhida Stadium in Durban" /> Moses Mabhida Stadium in Durban</p>
 
 
 	  ]]></description>
@@ -91,10 +91,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>Headed to South Africa (for Work)</title>
-	  <link>//headed-to-south-africa-for-work</link>
+	  <link>/headed-to-south-africa-for-work</link>
 	  <author></author>
-	  <pubDate>2016-08-06T03:39:24+00:00</pubDate>
-	  <guid>//headed-to-south-africa-for-work</guid>
+	  <pubDate>2016-08-06T13:39:24+10:00</pubDate>
+	  <guid>/headed-to-south-africa-for-work</guid>
 	  <description><![CDATA[
 	     <p>Tonight I boarded a flight from Melbourne destined for Durban, South Africa - via Perth (on Virgin Australia) and Johannesburg (on South African Airlines).</p>
 
@@ -122,14 +122,14 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>The City of Angels</title>
-	  <link>//the-city-of-angels</link>
+	  <link>/the-city-of-angels</link>
 	  <author></author>
-	  <pubDate>2015-08-24T20:04:35+00:00</pubDate>
-	  <guid>//the-city-of-angels</guid>
+	  <pubDate>2015-08-25T06:04:35+10:00</pubDate>
+	  <guid>/the-city-of-angels</guid>
 	  <description><![CDATA[
 	     <p>Earlier in the week (Monday 17th Aug) we left New York behind us (sad to leave but we have to move on), and flew across the country to Los Angeles.</p>
 
-<p><img src="//assets/images/70530-img.jpg" alt="" /></p>
+<p><img src="/assets/images/70530-img.jpg" alt="" /></p>
 
 <p>We weren’t actually staying in L.A. but just south in Anaheim as we planed to take Archie to Disneyland.</p>
 
@@ -147,7 +147,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Off the bus, we cleared security and then entered the park. Coincidentally it’s currently Disneyland’s 60th (Diamond) anniversary - and additional festivities were occurring to celebrate.</p>
 
-<p><img src="//assets/images/f9a49-img.jpg" alt="" /></p>
+<p><img src="/assets/images/f9a49-img.jpg" alt="" /></p>
 
 <p>We wandered through Disneyland main street and up toward the castle taking it all it.</p>
 
@@ -161,25 +161,25 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Looking to recover from the past two terrifying experiences we had just submitted out son to - we saw the Dumbo ride - much like a carousel, but you can control the up and down motion - thankfully he loved this and all was good in the world once again.</p>
 
-<p><img src="//assets/images/65915-img.jpg" alt="" /></p>
+<p><img src="/assets/images/65915-img.jpg" alt="" /></p>
 
 <p>From then on we selected Archie friendly rides - the animal train, Its A Small World, the Disneyland train, Whiney the Poo, etc.</p>
 
 <p>We wandered our way through the park with no real plan. We manage to bump into Donald Duck, Mickey Mouse and Woody and snagged some happy snaps with these characters.</p>
 
-<p><img src="//assets/images/a75a5-img.jpg" alt="" /></p>
+<p><img src="/assets/images/a75a5-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/06c5d-img.jpg" alt="" /></p>
+<p><img src="/assets/images/06c5d-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bbf9b-img.jpg" alt="" /></p>
+<p><img src="/assets/images/bbf9b-img.jpg" alt="" /></p>
 
 <p>By about 2pm we decided to head back to the hotel to put Archie down for a sleep. We all took some time out, either catching up on some sleep ourselves or having a dip in the pool.</p>
 
 <p>We headed back to the park at about 4pm - just in time to watch the parade down Main Street - before continuing to explore the areas of the park we had yet to visit.</p>
 
-<p><img src="//assets/images/39572-img.jpg" alt="" /></p>
+<p><img src="/assets/images/39572-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/117b5-img.jpg" alt="" /></p>
+<p><img src="/assets/images/117b5-img.jpg" alt="" /></p>
 
 <p>Later in the evening we managed to find a ‘reasonable’ place to sit and watch the evening light show parade which was then followed by the fireworks show - a great end to a great (and very long) day.</p>
 
@@ -195,13 +195,13 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Carmen decided to head out to do some more shopping and sightseeing on the ART buses. Laura, Jo, Archie and I decided to lay low and chill out at the hotel - although that lasted about an hour.</p>
 
-<p><img src="//assets/images/79b67-img.jpg" alt="" /></p>
+<p><img src="/assets/images/79b67-img.jpg" alt="" /></p>
 
 <p>Laura and I decided to head out for a walk - and it was while walking that we discovered an alternate route to Disneyland… only 10 min walk away… oh well. We also discovered Downtown Disneyland - a restaurant and shopping precinct right next to the Disneyland Parks. Had we realised this was here we would likely have walked up each evening for a few drinks and dinner - there was a lot of choice, and while it was more expensive than the hotel (it is part of Disneyland after all), it would have provided a bit more atmosphere and variety. Oh-well… we know for next time.</p>
 
 <p>Basically the remainder of our day ended up being spent at Disneyland Downtown. You would have thought that by now we would have had out fill of shopping… It appears there was room for a few additional items (like my new Collectors Edition Star Wars Lego Tie Fighter - which only just fit in my suit case).</p>
 
-<p><img src="//assets/images/90c73-img.jpg" alt="" /></p>
+<p><img src="/assets/images/90c73-img.jpg" alt="" /></p>
 
 <p>In the early afternoon we all headed back to the hotel and met up before jumping into our transfer back to LAX.</p>
 
@@ -215,33 +215,33 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Once the dust settles, I will probably put together a bit of a retrospective of the trip to highlight our favourite parts - and any pictures which didn’t make it into the original posts.</p>
 
-<p><img src="//assets/images/e8418-img_0101.jpg" alt="" /></p>
+<p><img src="/assets/images/e8418-img_0101.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f87fe-img_0116.jpg" alt="" /></p>
+<p><img src="/assets/images/f87fe-img_0116.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d8e69-img_0121.jpg" alt="" /></p>
+<p><img src="/assets/images/d8e69-img_0121.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e0bc0-img_0126.jpg" alt="" /></p>
+<p><img src="/assets/images/e0bc0-img_0126.jpg" alt="" /></p>
 
-<p><img src="//assets/images/14b18-img_0128.jpg" alt="" /></p>
+<p><img src="/assets/images/14b18-img_0128.jpg" alt="" /></p>
 
-<p><img src="//assets/images/1c9a7-img_9686.jpg" alt="" /></p>
+<p><img src="/assets/images/1c9a7-img_9686.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d8aa6-img_9761.jpg" alt="" /></p>
+<p><img src="/assets/images/d8aa6-img_9761.jpg" alt="" /></p>
 
-<p><img src="//assets/images/86ee5-img_9765.jpg" alt="" /></p>
+<p><img src="/assets/images/86ee5-img_9765.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8ca6a-img_9776.jpg" alt="" /></p>
+<p><img src="/assets/images/8ca6a-img_9776.jpg" alt="" /></p>
 
-<p><img src="//assets/images/363ac-img_9790.jpg" alt="" /></p>
+<p><img src="/assets/images/363ac-img_9790.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bef95-img_9798.jpg" alt="" /></p>
+<p><img src="/assets/images/bef95-img_9798.jpg" alt="" /></p>
 
-<p><img src="//assets/images/66285-img_9982.jpg" alt="" /></p>
+<p><img src="/assets/images/66285-img_9982.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f31da-img_9985.jpg" alt="" /></p>
+<p><img src="/assets/images/f31da-img_9985.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ace5f-img_9995.jpg" alt="" /></p>
+<p><img src="/assets/images/ace5f-img_9995.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -249,10 +249,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>New York, New York</title>
-	  <link>//new-york-new-york</link>
+	  <link>/new-york-new-york</link>
 	  <author></author>
-	  <pubDate>2015-08-16T11:12:00+00:00</pubDate>
-	  <guid>//new-york-new-york</guid>
+	  <pubDate>2015-08-16T21:12:00+10:00</pubDate>
+	  <guid>/new-york-new-york</guid>
 	  <description><![CDATA[
 	     <p><strong>Updated 24-Aug-2015:</strong> As promised, more pictures have now been added to this post.</p>
 
@@ -270,7 +270,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We finally arrived at our apartment block in Midtown and checked in. We were in a pretty good location on 49th street between 6th and 7th Ave - right next to the Broadway theatre district, Times Square, and The Rockefeller centre.</p>
 
-<p><img src="//assets/images/8c67b-img.jpg" alt="" /></p>
+<p><img src="/assets/images/8c67b-img.jpg" alt="" /></p>
 
 <p>Rather tired after a long day of travel, we decided to keep dinner quick and simple - Pizza from the place next door.</p>
 
@@ -282,7 +282,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>The Highline is an old train line that is elevated up above street level and has been transformed into a green space and walking trail.</p>
 
-<p><img src="//assets/images/3e378-img.jpg" alt="" /></p>
+<p><img src="/assets/images/3e378-img.jpg" alt="" /></p>
 
 <p>The Highline weaves its way down to the <a href="http://www.chelseamarket.com">Chelsea Market</a> at 14th street - those of you who are good at math may have already determined that’s 35 block down and more than a few across town.</p>
 
@@ -294,13 +294,13 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>After our short stop, we headed back up to the Highline to continue our walk. It wasn’t long before we got to the Chelsea market - but before venturing back down to street level to enter the market we looked around the street traders that were setup on the Highline. Here we found my need food love - ice cream sandwiches.</p>
 
-<p><img src="//assets/images/2d59a-img.jpg" alt="" /></p>
+<p><img src="/assets/images/2d59a-img.jpg" alt="" /></p>
 
 <p>A small freezer cart was setup on the Highline from <a href="http://www.meltbakery.com">Melt Bakery</a> - the first people to bring ice cream sandwiches into New York - and for only $4 they are truly something. Coming in at variety of flavours, we went with the Morticia, a crispy chocolate biscuit enclosing a chocolate and rum infused ice cream - absolutely delicious.</p>
 
 <p>After our ice cream sandwich indulgence, we headed down to street level and into the market.</p>
 
-<p><img src="//assets/images/74080-img.jpg" alt="" /></p>
+<p><img src="/assets/images/74080-img.jpg" alt="" /></p>
 
 <p>It was now right on lunch time, and the market was very busy with tourists and locals alike. We wandered through the busy market place, in and out of stores exploring the wares on offer. Beautiful fresh fruit and veggies, fresh meats and seafood - pretty much anything you could want - as well as a few trinket shops for souvenirs.</p>
 
@@ -308,7 +308,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>After spending time at the market we headed back to the Highline and made the walk (some 40 odd blocks) back home for an afternoon rest.</p>
 
-<p><img src="//assets/images/5c76f-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5c76f-img.jpg" alt="" /></p>
 
 <p>In the evening we headed out again, on foot, toward the Flatiron district to a place we had been told was good - the <a href="https://www.shakeshack.com">Shake Shack</a> in Madison Square Park. The park was nicely lit-up in the early evening, and we found some seats before joining the queue to order our meals. The queue was long, but moved quickly.</p>
 
@@ -316,7 +316,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We ordered burgers, fries and drinks and enjoyed them in the park - Archie love watching the squirrels running about in the nearby trees.</p>
 
-<p><img src="//assets/images/5787a-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5787a-img.jpg" alt="" /></p>
 
 <p>It had been a long day for Archie and was now 9pm and well past his bed time, so Laura and I hailed a cab to get him back to the apartment and to bed. Jo and Carmen wandered their way back on foot and arrived home a little later (after some shopping on 5th Ave).</p>
 
@@ -326,7 +326,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We woke Tuesday morning to a rainy day - an overnight thunderstorm had been forecast and it didn’t disappoint. I had to make a mad early morning dash to the nearest supermarket for a resupply of milk, yoghurt, bananas and other breakfast essentials. Without a rain jacket I decided to brave it in one of my already worn stinky t-shirts and bathers - the t-shirt needed to be washed anyway and the bathers would dry quickly.</p>
 
-<p><img src="//assets/images/f4ccc-img_8839.jpg" alt="" /></p>
+<p><img src="/assets/images/f4ccc-img_8839.jpg" alt="" /></p>
 
 <p>Unfortunately I was up and out a little too early - after a mad dash two blocks to the supermarket, I found it wasn’t open for another hour. So I hit up a local deli across the street and found everything I needed to get us through breakfast.</p>
 
@@ -356,7 +356,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>After our brief stop, we continued walking up through the sheep meadow and across to the Imagine Park - a memorial park for John Lennon.</p>
 
-<p><img src="//assets/images/a5897-img.jpg" alt="" /></p>
+<p><img src="/assets/images/a5897-img.jpg" alt="" /></p>
 
 <p>We then continued our walk along the side of the lake and found the Friends fountain - where a few obligatory tourist snaps were taken.</p>
 
@@ -364,7 +364,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>After lunch we continued our walk through the park - this place is absolutely enormous. By early afternoon we had only walked about one third of the length of the park - mind you we were not in a rush, and it was a great escape from the hustle and bustle of the busy New York streets.</p>
 
-<p><img src="//assets/images/61668-img.jpg" alt="" /></p>
+<p><img src="/assets/images/61668-img.jpg" alt="" /></p>
 
 <p>On our way back home we walked past the Central Park Zoo and were just in time to watch the clock tower go off - Archie loved the music and the animal statues dancing around the bottom of the clock.</p>
 
@@ -376,23 +376,23 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>On our way we happened to find (not by accident!) the Ghost Busters fire station - so some obligatory tourist photos here. We continued our walk downtown and were amazed by the number of skyscrapers in the area.</p>
 
-<p><img src="//assets/images/7a58b-img.jpg" alt="" /></p>
+<p><img src="/assets/images/7a58b-img.jpg" alt="" /></p>
 
 <p>Arriving at the World Trade Centre memorial site was quite amazing - you come out from behind towering buildings into what is now a big peaceful open space. It’s hard to believe there were two towering buildings standing on that site - and what is harder to believe is the destruction and chaos that would have been going on during the September 11 incident. It was quite an odd feeling walking into the area.</p>
 
 <p>The memorial area has been done very nicely - tow large water fountains now reside in the place where the towers once stood. It is truly something to see.</p>
 
-<p><img src="//assets/images/80c17-img.jpg" alt="" /></p>
+<p><img src="/assets/images/80c17-img.jpg" alt="" /></p>
 
 <p>From the World Trade Centre site we continued our walk down through Wall Street - a fairly unexciting area of town if I am completely honest. As a tourist in New York, its something you need to come and see - but now I have seen it, I doubt I will have a need to come back.</p>
 
-<p><img src="//assets/images/17dd8-img_9102.jpg" alt="" /></p>
+<p><img src="/assets/images/17dd8-img_9102.jpg" alt="" /></p>
 
 <p>We continued our walk down to the ferry terminal. Here Carmen and Jo jumped on a ferry across to Stanton Island, which Laura and I decided to head up to the Lower East side to visit <a href="http://katzsdelicatessen.com">Katz’s Deli</a> - famous for a number of reasons, but most people associate it with the “I’ll have what she’s having” scene from When Harry met Sally.</p>
 
 <p>We jumped on the subway and then walked a few blocks to find the diner. Wow… talk about organised chaos. Luckily we arrived just outside the lunchtime peak - which meant we didn’t have to line up outside on the street to get in.</p>
 
-<p><img src="//assets/images/649e7-img_9129.jpg" alt="" /></p>
+<p><img src="/assets/images/649e7-img_9129.jpg" alt="" /></p>
 
 <p>Walking in a big guy hands you a ticket and says simply… “Don’t loose it. You need it to get out.” Initially it was all a bit too much to take in - Laura, Archie and I stood there amongst the crowd of people just looking around and processing what to do next… oh yeah… lunch - lets order some lunch.</p>
 
@@ -400,7 +400,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>While eating we were able to take sometime to observe the ‘process’ of how to get out of the deli. Basically your ticket is your way out. You have to pay to be let out. Loose your ticket and you are up for a minimum $50 - and probably a lot of grief from the big guys on the door.</p>
 
-<p><img src="//assets/images/fb531-img_9148.jpg" alt="" /></p>
+<p><img src="/assets/images/fb531-img_9148.jpg" alt="" /></p>
 
 <p>The queue to get out was quite long - but every now and then one of the guys working the line would come down and ask if anyone had paid by credit card - if you paid by card you can just walk out… The line of for cash payment was huge.</p>
 
@@ -430,13 +430,13 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We headed to Cafe De La Esquina for lunch - a Mexican styled diner. The food was great - spicy tacos, nachos, quesadilla, and the drinks were packed full of tequila.</p>
 
-<p><img src="//assets/images/1c74c-img_9214.jpg" alt="" /></p>
+<p><img src="/assets/images/1c74c-img_9214.jpg" alt="" /></p>
 
 <p>After lunch Laura and Carmen wanted to continue exploring the shops in Williamsburg, and I needed to get Archie home for a sleep - so Jo, Archie and I headed back to the train station.</p>
 
 <p>Rather than heading straight back home we decided this was a good opportunity to walk across the Brooklyn Bridge - and take in the sights along the way.</p>
 
-<p><img src="//assets/images/2b505-img_9284.jpg" alt="" /></p>
+<p><img src="/assets/images/2b505-img_9284.jpg" alt="" /></p>
 
 <p>The walk across the bridge was really enjoyable - but crowded. There are two lanes - one for pedestrians and one for bikes - make sure you stay in the correct lane as the bike riders get really cranky when the tourists wander across into their lane to grab a photo of the bridge or lower Manhattan.</p>
 
@@ -448,7 +448,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We put Archie down for the night and Jo was kind enough to baby site while we went out to our shows. Carmen, Laura and I set out for a drink before the show. A few nights before Carmen and Laura had found a cool little Cuban bar in the theatre district, which they wanted to take me to.</p>
 
-<p><img src="//assets/images/93c7a-img_9316.jpg" alt="" /></p>
+<p><img src="/assets/images/93c7a-img_9316.jpg" alt="" /></p>
 
 <p><a href="http://victorscafe.com">Victors Cafe</a> was very cool and very Cuban. A dimly lit room, bar on one side table and chairs down the other and a small band playing Cuban music at the front - awesome. We ordered a round of drinks and enjoyed the music and atmosphere before parting ways to head off and see our shows.</p>
 
@@ -462,7 +462,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>A few minutes later I was shaking hands with both Penn &amp; Teller, getting my photo taken and having the ticket and playbook signed - my day was made!</p>
 
-<p><img src="//assets/images/1a9ca-img_9363.jpg" alt="" /></p>
+<p><img src="/assets/images/1a9ca-img_9363.jpg" alt="" /></p>
 
 <p>I then met up with the girls and we headed home.</p>
 
@@ -474,17 +474,17 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We took the subway down to the lower east side and wandered through the funky back streets - cool shops and cafes everywhere.</p>
 
-<p><img src="//assets/images/0e854-img_9480.jpg" alt="" /></p>
+<p><img src="/assets/images/0e854-img_9480.jpg" alt="" /></p>
 
 <p>We arrived at our brunch destination - <a href="http://public-nyc.com">Public</a>. Public is a trendy little restaurant cafe that was awarded a Michelin Star in 2015, and offers awesome meals and drinks - including a Gin and Juice bar where you can mix your straight Gin with any number of the freshly prepared fruit juices and condiments (fresh fruit wedges, select herbs, etc).</p>
 
 <p>We ordered a selection of meals from the brunch menu and enjoyed. I also topped out my brunch with a Bloody Mary (or two).</p>
 
-<p><img src="//assets/images/09a7d-img.jpg" alt="" /></p>
+<p><img src="/assets/images/09a7d-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c2b0c-img_9478.jpg" alt="" /></p>
+<p><img src="/assets/images/c2b0c-img_9478.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f7308-img.jpg" alt="" /></p>
+<p><img src="/assets/images/f7308-img.jpg" alt="" /></p>
 
 <p>After brunch we continued our walk through the local streets. I found an old fashioned barber and decided to get myself a beard trim - its been growing wild for the past month or so and was starting to look a bit straggly. First a shaping trim with electric clippers followed by a close shave with an old fashioned cut-throat razor. 20 min later we were all cleaned up and ready to go - presentable once again (some might think at least).</p>
 
@@ -494,7 +494,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Given we were in the general area of <a href="http://www.meltbakery.com">Melt Bakery</a> we decided it was a good time to get another of their fantastic ice cream sandwiches. $4 later we were eating another of these delicious delights.</p>
 
-<p><img src="//assets/images/63a46-img.jpg" alt="" /></p>
+<p><img src="/assets/images/63a46-img.jpg" alt="" /></p>
 
 <p>Given that Carmen and Jo hadn’t been with Laura and i when we visited <a href="http://katzsdelicatessen.com">Katz’s Deli</a> and that it was just around the corner - we decided to swing past there also on our way home. This time the deli was packed and there was a line down the sidewalk to get in - so we just peeked in through the window to get a view.</p>
 
@@ -504,17 +504,17 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Beauty &amp; Essex is a beautiful and funky restaurant that is tucked in behind a pawn shop. You walk into the pawn shop off the street and through a big heavy door into an urban hideout that is dimly lit and nicely styled.</p>
 
-<p><img src="//assets/images/69fa7-img.jpg" alt="" /></p>
+<p><img src="/assets/images/69fa7-img.jpg" alt="" /></p>
 
 <p>Dinner was awesome - they suggest a tapas / share plates so we went with a selection of different options - all absolutely delicious.</p>
 
-<p><img src="//assets/images/81d4d-img.jpg" alt="" /></p>
+<p><img src="/assets/images/81d4d-img.jpg" alt="" /></p>
 
 <p>After dinner we headed back home to the apartment and then wandered over to the Rockefeller centre to book tickets to the Top of the Rock - the observation deck at the top of the building. Our session was at 9:50pm, so we went home and chilled out a bit before heading back.</p>
 
 <p>The express elevator had us up to the 65th floor in no time at all. Outside the girls were ok - but I was packing it. The view of the city at night was awesome… as long as I wasn’t too close to the glass wall edge. Talk about vertigo… wow.</p>
 
-<p><img src="//assets/images/d4c52-img.jpg" alt="" /></p>
+<p><img src="/assets/images/d4c52-img.jpg" alt="" /></p>
 
 <p>We went up further to the top observation deck - which I actually found a bit easier as you could see the next level down.</p>
 
@@ -528,7 +528,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We headed down to the BB King Blues Bar for lunch (brunch) and to see the gospel choir. We had decent seats in a booth to the left of the stage, and the music was great. Archie loved it - up and dancing to the classic gospel songs being belted out (quite well) by the choir.</p>
 
-<p><img src="//assets/images/b1be6-img.jpg" alt="" /></p>
+<p><img src="/assets/images/b1be6-img.jpg" alt="" /></p>
 
 <p>We left the choir show as soon as it finished and walked up to Times Square to get Jo to here matinée show.</p>
 
@@ -536,91 +536,91 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Tomorrow (Monday) we are off to Los Angeles and Disneyland.</p>
 
-<p><img src="//assets/images/c729d-img_8757.jpg" alt="" /></p>
+<p><img src="/assets/images/c729d-img_8757.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a5b5c-img_8817.jpg" alt="" /></p>
+<p><img src="/assets/images/a5b5c-img_8817.jpg" alt="" /></p>
 
-<p><img src="//assets/images/32e3e-img_8760.jpg" alt="" /></p>
+<p><img src="/assets/images/32e3e-img_8760.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9164f-img_8880.jpg" alt="" /></p>
+<p><img src="/assets/images/9164f-img_8880.jpg" alt="" /></p>
 
-<p><img src="//assets/images/32652-img_8884.jpg" alt="" /></p>
+<p><img src="/assets/images/32652-img_8884.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5e70b-img_8928.jpg" alt="" /></p>
+<p><img src="/assets/images/5e70b-img_8928.jpg" alt="" /></p>
 
-<p><img src="//assets/images/4e7f0-img_8944.jpg" alt="" /></p>
+<p><img src="/assets/images/4e7f0-img_8944.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b406c-img_8948.jpg" alt="" /></p>
+<p><img src="/assets/images/b406c-img_8948.jpg" alt="" /></p>
 
-<p><img src="//assets/images/96027-img_8990.jpg" alt="" /></p>
+<p><img src="/assets/images/96027-img_8990.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6cdaa-img_8691.jpg" alt="" /></p>
+<p><img src="/assets/images/6cdaa-img_8691.jpg" alt="" /></p>
 
-<p><img src="//assets/images/de2d2-img_8693.jpg" alt="" /></p>
+<p><img src="/assets/images/de2d2-img_8693.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6086c-img_8858.jpg" alt="" /></p>
+<p><img src="/assets/images/6086c-img_8858.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e8aae-img_8870.jpg" alt="" /></p>
+<p><img src="/assets/images/e8aae-img_8870.jpg" alt="" /></p>
 
-<p><img src="//assets/images/bb614-img_8988.jpg" alt="" /></p>
+<p><img src="/assets/images/bb614-img_8988.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fdb23-img_9014.jpg" alt="" /></p>
+<p><img src="/assets/images/fdb23-img_9014.jpg" alt="" /></p>
 
-<p><img src="//assets/images/3e89e-img_9018.jpg" alt="" /></p>
+<p><img src="/assets/images/3e89e-img_9018.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a19bc-img_9041.jpg" alt="" /></p>
+<p><img src="/assets/images/a19bc-img_9041.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9fafb-img_9072.jpg" alt="" /></p>
+<p><img src="/assets/images/9fafb-img_9072.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e4179-img_9137.jpg" alt="" /></p>
+<p><img src="/assets/images/e4179-img_9137.jpg" alt="" /></p>
 
-<p><img src="//assets/images/0be8c-img_9150.jpg" alt="" /></p>
+<p><img src="/assets/images/0be8c-img_9150.jpg" alt="" /></p>
 
-<p><img src="//assets/images/998e0-img_9170.jpg" alt="" /></p>
+<p><img src="/assets/images/998e0-img_9170.jpg" alt="" /></p>
 
-<p><img src="//assets/images/7f4a2-img_9181.jpg" alt="" /></p>
+<p><img src="/assets/images/7f4a2-img_9181.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5ebed-img_9188.jpg" alt="" /></p>
+<p><img src="/assets/images/5ebed-img_9188.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8526c-img_9192.jpg" alt="" /></p>
+<p><img src="/assets/images/8526c-img_9192.jpg" alt="" /></p>
 
-<p><img src="//assets/images/13d65-img_9198.jpg" alt="" /></p>
+<p><img src="/assets/images/13d65-img_9198.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e1f8e-img_9280.jpg" alt="" /></p>
+<p><img src="/assets/images/e1f8e-img_9280.jpg" alt="" /></p>
 
-<p><img src="//assets/images/11bb0-img_9323.jpg" alt="" /></p>
+<p><img src="/assets/images/11bb0-img_9323.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c86ff-img_9483.jpg" alt="" /></p>
+<p><img src="/assets/images/c86ff-img_9483.jpg" alt="" /></p>
 
-<p><img src="//assets/images/10ced-img_9484.jpg" alt="" /></p>
+<p><img src="/assets/images/10ced-img_9484.jpg" alt="" /></p>
 
-<p><img src="//assets/images/94809-img_9485.jpg" alt="" /></p>
+<p><img src="/assets/images/94809-img_9485.jpg" alt="" /></p>
 
-<p><img src="//assets/images/5fa86-img_9504.jpg" alt="" /></p>
+<p><img src="/assets/images/5fa86-img_9504.jpg" alt="" /></p>
 
-<p><img src="//assets/images/6c476-img_9541.jpg" alt="" /></p>
+<p><img src="/assets/images/6c476-img_9541.jpg" alt="" /></p>
 
-<p><img src="//assets/images/e8af5-img_9542.jpg" alt="" /></p>
+<p><img src="/assets/images/e8af5-img_9542.jpg" alt="" /></p>
 
-<p><img src="//assets/images/226db-img_9544.jpg" alt="" /></p>
+<p><img src="/assets/images/226db-img_9544.jpg" alt="" /></p>
 
-<p><img src="//assets/images/d7c8f-img_9548.jpg" alt="" /></p>
+<p><img src="/assets/images/d7c8f-img_9548.jpg" alt="" /></p>
 
-<p><img src="//assets/images/45d42-img_9549.jpg" alt="" /></p>
+<p><img src="/assets/images/45d42-img_9549.jpg" alt="" /></p>
 
-<p><img src="//assets/images/cb3b7-img_9550.jpg" alt="" /></p>
+<p><img src="/assets/images/cb3b7-img_9550.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b5caf-img_9556.jpg" alt="" /></p>
+<p><img src="/assets/images/b5caf-img_9556.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a08b2-img_9564.jpg" alt="" /></p>
+<p><img src="/assets/images/a08b2-img_9564.jpg" alt="" /></p>
 
-<p><img src="//assets/images/1c9e7-img_9625.jpg" alt="" /></p>
+<p><img src="/assets/images/1c9e7-img_9625.jpg" alt="" /></p>
 
-<p><img src="//assets/images/0fff3-img_9639.jpg" alt="" /></p>
+<p><img src="/assets/images/0fff3-img_9639.jpg" alt="" /></p>
 
-<p><img src="//assets/images/15070-img_9667.jpg" alt="" /></p>
+<p><img src="/assets/images/15070-img_9667.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b9824-img_9669.jpg" alt="" /></p>
+<p><img src="/assets/images/b9824-img_9669.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -628,14 +628,14 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>London Gin Club in Soho</title>
-	  <link>//london-gin-club-in-soho</link>
+	  <link>/london-gin-club-in-soho</link>
 	  <author></author>
-	  <pubDate>2015-08-09T01:09:27+00:00</pubDate>
-	  <guid>//london-gin-club-in-soho</guid>
+	  <pubDate>2015-08-09T11:09:27+10:00</pubDate>
+	  <guid>/london-gin-club-in-soho</guid>
 	  <description><![CDATA[
 	     <p>Last night was our final night in London. Laura and I left Archie with Mum and Jo and then headed out to Soho to find the London Gin Club - something Laura had kindly tracked down for me and thought it would be a great way to spend our last night in London.</p>
 
-<p><img src="//assets/images/f64df-image.jpg" alt="" /></p>
+<p><img src="/assets/images/f64df-image.jpg" alt="" /></p>
 
 <p>The club is in an old small pub - pretty casual and unpretentious - which was exactly what we were looking for.</p>
 
@@ -649,27 +649,27 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>The Gin menu was extensive. I settled on one of the tasting boards, while Laura had a Gin cocktail.</p>
 
-<p><img src="//assets/images/de3aa-image.jpg" alt="" /></p>
+<p><img src="/assets/images/de3aa-image.jpg" alt="" /></p>
 
 <p>The tasting board arrived - 4 vials of selected Gins and accompanying garnishes for each. Two large ice filled glasses then arrived - each Gin deserves its own fresh glass.</p>
 
-<p><img src="//assets/images/6de7a-image.jpg" alt="" /></p>
+<p><img src="/assets/images/6de7a-image.jpg" alt="" /></p>
 
 <p>The waitress then guided me through the tasting process - first pour the vial of Gin directly over the ice and then taste. Next add some of the premium tonic water that had been provided and taste. Finally add the paired garnish and taste again - then enjoy the rest of the drink. This process was repeated for each of the 4 Gins.</p>
 
 <p>The night went quickly as we both enjoyed sitting in the balmy room down stairs sipping Gin. Later the waitress offered to move us upstairs where it was much cooler - so up we went - and enjoyed more Gin.</p>
 
-<p><img src="//assets/images/7efb0-image.jpg" alt="" /></p>
+<p><img src="/assets/images/7efb0-image.jpg" alt="" /></p>
 
-<p><img src="//assets/images/93cea-image.jpg" alt="" /></p>
+<p><img src="/assets/images/93cea-image.jpg" alt="" /></p>
 
 <p>Given we were flying he next day we wanted to avoid completely writing ourselves off. Not a good idea with an 18 month in tow - so after a few more drinks we called it a night and headed home - very happy with our evening out.</p>
 
 <p>I would really recommend anyone who enjoys the odd Gin to look this place up next time they are in Soho - well worth it.</p>
 
-<p><img src="//assets/images/51c44-image.jpg" alt="" /></p>
+<p><img src="/assets/images/51c44-image.jpg" alt="" /></p>
 
-<p><img src="//assets/images/035de-image.jpg" alt="" /></p>
+<p><img src="/assets/images/035de-image.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -677,10 +677,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>London and Bath</title>
-	  <link>//london-and-bath</link>
+	  <link>/london-and-bath</link>
 	  <author></author>
-	  <pubDate>2015-08-08T07:32:57+00:00</pubDate>
-	  <guid>//london-and-bath</guid>
+	  <pubDate>2015-08-08T17:32:57+10:00</pubDate>
+	  <guid>/london-and-bath</guid>
 	  <description><![CDATA[
 	     <p>So we arrived into London on Thursday afternoon (6th August) from Paris after catching the EuroStar train across the channel.</p>
 
@@ -696,15 +696,15 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>I feel like walking across the road to that house and setting a few things straight before we get started – Kensington Palace… who do they think they are…</p>
 
-<p><img src="//assets/images/de664-img.jpg" alt="" /></p>
+<p><img src="/assets/images/de664-img.jpg" alt="" /></p>
 
 <p>Well so it seems William and Kate are our neighbours – literally a misguided drop-punt would have your footy over their fence – I suspect Will would be a pretty good sport and kick it back however.</p>
 
-<p><img src="//assets/images/ee14b-img.jpg" alt="" /></p>
+<p><img src="/assets/images/ee14b-img.jpg" alt="" /></p>
 
 <p>So it appears we are not in a scrubby neighbourhood at all, but rather the Royal Borough of Kensington and Chelsea – the X-Trail would look rather ‘out-of-place’ here I can tell you. Most car bonnets seem to be emblazon with either a three-point-star, four joined hoops, a horse, a big B or R. I think you get my drift – not to many Toyota’s or Nissan’s.</p>
 
-<p><img src="//assets/images/97d0f-img.jpg" alt="" /></p>
+<p><img src="/assets/images/97d0f-img.jpg" alt="" /></p>
 
 <p>Most of the cars are pitch black, with drivers at the ready. Our street (Prince of Wales Terrace) seems to be some sort of a waiting bay – drivers come and sit in their expensive luxury cars, some get out and polish the duco back to an immaculate shine – all waiting for whoever they work for to call.</p>
 
@@ -712,7 +712,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>On the last two evenings we have enjoyed having a picnic dinner in Kensington Gardens, right at the back of the Palace – Archie has become quite fond of the ducks at the big pond.</p>
 
-<p><img src="//assets/images/0466a-img.jpg" alt="" /></p>
+<p><img src="/assets/images/0466a-img.jpg" alt="" /></p>
 
 <p>Yesterday (Friday), Laura, Jo, Archie and I all jumped on a regional train and headed for Bath. Mum had been there recently so she did her own thing in and around London for the day.</p>
 
@@ -720,11 +720,11 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Big old streets, white sandstone buildings, big blossoming gardens and all immaculately clean. We spent the whole day wandering around Bath – there is just so much to take in.</p>
 
-<p><img src="//assets/images/47615-img.jpg" alt="" /></p>
+<p><img src="/assets/images/47615-img.jpg" alt="" /></p>
 
 <p>Laura and Jo went to the Jane Austin house, while Archie and I went to check out the smallest pub in Bath and have a local pint. Small was right – no room to swing a cat, let along a pram. The pram got folded up and Archie and I sat on the remaining 2-seater table next to the bar (there were only 4 in total inside).</p>
 
-<p><img src="//assets/images/0e2bc-img.jpg" alt="" /></p>
+<p><img src="/assets/images/0e2bc-img.jpg" alt="" /></p>
 
 <p>After our (my) pint of local ale, we headed back to meet up with the girls and headed down to the river for some lunch.</p>
 
@@ -732,13 +732,13 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Today we set out reasonably early and caught the train to the Tower of London. Getting there early was a great plan – there was no queue and we went straight in. Laura and I missed the Tower of London last time we were here (2008), so had it on the list to see this time round. We spend a good hour or so wandering around the grounds, and Archie seemed to enjoy himself – entertaining the Beefeaters.</p>
 
-<p><img src="//assets/images/3aee6-img.jpg" alt="" /></p>
+<p><img src="/assets/images/3aee6-img.jpg" alt="" /></p>
 
 <p>Laura, Archie and I left Jo and Mum at the tower (not literally) – they had booked a show in the afternoon and we wanted to see a few more sights before heading home to get Archie off to bed for the afternoon.</p>
 
 <p>We caught the train up to Westminster – Saturdays in London in summer are full on. Tourists everywhere. Coming out of Westminster station we could hardly move. I think it took as about 25 min to get from the station, across the road to see Big Ben, across to Westminster itself before heading back toward St. James Garden – it was packed.</p>
 
-<p><img src="//assets/images/d4841-img.jpg" alt="" /></p>
+<p><img src="/assets/images/d4841-img.jpg" alt="" /></p>
 
 <p>The walk up through St. James garden was beautiful, and London turned on an incredible day for us to be out walking. We wandered up through the gardens to Buckingham Palace then continued on to Hyde Park Corner before diverting off to see Harrods.</p>
 
@@ -748,23 +748,23 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>Tomorrow we fly to New York!</p>
 
-<p><img src="//assets/images/49a2f-img_8275.jpg" alt="" /></p>
+<p><img src="/assets/images/49a2f-img_8275.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8e890-img_8292.jpg" alt="" /></p>
+<p><img src="/assets/images/8e890-img_8292.jpg" alt="" /></p>
 
-<p><img src="//assets/images/b30e8-img_8312.jpg" alt="" /></p>
+<p><img src="/assets/images/b30e8-img_8312.jpg" alt="" /></p>
 
-<p><img src="//assets/images/74d52-img_8317.jpg" alt="" /></p>
+<p><img src="/assets/images/74d52-img_8317.jpg" alt="" /></p>
 
-<p><img src="//assets/images/9b774-img_8369.jpg" alt="" /></p>
+<p><img src="/assets/images/9b774-img_8369.jpg" alt="" /></p>
 
-<p><img src="//assets/images/109cc-img_8442.jpg" alt="" /></p>
+<p><img src="/assets/images/109cc-img_8442.jpg" alt="" /></p>
 
-<p><img src="//assets/images/3e849-img_845628129.jpg" alt="" /></p>
+<p><img src="/assets/images/3e849-img_845628129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/aa85a-img_8456.jpg" alt="" /></p>
+<p><img src="/assets/images/aa85a-img_8456.jpg" alt="" /></p>
 
-<p><img src="//assets/images/c28f3-img_8482.jpg" alt="" /></p>
+<p><img src="/assets/images/c28f3-img_8482.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -772,10 +772,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>Exploring more of Paris</title>
-	  <link>//exploring-more-of-paris</link>
+	  <link>/exploring-more-of-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-05T09:26:53+00:00</pubDate>
-	  <guid>//exploring-more-of-paris</guid>
+	  <pubDate>2015-08-05T19:26:53+10:00</pubDate>
+	  <guid>/exploring-more-of-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.</p>
 
@@ -785,7 +785,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>It wasn’t long before the Eiffel Tower appeared from behind the many other tall buildings along the street - at least we were on track. A pleasant walk through some gardens brings us to the base of the tower - and its only 9:15am… We made it in pretty good time - only 20 busloads of people in front of us.</p>
 
-<p><img src="//assets/images/e24c6-img.jpg" alt="" /></p>
+<p><img src="/assets/images/e24c6-img.jpg" alt="" /></p>
 
 <p>After a brief group conference at the base of the tower - and based on the size of the line for the elevator, we decided to walk up the stairs - how bad could 669 stairs be after all?</p>
 
@@ -793,7 +793,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>A well-earned coffee while we looked out over Paris was that much more enjoyable having earned it by walking the stairs.</p>
 
-<p><img src="//assets/images/5eeea-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5eeea-img.jpg" alt="" /></p>
 
 <p>Not being an enthusiast of heights (in fact I hate them), level one of the tower was actually pretty easy - except for the glass flooring in the centre - which Archie seemed to be attracted to.</p>
 
@@ -805,31 +805,31 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We arrived back at the apartment just as the little man was waking up - a good hour of sleep under his belt, and just in time for lunch. For lunch, we decided to check out the Falafel bar about 5 doors down from the apartment - it was awesome. For 6.50 Euro we got a falafels, salads, cooked eggplant, hummus and yoghurt in a nice fresh pocket bread - it was absolutely beautiful… and for desert… 2 doors up… we sampled decadent éclairs from <a href="http://leclairdegenie.com">L’Eclair de Genie</a> - which as the name suggests - were magical. We had Chocolate, Strawberry and Pistachio, and Salted Caramel.</p>
 
-<p><img src="//assets/images/39845-img.jpg" alt="" /></p>
+<p><img src="/assets/images/39845-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ab853-img.jpg" alt="" /></p>
+<p><img src="/assets/images/ab853-img.jpg" alt="" /></p>
 
 <p>After lunch we headed out to the Jardin du Tuileries. Laura and Maddie headed to the Museum at the end of the gardens; while Archie and I sat in a restaurant beer garden under the trees and watched the people flow by. It was here I discovered Hoegaarden Rosee (regular Hoegaarden wasn’t available) - it’s a lighter version of Hoegaarden (3%) that is mixed with a red berry juice. I wasn’t quite sure what to expect - but it was actually quite refreshing on a warm afternoon.</p>
 
 <p>The girls got back from the museum and joined me (and Archie) for a few drinks at the restaurant in the park under the trees. It wasn’t long and the entire group was re-united when Mum and Jo came walking across the park and found us. From here we headed back home - we were done for the day.</p>
 
-<p><img src="//assets/images/c65e9-img.jpg" alt="" /></p>
+<p><img src="/assets/images/c65e9-img.jpg" alt="" /></p>
 
 <p>Back at the apartment we let Archie run around and play for a before heading out for dinner. The girls had found a nice secluded square a few streets down from where we were staying that was enclosed by 5 or 6 nice little restaurants. We sat down and ordered - tonight we had the dry sausage (two types of salami and prosciutto) as well as 3 types of cheese to start and then the girls all had a mixed grill, and I had the confit d’oie (goose) - which was delightful. It was my first time eating goose, and I will be back!</p>
 
 <p>We are now all sitting around the little table in the apartment. The girls are playing cards, and eating gelato - while I punch out another blog post and sip away at the last of the limoncello we were still carrying with us from Tuscany.</p>
 
-<p><img src="//assets/images/ea179-img_8127.jpg" alt="" /></p>
+<p><img src="/assets/images/ea179-img_8127.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2c3b8-img_8129.jpg" alt="" /></p>
+<p><img src="/assets/images/2c3b8-img_8129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/25c66-img_8142.jpg" alt="" /></p>
+<p><img src="/assets/images/25c66-img_8142.jpg" alt="" /></p>
 
-<p><img src="//assets/images/af6ed-img_8222.jpg" alt="" /></p>
+<p><img src="/assets/images/af6ed-img_8222.jpg" alt="" /></p>
 
-<p><img src="//assets/images/887d6-img_8230.jpg" alt="" /></p>
+<p><img src="/assets/images/887d6-img_8230.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fd1ca-img_8232.jpg" alt="" /></p>
+<p><img src="/assets/images/fd1ca-img_8232.jpg" alt="" /></p>
 
 
 	  ]]></description>
@@ -837,10 +837,10 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 	<item>
 	  <title>A big day in Paris</title>
-	  <link>//a-big-day-in-paris</link>
+	  <link>/a-big-day-in-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-04T07:59:07+00:00</pubDate>
-	  <guid>//a-big-day-in-paris</guid>
+	  <pubDate>2015-08-04T17:59:07+10:00</pubDate>
+	  <guid>/a-big-day-in-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been a very BIG day or us in and around Paris - and we are all knackered.</p>
 
@@ -858,9 +858,9 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>The gardens were what you would expect - immense, immaculate, and impressive. We wandered for hours.</p>
 
-<p><img src="//assets/images/c4f94-img.jpg" alt="" /></p>
+<p><img src="/assets/images/c4f94-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/4bf71-img.jpg" alt="" /></p>
+<p><img src="/assets/images/4bf71-img.jpg" alt="" /></p>
 
 <p>After leaving the Palace we decided to head back into town where we had passed a produce market to pick up some lunch before continuing back to the train station to figure out how to get to Monet’s garden. All a little wiry from the morning walking we decided maybe it would be best to get a Taxi - we expected was only about 10km away.</p>
 
@@ -872,7 +872,7 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>We decided to catch the train back into Paris and see some more of the sights. We got off at the Louvre station and walked around - only to discover the Louvre is closed on Tuesdays… another false start.</p>
 
-<p><img src="//assets/images/d7c03-img.jpg" alt="" /></p>
+<p><img src="/assets/images/d7c03-img.jpg" alt="" /></p>
 
 <p>From the Louvre we walked up to the Champs Elysee, and then onto the Arch De Triumph - which was a fair walk in the late afternoon after having already spent much of the morning walking through Versailles.</p>
 
@@ -882,25 +882,25 @@ Feature image sourced from <a href="https://stocksnap.io">https://stocksnap.io</
 
 <p>I expect we will all sleep well tonight.</p>
 
-<p><img src="//assets/images/94891-img_8041.jpg" alt="" /></p>
+<p><img src="/assets/images/94891-img_8041.jpg" alt="" /></p>
 
-<p><img src="//assets/images/15f4b-img_8045.jpg" alt="" /></p>
+<p><img src="/assets/images/15f4b-img_8045.jpg" alt="" /></p>
 
-<p><img src="//assets/images/4a5c8-img_8050.jpg" alt="" /></p>
+<p><img src="/assets/images/4a5c8-img_8050.jpg" alt="" /></p>
 
-<p><img src="//assets/images/8f48c-img_8053.jpg" alt="" /></p>
+<p><img src="/assets/images/8f48c-img_8053.jpg" alt="" /></p>
 
-<p><img src="//assets/images/33def-img_8058.jpg" alt="" /></p>
+<p><img src="/assets/images/33def-img_8058.jpg" alt="" /></p>
 
-<p><img src="//assets/images/3c1fa-img_8061.jpg" alt="" /></p>
+<p><img src="/assets/images/3c1fa-img_8061.jpg" alt="" /></p>
 
-<p><img src="//assets/images/23cc8-img_8068.jpg" alt="" /></p>
+<p><img src="/assets/images/23cc8-img_8068.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ae758-img_8079.jpg" alt="" /></p>
+<p><img src="/assets/images/ae758-img_8079.jpg" alt="" /></p>
 
-<p><img src="//assets/images/f6040-img_8080.jpg" alt="" /></p>
+<p><img src="/assets/images/f6040-img_8080.jpg" alt="" /></p>
 
-<p><img src="//assets/images/a586c-img_8110.jpg" alt="" /></p>
+<p><img src="/assets/images/a586c-img_8110.jpg" alt="" /></p>
 
 
 	  ]]></description>

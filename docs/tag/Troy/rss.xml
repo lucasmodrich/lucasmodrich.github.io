@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Turkey - The Wrap Up</title>
-	  <link>//turkey-the-wrap-up</link>
+	  <link>/turkey-the-wrap-up</link>
 	  <author></author>
-	  <pubDate>2012-05-27T06:41:51+00:00</pubDate>
-	  <guid>//turkey-the-wrap-up</guid>
+	  <pubDate>2012-05-27T16:41:51+10:00</pubDate>
+	  <guid>/turkey-the-wrap-up</guid>
 	  <description><![CDATA[
 	     <p>We still have a day and a half left in Istanbul. Other than our last minute shopping and revisiting the Bazaar’s we are winding down and getting ready to come home.</p>
 
@@ -42,10 +42,10 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 
 	<item>
 	  <title>Mythical Troy</title>
-	  <link>//mythical-troy</link>
+	  <link>/mythical-troy</link>
 	  <author></author>
-	  <pubDate>2012-05-24T13:45:33+00:00</pubDate>
-	  <guid>//mythical-troy</guid>
+	  <pubDate>2012-05-24T23:45:33+10:00</pubDate>
+	  <guid>/mythical-troy</guid>
 	  <description><![CDATA[
 	     <p>So after out day in Gallipoli, our tour takes us across the narrows of the Dardanelles to Canakkale which is in the Asian side of Turkey, an where we spend the night before heading of to nearby Troy (Troya) in the morning.</p>
 
@@ -63,15 +63,15 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 
 <p>All in all it was a very interesting tour. The only downside is the 6 hour bus ride back to Istanbul, which included the obligatory stop at the purpose built tourist trap buffet and shopping complex - glad we ate before we left 5TL for 2 Kebabs in Canakkale or 13TL each for crappy buffet in the middle of nowhere).</p>
 
-<p><img src="//assets/images/20120525-112106.jpg" alt="20120525-112106.jpg" /></p>
+<p><img src="/assets/images/20120525-112106.jpg" alt="20120525-112106.jpg" /></p>
 
-<p><img src="//assets/images/20120525-112120.jpg" alt="20120525-112120.jpg" /></p>
+<p><img src="/assets/images/20120525-112120.jpg" alt="20120525-112120.jpg" /></p>
 
-<p><img src="//assets/images/20120525-112131.jpg" alt="20120525-112131.jpg" /></p>
+<p><img src="/assets/images/20120525-112131.jpg" alt="20120525-112131.jpg" /></p>
 
-<p><img src="//assets/images/20120525-112157.jpg" alt="20120525-112157.jpg" /></p>
+<p><img src="/assets/images/20120525-112157.jpg" alt="20120525-112157.jpg" /></p>
 
-<p><img src="//assets/images/20120525-112028.jpg" alt="20120525-112028.jpg" /></p>
+<p><img src="/assets/images/20120525-112028.jpg" alt="20120525-112028.jpg" /></p>
 
 
 	  ]]></description>
@@ -79,10 +79,10 @@ The Princes Island is one of those curious sites. While you want to make sure yo
 
 	<item>
 	  <title>Preparing the Turkey - The lead up to our Istanbul trip</title>
-	  <link>//preparing-the-turkey-lead-up-to-istanbul-trip</link>
+	  <link>/preparing-the-turkey-lead-up-to-istanbul-trip</link>
 	  <author></author>
-	  <pubDate>2012-05-06T05:44:04+00:00</pubDate>
-	  <guid>//preparing-the-turkey-lead-up-to-istanbul-trip</guid>
+	  <pubDate>2012-05-06T15:44:04+10:00</pubDate>
+	  <guid>/preparing-the-turkey-lead-up-to-istanbul-trip</guid>
 	  <description><![CDATA[
 	     <p>So Laura and I will be heading off to Turkey in a few weeks.  While Laura has been to Turkey twice previously, this will put a tick in the “done” column on my travel bucket list.</p>
 

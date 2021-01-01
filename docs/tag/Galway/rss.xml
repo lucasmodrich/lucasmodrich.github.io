@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>All aboard the Paddy Wagon</title>
-	  <link>//all-aboard-the-paddy-wagon</link>
+	  <link>/all-aboard-the-paddy-wagon</link>
 	  <author></author>
-	  <pubDate>2008-06-04T23:31:36+00:00</pubDate>
-	  <guid>//all-aboard-the-paddy-wagon</guid>
+	  <pubDate>2008-06-05T09:31:36+10:00</pubDate>
+	  <guid>/all-aboard-the-paddy-wagon</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/ireland-guinness-sign.jpg" alt="" title="Ireland - Guinness sign" />
+	     <p><img src="/assets/images/ireland-guinness-sign.jpg" alt="" title="Ireland - Guinness sign" />
 Sorry it’s been a while since out last update, but it can be hectic on the road - never knowing when and where you will get a chance to have 5 minutes free to post a message or two (and I have to say touring in Ireland, with its many pubs does create a pretty big distraction :) ).</p>
 
 <p>Anyway - to start with, no one will believe us when we say that the weather in Ireland at the moment is bloody great - its actually sunny and hot - none of us expected to get sun burnt on the north coast of Ireland, but most of us did - it must have been at least 25-28c here - its been bloody great.</p>

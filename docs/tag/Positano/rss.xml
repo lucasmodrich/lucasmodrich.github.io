@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>Napoli, Sorrento and beyond</title>
-	  <link>//napoli-sorrento-and-beyond</link>
+	  <link>/napoli-sorrento-and-beyond</link>
 	  <author></author>
-	  <pubDate>2008-07-26T17:37:42+00:00</pubDate>
-	  <guid>//napoli-sorrento-and-beyond</guid>
+	  <pubDate>2008-07-27T03:37:42+10:00</pubDate>
+	  <guid>/napoli-sorrento-and-beyond</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/naples-city-streets.jpg" alt="" title="Naples - City Streets" />
+	     <p><img src="/assets/images/naples-city-streets.jpg" alt="" title="Naples - City Streets" />
 After our adventures in Rome, our next stop was Napoli.</p>
 
 <p>We headed to the Termini train station to reserve our seats - two seat reservations in 1st class came to 10 Euro.</p>
@@ -57,7 +57,7 @@ After our adventures in Rome, our next stop was Napoli.</p>
 
 <p>We verified that we had reached the correct platform and that we had the correct tickets - which made us feel a little better, but we were still a little unsettled by the fact that we had not picked up on what was going on. In hind sight, the man had actually helped us - although it was help we could have done without.</p>
 
-<p><img src="//assets/images/pompeii-body.jpg" alt="" title="Pompeii - Body" />
+<p><img src="/assets/images/pompeii-body.jpg" alt="" title="Pompeii - Body" />
 Once we got to Pompeii we had a fantastic day. Pompeii was dry, hot and dusty, with virtually no shade in the whole place.</p>
 
 <p>Unfortunately we don’t often travel on day trips with much ID (except photo copies of our passports) - this meant couldn’t get one of the audio guides that had been recommended to us by others at our hostel. This was a little disappointing, however we managed to get around most of the city (which is huge), and saw most of the main sights.</p>

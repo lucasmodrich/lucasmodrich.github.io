@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,12 +13,12 @@
    
 	<item>
 	  <title>A slow boat on the Aegean</title>
-	  <link>//a-slow-boat-on-the-aegean</link>
+	  <link>/a-slow-boat-on-the-aegean</link>
 	  <author></author>
-	  <pubDate>2008-06-12T21:52:18+00:00</pubDate>
-	  <guid>//a-slow-boat-on-the-aegean</guid>
+	  <pubDate>2008-06-13T07:52:18+10:00</pubDate>
+	  <guid>/a-slow-boat-on-the-aegean</guid>
 	  <description><![CDATA[
-	     <p><img src="//assets/images/greece-cruise.jpg" alt="" title="Greece - Cruise" />
+	     <p><img src="/assets/images/greece-cruise.jpg" alt="" title="Greece - Cruise" />
 Today we headed out early to catch a cruise around three of the Greek islands closest to Athens.</p>
 
 <p>Leaving port this morning at about 8.30am, the sun was up and had a fair sting in it - needless to say we took the opportunity to sit on the outer deck and soak up some of the fine rays.</p>
@@ -27,7 +27,7 @@ Today we headed out early to catch a cruise around three of the Greek islands cl
 
 <p>The cruise was just what we both needed - some time to it and do nothing for a while!</p>
 
-<p><img src="//assets/images/greek-island-swiming.jpg" alt="" title="Greek Island Swimming" />
+<p><img src="/assets/images/greek-island-swiming.jpg" alt="" title="Greek Island Swimming" />
 We spent some time on each of the islands, and managed to fit a swim in on the last two - in that beautiful clear water.</p>
 
 <p>Unfortunately Laura cut her foot while getting into the water at the second island - but we managed to find a local supermarket and add band aids and antiseptic spray to our current day pack first aid kit - oh and we patched her foot up in the process.</p>

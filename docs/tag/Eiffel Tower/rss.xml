@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>lucasmodrich.github.io/</title>
+      <title></title>
    
-   <link></link>
+   <link>http://localhost:4000</link>
    <description>Stories and experiences from our occasional travels</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Exploring more of Paris</title>
-	  <link>//exploring-more-of-paris</link>
+	  <link>/exploring-more-of-paris</link>
 	  <author></author>
-	  <pubDate>2015-08-05T09:26:53+00:00</pubDate>
-	  <guid>//exploring-more-of-paris</guid>
+	  <pubDate>2015-08-05T19:26:53+10:00</pubDate>
+	  <guid>/exploring-more-of-paris</guid>
 	  <description><![CDATA[
 	     <p>Today has been much hotter than yesterday - about 34c - and after the big day we had yesterday we decided to take it a little easier and just hit a few of the sights - with the Eiffel Tower the first on the list.</p>
 
@@ -26,7 +26,7 @@
 
 <p>It wasn’t long before the Eiffel Tower appeared from behind the many other tall buildings along the street - at least we were on track. A pleasant walk through some gardens brings us to the base of the tower - and its only 9:15am… We made it in pretty good time - only 20 busloads of people in front of us.</p>
 
-<p><img src="//assets/images/e24c6-img.jpg" alt="" /></p>
+<p><img src="/assets/images/e24c6-img.jpg" alt="" /></p>
 
 <p>After a brief group conference at the base of the tower - and based on the size of the line for the elevator, we decided to walk up the stairs - how bad could 669 stairs be after all?</p>
 
@@ -34,7 +34,7 @@
 
 <p>A well-earned coffee while we looked out over Paris was that much more enjoyable having earned it by walking the stairs.</p>
 
-<p><img src="//assets/images/5eeea-img.jpg" alt="" /></p>
+<p><img src="/assets/images/5eeea-img.jpg" alt="" /></p>
 
 <p>Not being an enthusiast of heights (in fact I hate them), level one of the tower was actually pretty easy - except for the glass flooring in the centre - which Archie seemed to be attracted to.</p>
 
@@ -46,31 +46,31 @@
 
 <p>We arrived back at the apartment just as the little man was waking up - a good hour of sleep under his belt, and just in time for lunch. For lunch, we decided to check out the Falafel bar about 5 doors down from the apartment - it was awesome. For 6.50 Euro we got a falafels, salads, cooked eggplant, hummus and yoghurt in a nice fresh pocket bread - it was absolutely beautiful… and for desert… 2 doors up… we sampled decadent éclairs from <a href="http://leclairdegenie.com">L’Eclair de Genie</a> - which as the name suggests - were magical. We had Chocolate, Strawberry and Pistachio, and Salted Caramel.</p>
 
-<p><img src="//assets/images/39845-img.jpg" alt="" /></p>
+<p><img src="/assets/images/39845-img.jpg" alt="" /></p>
 
-<p><img src="//assets/images/ab853-img.jpg" alt="" /></p>
+<p><img src="/assets/images/ab853-img.jpg" alt="" /></p>
 
 <p>After lunch we headed out to the Jardin du Tuileries. Laura and Maddie headed to the Museum at the end of the gardens; while Archie and I sat in a restaurant beer garden under the trees and watched the people flow by. It was here I discovered Hoegaarden Rosee (regular Hoegaarden wasn’t available) - it’s a lighter version of Hoegaarden (3%) that is mixed with a red berry juice. I wasn’t quite sure what to expect - but it was actually quite refreshing on a warm afternoon.</p>
 
 <p>The girls got back from the museum and joined me (and Archie) for a few drinks at the restaurant in the park under the trees. It wasn’t long and the entire group was re-united when Mum and Jo came walking across the park and found us. From here we headed back home - we were done for the day.</p>
 
-<p><img src="//assets/images/c65e9-img.jpg" alt="" /></p>
+<p><img src="/assets/images/c65e9-img.jpg" alt="" /></p>
 
 <p>Back at the apartment we let Archie run around and play for a before heading out for dinner. The girls had found a nice secluded square a few streets down from where we were staying that was enclosed by 5 or 6 nice little restaurants. We sat down and ordered - tonight we had the dry sausage (two types of salami and prosciutto) as well as 3 types of cheese to start and then the girls all had a mixed grill, and I had the confit d’oie (goose) - which was delightful. It was my first time eating goose, and I will be back!</p>
 
 <p>We are now all sitting around the little table in the apartment. The girls are playing cards, and eating gelato - while I punch out another blog post and sip away at the last of the limoncello we were still carrying with us from Tuscany.</p>
 
-<p><img src="//assets/images/ea179-img_8127.jpg" alt="" /></p>
+<p><img src="/assets/images/ea179-img_8127.jpg" alt="" /></p>
 
-<p><img src="//assets/images/2c3b8-img_8129.jpg" alt="" /></p>
+<p><img src="/assets/images/2c3b8-img_8129.jpg" alt="" /></p>
 
-<p><img src="//assets/images/25c66-img_8142.jpg" alt="" /></p>
+<p><img src="/assets/images/25c66-img_8142.jpg" alt="" /></p>
 
-<p><img src="//assets/images/af6ed-img_8222.jpg" alt="" /></p>
+<p><img src="/assets/images/af6ed-img_8222.jpg" alt="" /></p>
 
-<p><img src="//assets/images/887d6-img_8230.jpg" alt="" /></p>
+<p><img src="/assets/images/887d6-img_8230.jpg" alt="" /></p>
 
-<p><img src="//assets/images/fd1ca-img_8232.jpg" alt="" /></p>
+<p><img src="/assets/images/fd1ca-img_8232.jpg" alt="" /></p>
 
 
 	  ]]></description>
