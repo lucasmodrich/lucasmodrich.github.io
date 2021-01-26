@@ -7,3 +7,9 @@
 [submodule "themes/meghna-hugo"]
 	path = themes/meghna-hugo
 	url = https://github.com/themefisher/meghna-hugo.git
+[submodule "themes/hugo-assembly"]
+	path = themes/hugo-assembly
+	url = https://github.com/salsysd/hugo-assembly.git
+[submodule "themes/hugo-theme-massively"]
+	path = themes/hugo-theme-massively
+	url = https://github.com/curtistimson/hugo-theme-massively.git
