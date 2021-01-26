@@ -1,0 +1,12 @@
+author:
+  name: Lucas Modrich
+baseURL: https://example.com
+languageCode: en
+menu:
+  main:
+    - name: About
+      url: /about
+params:
+  description: Travel, Stories and Experiences...
+title: The Modrich Blog
+theme: Blogpaper

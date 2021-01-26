@@ -16,3 +16,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Blogpaper"]
+	path = themes/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper
