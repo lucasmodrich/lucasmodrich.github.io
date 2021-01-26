@@ -13,3 +13,6 @@
 [submodule "themes/hugo-theme-massively"]
 	path = themes/hugo-theme-massively
 	url = https://github.com/curtistimson/hugo-theme-massively.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
