@@ -1,3 +1,9 @@
 [submodule "hugo-casper3"]
 	path = hugo-casper3
 	url = https://github.com/jonathanjanssens/hugo-casper3.git
+[submodule "themes/persian-hugo"]
+	path = themes/persian-hugo
+	url = https://github.com/themefisher/persian-hugo.git
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git

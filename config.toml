@@ -1,4 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "http://lucasmodrich.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-casper3"
+defaultContentLanugage = "en"
+
+title = "The Modrich Blog"
+##theme = "hugo-casper3"
+##theme = "meghna-hugo"
+theme = "persian-hugo"
+publishDir = "docs"
+
+[params]
+  description = "Thoughts, things and life..."
+  author = "Lucas Modrich"
+  disableLanguageSwitchButton = true
+  
